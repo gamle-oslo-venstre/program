@@ -158,7 +158,7 @@ eksisterende bilveier for trafikk, begrense grønne busser i sentrum eller redus
 * styrke oppsøkende tjenester/utekontakt i bydelen
 * bidra til at flere menn jobber med barne- og ungdomstiltak som gode rollemodeller
 * ha en ordning for aktivitetsbuss for barn og unge, der idrett- og kulturlag kan busses til fritidsaktivitet
-* jobbe for et langsiktig samarbeid mellom familier som trenger ekstra oppfølging, for å sikre at alle barn i bydelen gjennomfører skoleløpet
+* jobbe for et langsiktig samarbeid mellom familier som trenger ekstra oppfølging, for å sikre at alle barn i bydelen gjennomfører skoleløpet og får en trygg oppvekst
 
 ## Barnevernet
 Gamle Oslo Venstre ønsker et barnevern som har tid og ressurser til å sette barnet i sentrum. Et godt barnevern er et barnevern som har tillit i befolkningen, og som har tid og mulighet til å gjøre gode undersøkelser og tiltak når det er nødvendig.
