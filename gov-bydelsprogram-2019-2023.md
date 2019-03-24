@@ -243,6 +243,7 @@ Vårt mål er at all trafikkvekst i Oslo skal tas med kollektiv, sykkel og gange
 * sikre tilgjengelighet til næringsområder og parkering for nødvendig varelevering og håndverkere, samt bevegelseshemmede
 * redusere den totale biltrafikken
 * prioritere brøyting og strøing av fortau, gangveier og gågater
+* oppgradere og utbedre Brugata og Grønlandsleiret etter modell fra Torggata
 
 ## Sykkelbyen Oslo
 
