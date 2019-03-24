@@ -313,6 +313,7 @@ Miljøkampen må være en felles innsats fra alle som bor i Oslo. Kommunen må s
 * forby vedfyring i peis og ikke rentbrennende ovner på dager med luftforurensing over grenseverdier
 * innføre en støtteordning for etablering av grønne tak og grønne vegger på eksisterende bygg
 * støtte borettslag til å implementere gode miljøtiltak som solcellepanel på tak og å dra nytte av overvann på tak
+* at det skal være alternativer til GjenbruksID ved gjenbruksstasjonene
 
 \newpage
 # Kapittel 3 - Kultur og næring
