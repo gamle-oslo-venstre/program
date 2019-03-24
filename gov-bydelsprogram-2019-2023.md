@@ -75,7 +75,7 @@ Gode lærere er det aller viktigste for elevenes læring. Venstres svar på utfo
 
 **Gamle Oslo Venstre vil**
 
-* gjøre det enklere å utsette eller fremskynde skolestart, og at Gamle Oslo kan være en foregående prosjekt bydel på dette området.
+* gjøre det enklere å utsette eller fremskynde skolestart.
 * legge til rette for at elever skal få hospitere i andre klassetrinn i fag der de ligger på et annet nivå enn eget klassetrinn
 * at kartleggingsprøver først og fremst skal benyttes som pedagogiske verktøy for å gi hvert barn faglige utfordringer på riktig nivå og identifisere eventuelle behov for tilrettelagt opplæring
 * utvide svømmeundervisningen slik at alle barn i bydelen lærer å svømme i løpet av barneskolen
