@@ -227,8 +227,8 @@ T-banen er grunnstammen i kollektivtrafikken i Oslo. T-banenettet må utvides fo
 
 **Gamle Oslo Venstre vil**
 
-* bygge ny sentrumstunnel fra Majorstua til Tøyen. Utrede alternativer til Ruters anbefalte trasevalg, blant annet et alternativ som treffer Øvre Grünerløkka, St. Hanshaugen og Bislett og et alternativ som treffer Øvre Grünerløkka, Ullevål Sykehus og Bislett. Traséen skal legges slik at Bislett stadion ikke står i fare for å måtte rives i byggeperioden.
-* øke kapasiteten og frekvensen på T-banenettet
+* øke kapasiteten og frekvensen på T-banenettet gjennom blant annet bygging av ny sentrumstunnel
+* utrede alternativer til Ruters anbefalte trasévalg, blant annet et alternativ som treffer Øvre Grünerløkka, St. Hanshaugen og Bislett og et alternativ som treffer Øvre Grünerløkka, Ullevål Sykehus og Bislett. Traséen skal legges slik at Bislett stadion ikke står i fare for å måtte rives i byggeperioden.
 
 ## En tilgjengelig by
 
