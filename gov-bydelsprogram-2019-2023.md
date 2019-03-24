@@ -306,7 +306,7 @@ Miljøkampen må være en felles innsats fra alle som bor i Oslo. Kommunen må s
 
 * at gjenvinningsstasjonene skal ha lengre åpningstider i bydelen
 * etablere flere gjenbruksstasjoner, øke kapasiteten for mobile gjenbruksstasjoner og hyppigheten for når de er tilgjengelige.
-* bevare eksisterende, og etablere nye, parsell-/kolonihager og skolehager
+* bevare eksisterende parsell-/kolonihager og skolehager
 * stille krav om kildesortering fra næringseiendom
 * ha mulighet for kildesortering i alle søppelkasser i bydelen
 * kreve avfallssug i nye større utbyggingsprosjekter i Gamle Oslo
