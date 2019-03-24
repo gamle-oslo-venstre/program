@@ -610,7 +610,7 @@ Gamle Oslo er en bydel med mye mangfold og mye av integreringen skjer på bydels
 * jobbe for økt foreldredeltakelse både i skolen og fritidsordninger
 * øke tilbudet om sommerjobber for ungdom i bydelen, spesielt rettet mot minoritetsungdom og forenkle ansettelsesprosessene for slike jobber
 * få til gode samarbeidsarenaer og dialog på tvers av bydelens minoritet- og majoritetsgrupper
-* ha en mangfoldsfestival i bydelen for å vise fram all den kulturelle rikdommen som er samlet i bydelen
+* arrangere mangfoldsdager i bydelen for å vise fram all den kulturelle rikdommen som er samlet i bydelen, og som kan bidra inn i skolen, barnehagen, sykehjem og andre tilbud til bydelens beboere.
 * jobbe for å etablere gode botrenings- og sikkerhetskurs for nyankomne
 
 \newpage
