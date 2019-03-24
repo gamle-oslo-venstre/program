@@ -484,7 +484,7 @@ Oslos innbyggere burde i større grad kunne være med å planlegge sin egen frem
 **Gamle Oslo Venstre vil**
 
 * gi bydelene mer myndighet over lokale plansaker, veier, trafikk og parkering
-* at alle store utviklingsprosjekter skal ha en forskningsbasert utredning og evaluering
+* at alle store utviklingsprosjekter skal ha en faglig utredning og evaluering
 * fortsatt la bydelene ha ansvaret for drift av barnehagene, og gi bydeler som ønsker det forvaltningsansvar for barnehagebygg
 * at bydelene skal rådføres før kommunen selger eller kjøper eiendom i bydelen
 
