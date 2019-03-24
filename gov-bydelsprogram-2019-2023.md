@@ -257,7 +257,7 @@ Oslo blir en stadig bedre sykkelby, men tempoet i utbygging av nye og bedre sykk
 * skilte flere gater og veier med prioritering for syklister, blant annet mot enveiskjøring
 * forbedre og utvide bysykkelordningen, med nedsatt aldersgrense til 16 år, kasse- og elsykkeltilbud,
 utvidet åpningstid og helårsdrift
-* sørge for at fremkommelighet for syklister og gående ved anleggsarbeid blir fokusert på i tråd med statlige retningslinjer
+* sørge for at fremkommelighet for syklister og gående ved anleggsarbeid blir bedre, med adskilte trasser i pressområder
 
 ## En miljøvennlig bilpolitikk
 
