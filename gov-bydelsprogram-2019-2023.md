@@ -56,7 +56,7 @@ norskopplæringen, og ha krav til fremgang i målene som settes for slik opplær
 * at elever som går i mottaksklasser skal ha en skoledag der de i størst mulig grad integreres
 med den øvrige elevmassen, og i større grad deltar i fellesfag
 * sørge for at elever med behov for det, får spesialundervisning av spesialpedagoger, og at
-tiltak settes inn så tidlig som mulig og som en integrert del av klassemiljøet
+tiltak settes inn så tidlig som mulig også som en integrert del av klassemiljøet
 * opprette flere plasser i Sommerskolen, og gjøre tilbudet kjent i bydelen
 * ikke tillate narkorazziaer eller kameraovervåkning i åpningstiden til skolen
 
