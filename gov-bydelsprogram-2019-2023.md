@@ -488,6 +488,7 @@ Oslos innbyggere burde i større grad kunne være med å planlegge sin egen frem
 * fortsatt la bydelene ha ansvaret for drift av barnehagene, og gi bydeler som ønsker det forvaltningsansvar for barnehagebygg
 * at bydelen skal rådføres før kommunen selger eller kjøper eiendom i bydelen
 * at den enkeltes syn på egen sak vektlegges i større grad når bydelen behandler saker som gjelder den enkelte
+* at brukermedvirkning skal være ivaretatt når bydelen utvikler sine tjenester
 
 \newpage
 # Kapittel 5 - Helse og sosial
