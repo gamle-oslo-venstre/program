@@ -81,7 +81,7 @@ Gode lærere er det aller viktigste for elevenes læring. Venstres svar på utfo
 * utvide svømmeundervisningen slik at alle barn i bydelen lærer å svømme i løpet av barneskolen
 * åpne for muligheten for å ha valgfag i flere fremmedspråk enn det som tilbys, blant annet de mest utbredte morsmålene i bydelen
 * at også ungdomsskoleelever skal kunne ta ut politisk fravær
-* sørge for at retten til plass på nærskolen er reell, også for elever med spesielle behov
+* sørge for at retten til plass på nærskolen er reell
 * åpne for et ekstra år med 11. klasse eller intensivkurs for de som ikke har bestått fag
 
 ## Aktivitetsskolen (SFO)
