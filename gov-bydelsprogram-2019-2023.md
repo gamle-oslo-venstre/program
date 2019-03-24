@@ -376,6 +376,7 @@ Bydel Gamle Oslo har de siste årene åpnet seg mot fjorden og tusenvis av nyinn
 * at fortettingen skjer på en måte som ivaretar bydelens historie og grønne friarealer
 * vektlegge universell utforming ved oppgradering av gater, parker og plasser, samt sikre fremkommelighet også om vinteren
 * ta godt vare på framkommelighet, hindre støyplager og bidra til folks trivsel mens utbygging pågår
+* jobbe for at større anleggsarbeid ses i sammenheng og bidra til redusere støy og plager for naboer så mye som mulig. hensynet til fotgjengere og syklister må ivaretas gjennom byggeperioder
 * redusere gjennomfartstrafikken i bydelen generelt, for eksempel ved å legge endestasjonen for enkelte av regionbussene (grønnebusser) til andre deler av byen som Helsfyr
 * stille strenge krav til utbygging og utvikling av fasader og uteområder
 * sørge for bærekraftig utnyttingsgrad på Ensjø og andre områder som bygges ut for sikre gode bomiljø
