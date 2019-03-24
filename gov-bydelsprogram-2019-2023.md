@@ -423,6 +423,9 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * at 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
 * at renhold, søppeltømming og toalettfasiliteter reflekterer behovet som skapes av det store antallet badegjester
 * sørge for en permanent broovergang fra Sukkerbiten eller Munchmuseet til Sørenga
+* at området rundt Sukkerbiten skal være en åpen, grønn og tilgjengelig plass, og at dersom det skal bygges et fotografihus eller annet må det oppfylle disse foregående kravene og i tillegg ha aktive fasader, ikke ha vegg mot veien og Hovedøya og antall kvadratmetre må ikke overstige gjeldende reguleringer
+* at det etableres offentlige toalettfasiliteter ved den nye badeplassen mellom Operaen og Sukkerbiten
+* at det vurderes etablering av et oppvarmet badeanlegg i området, slik de har i Helsinki
 
 ### På Grønland og Enerhaugen delbydeler vil Gamle Oslo Venstre
 * åpne Grønlandsområdet mer mot sjøen og binde den sammen med Bjørvika ved å transformere Galleri Oslo og gjøre den til en mindre dominerende barriere ved å sikre gjennomgang fra Grønland til Schweigaardsgate
