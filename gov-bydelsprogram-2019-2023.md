@@ -627,6 +627,7 @@ Knapphet på ressurser og særlig fokus på effektivisering merkes på de årlig
 * bruke digitalisering og automatisering aktivt til å redusere kommunens kostnader og øke kvaliteten på tjenestene
 * ha et godt system til å håndtere overtallighet i bydelen og raskt kunne flytte på ressurser fra et område til et annet.
 * at inntekter fra beboerparkeringsordningen tilfaller bydelen direkte
+* at innbyggernes personvern skal sikres
 
 ## En åpen og sterk bydel
 Demokrati handler om at vi kan velge våre representanter til et godt folkestyret. Barn og unge, eldre og småbarnsfamilier er de største brukerne bydelens tjenester. Det er derfor svært viktig at de har en reell påvirkningsmulighet til å medvirke politikken som påvirkes deres hverdag. Da er det også viktig at prosessene og beslutningen som tas i bydelen er transparente og lett å påvirke tidlig i prosessen.
