@@ -558,8 +558,8 @@ Alle skal være trygge i byen vår, spesielt der vi bor og ferdes til daglig. Ga
 
 **Gamle Oslo Venstre vil**
 
-* at Oslo kommune og politiet fortsetter samarbeidet om SaLTo for å bekjempe og forebygge rus og kriminalitet.
-* sikre at det er god belysning rundt parker, plasser og gater der folk ferdes å nattestid.
+* at Oslo kommune og politiet fortsetter samarbeidet om SaLTo for å bekjempe og forebygge rus og kriminalitet
+* sikre at det er god belysning rundt parker, plasser og gater der folk ferdes å nattestid
 * ha mer synlig natteravn
 * ha mer synlig politi som regelmessig patruljerer i gatene, særlig sentrumsnære strøk i bydelen
 * etablere sosiale og kulturelle møteplasser der en kan samles i trygge omgivelser
