@@ -337,6 +337,7 @@ Det er et høyt aktivitetsnivå på kulturfeltet i bydelen. Venstre vil at alle 
 Venstre mener at skjenkebevilling skal være lett å få, og lett å miste ved misbruk eller mislighold. Venstre ønsker seriøse og langsiktige aktører i utelivsbransjen i bydelen. Omsetning av alkohol skal foregå i ordnede former.
 
 **Gamle Oslo Venstre vil**
+
 * legge til rette for etablering av kafeer, utesteder og restauranter i nærområdene, inkludert alkoholfrie tilbud
 * at hele bydelen skal regnes som et skjenkeområde med skjenking inne til kl 03.00
 * bydelen selv skal ha retten til å bestemme over skjenkebevilgningen i hele bydelen
@@ -346,12 +347,12 @@ Venstre mener at skjenkebevilling skal være lett å få, og lett å miste ved m
 Frivilligheten samler folk i bydelens kultur- og samfunnsliv. Den bidrar til kunnskapsformidling og aktivitet. Venstre vil legge til rette for mer frivillighet.
 
 **Gamle Oslo Venstre vil**
+
 * gjøre det enklere å drive frivillige organisasjoner
 * styrke koordineringen av frivillighetsarbeidet i bydelen
 * tilby flere av bydelens lokaler til bruk av frivilligheten
 * satse spesielt på frivillige organisasjoner for ungdom
 * styrke frivillighet som møteplass for folk som står utenfor arbeidslivet
-* legge til rette for at frivillige organisasjoner kan tilby arbeidsledige oppgaver for å bygge deres kompetanse og tilfredsstille behovet for aktivitet
 * åpne bydelens skolebygg for alternativ bruk etter ordinær skoletid, slik som møtelokaler for lag og foreninger, privat undervisning, idrett eller kulturaktiviteter.
 * støtte frivillige organisasjoner som skaper møter mellom minoritets- og majoritetsbefolkningen
 
