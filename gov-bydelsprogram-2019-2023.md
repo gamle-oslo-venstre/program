@@ -389,6 +389,8 @@ Bydel Gamle Oslo har de siste årene åpnet seg mot fjorden og tusenvis av nyinn
 * kreve tidlig planlegging av nye skoler og barnehager ved større utbygginger for å sikre forutsigbarhet og nærhet for barn og foreldre
 * sikre gode kollektivtilbud, gang- og sykkelveier allerede fra tidlig etablering i nye boområder
 * bevare den historiske murhusbebyggelsen i bydelen
+* verne om "parkagrensa". Parker og grøntområder er under stort press for utbygging. Samtidig øker bruken i takt med befolkningsveksten. Parkene må aktiviseres og utvikles for å møte det økte behovet. Parkene må vernes mot utbygging og lysforholdene i parkene må ivaretas.
+* at parker skal bygges tidlig i utbyggingsfaser og ikke vente til slutt i byggeperiodene
 
 ## Delbydelsutvikling
 
