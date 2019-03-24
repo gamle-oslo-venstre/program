@@ -330,6 +330,8 @@ Det er et høyt aktivitetsnivå på kulturfeltet i bydelen. Venstre vil at alle 
 * jobbe for å opprette en kino i bydelen
 * tilrettelegge for flere kunstuttrykk i det offentlige rom, blant annet i samarbeid med skolene og andre offentlige institusjoner
 * sikre at bygget til Munchmuseet brukes til å utvikle et kulturmangfold tilgjengelig for alle i bydelen
+* jobbe for at Deichman i Bjørvika skal ha et tilbud godt tilpasset alle bydelens innbyggere, særlig de mellom 15 og 18 og de over 60, samtidig som det er et byomfattende tilbud
+* jobbe for at biblioteket på Tøyen fortsatt skal eksistere etter åpningen av Deichman i Bjørvika
 
 ## Uteliv
 Venstre mener at skjenkebevilling skal være lett å få, og lett å miste ved misbruk eller mislighold. Venstre ønsker seriøse og langsiktige aktører i utelivsbransjen i bydelen. Omsetning av alkohol skal foregå i ordnede former.
