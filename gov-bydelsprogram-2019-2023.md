@@ -169,7 +169,7 @@ Gamle Oslo Venstre ønsker et barnevern som har tid og ressurser til å sette ba
 * ha mer fokus på forebyggende arbeid i barnevernet, med aktiv samarbeid med familiene som trenger deres hjelp
 * styrke barns medvirkning i avgjørelser som angår dem og sikre at barnets beste blir ivaretatt
 * gjøre barnevernet mer tilgjengelig slik at barn og foreldre i bydelen får bedre kjennskap til sine rettigheter og hva barnevernet kan hjelpe dem med.
-* jobbe for en enda bedre flerkulturell forståelse, sikre annen nødvendig kompetanseheving i barnevernet
+* sikre nødvendig kompetanseheving i barnevernet og en enda bedre flerkulturell forståelse
 * sikre tilstrekkelig ressurser til godt ettervern
 * styrke fosterhjemstjenesten for å gi bedre støtte til fosterhjem og bedre rekrutteringen av
 fosterhjem, spesielt med flerkulturell bakgrunn
