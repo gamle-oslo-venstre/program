@@ -437,7 +437,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 
 ### På Etterstad, Ensjø og Vålerenga delbydeler vil Gamle Oslo Venstre
 * redusere hastigheten på Grenseveien og sikre bedre fortau og sykkelveier
-* gjøre Gladengveien og Ensjøveien tryggere for myke trafikanter ved å ytterligere redusere hastighet og gjennomkjøring
+* gjøre Gladengveien, Ensjøveien og Strømsveien tryggere for myke trafikanter ved å ytterligere redusere hastighet og gjennomkjøring
 * bygge et nytt kryss i skjæringen Gladengveien og Ensjøveien
 * gjøre det forbudt for biler å krysse bommen på Galgeberg som skaper mye trafikkgjennomgang gjennom Vålerenga.
 * sørge for at det blir regulert tilstrekkelig med barnehager, skoler og grøntarealer i nye boligområder som i Hovinbyen.
