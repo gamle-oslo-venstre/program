@@ -240,7 +240,6 @@ Vårt mål er at all trafikkvekst i Oslo skal tas med kollektiv, sykkel og gange
 * ha flere gågater, blant annet en sammenhengende gågate fra Kvadraturen til Grünerløkka, og en gågate fra Torggata til Grønland torg, etter modell fra Torggata
 * prioritere "shared space" i bygater, rundt skoler og i andre områder viktige for et godt nærmiljø, hvor fotgjengere prioriteres, biler har lav fart, og det er tydelig merket for syklister.
 * etablere flere handikapparkeringsplasser i bydelen og utstede midlertidige HC-kort til personer med midlertidige bevegelsesutfordringer
-* tillate biler med HC-kort å kjøre i kollektivgater i bydelen
 * sikre tilgjengelighet til næringsområder og parkering for nødvendig varelevering og håndverkere, samt bevegelseshemmede
 * redusere den totale biltrafikken
 * prioritere brøyting og strøing av fortau, gangveier og gågater
