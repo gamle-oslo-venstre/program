@@ -119,7 +119,7 @@ For å skape et godt psykososialt læringsmiljø for elevene er det nødvendig m
 * opprette en digital skolehelsetjeneste
 * styrke utekontaktens arbeid blant utsatt ungdom, både på skolene i bydelen og på andre arenaer hvor ungdommen oppholder seg.
 * ansette miljøarbeidere på flere av bydelens skoler for å motarbeide frafall, dårlig miljø og kriminalitet
-* øke antall årsverk, rekruttere menn til skolehelsetjenesten i skolehelsetjenesten og også åpne opp for at andre yrkesgrupper som bydelens psykologer, sosionomer og idrettspedagoger kan bli ansatt
+* øke antall årsverk, rekruttere menn til skolehelsetjenesten, og åpne opp for at andre yrkesgrupper som bydelens psykologer, sosionomer og fysioterapeuter kan bli ansatt
 
 ## Barnehage
 Gamle Oslo Venstre er opptatt av et mangfold i barnehagetilbudet, slik at du kan velge et tilbud både når det gjelder innhold og åpningstid, som passer for deg og din hverdag og der ditt barn trives. Tilstrekkelig med kompetente ansatte, gode uteområder og variasjon i aktivitetstilbudet til barna er viktig for sikre høy kvalitet på barnehagene våre uansett hvem som leverer tjenestene.
