@@ -514,7 +514,7 @@ De lokale helsetjenestene skal være gode og tilgjengelige for alle. Samtidig sk
 * at frisklivssentralen skal ha go kapasitet og fungere som en lavterskel informasjons- og rådgivningstjeneste for alle som har behov for det
 * styrke Gamle Oslos helsestasjon for ungdom og gjøre seg synlig i skolene bydelen
 * styrke bydelsoverlegenes rolle som medisinskfaglig leder for helse- og omsorgstjenestene på bydelsnivå
-* sikre at alle borgere har tilgang til fastlege
+* sikre at alle innbyggere har tilgang til fastlege
 * Sikre tilgang til lavterskeltilbud av primære helsetjenester i bydelen for papirløse og rusavhengige uten fast bopel.
 
 ## Psykisk helse
@@ -577,7 +577,7 @@ Vold i nære relasjoner forekommer i alle samfunnslag og blant alle aldersgruppe
 * at det skal arrangeres kurs for ansatte i skole, barnehage, helsestasjon og tannhelsetjeneste om forholdet mellom taushetsplikt og avvergeplikt, og om hvordan vold kan avdekkes og følges opp
 
 ## Fattigdom
-Gamle Oslo er en bydel med store forskjeller og en sammensatt befolkning av fattige og rike borgere. Gamle Oslo Venstre ønsker å forbedre tilbudet til fattige i bydelen ved å forenkle dagens byråkratiske system for ulike støtteordninger, og gjøre det enklere for folk som sliter med å få god, individuell behandling og oppfølging. Frivillige organisasjoner og engasjerte innbyggere spiller en avgjørende rolle, og må sikres gode rammevilkår.
+Gamle Oslo er en bydel med store forskjeller og en sammensatt befolkning av fattige og rike innbyggere. Gamle Oslo Venstre ønsker å forbedre tilbudet til fattige i bydelen ved å forenkle dagens byråkratiske system for ulike støtteordninger, og gjøre det enklere for folk som sliter med å få god, individuell behandling og oppfølging. Frivillige organisasjoner og engasjerte innbyggere spiller en avgjørende rolle, og må sikres gode rammevilkår.
 
 **Gamle Oslo Venstre vil**
 
