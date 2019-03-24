@@ -261,7 +261,7 @@ utvidet åpningstid og helårsdrift
 
 ## En miljøvennlig bilpolitikk
 
-Den raske fremveksten av elbiler løser mange av miljøproblemene med biltrafikk, men ikke trafikkproblemer og støy/svevestøv fra store innfartsårer. Venstre vil derfor redusere den totale biltrafikken i Oslo. Der gateparkering fjernes skal det være for å tilrettelegge for syklister, gående eller kollektivtrafikk, eller for å få økt byliv. Parkeringsplasser skal ikke fjernes uten gode begrunnelser.
+Gamle Oslo har mye gjennomgangstrakk, dette gir både trafikale utfordring, støyforurensing og redusert luftkvalitet. Gamle Oslo Venstre vil derfor redusere den totale biltrafikken. Der gateparkering fjernes skal det være for å tilrettelegge for gående, syklister eller kollektivtrafikk, eller for å få økt byliv.
 
 **Gamle Oslo Venstre vil**
 
