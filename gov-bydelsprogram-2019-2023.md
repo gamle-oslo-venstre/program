@@ -523,7 +523,6 @@ Mennesker med psykiske plager har ulik behov for hjelp, og hjelpetilbudet må de
 **Gamle Oslo Venstre vil**
 
 * legge til rette for et lavterskeltilbud i bydelen der et er mulig å få psykisk helsehjelp uten krav om henvisning fra fastlegen
-* videreutvikle tilbudet Arena for ungdom og gjøre drive mer oppsøkende hjelp rettet mot ungdom, skolene er bekymret for
 * kreve at helseforetakene utarbeider en jevnlig oppdatert liste over ventelistene hos de ulike psykologer/psykiatere i Oslo, og gjøre bydelens beboere kjent med hvor de selv kan undersøke ventelister og søke behandling
 * tilby lavterskel samtaletilbud med psykiatrisk sykepleier i bydelen, organisert i tilknytning til frisklivssentralen og/eller helsestasjon
 * gi pasienter med kombinerte rus- og psykiske problemer integrert behandling for begge lidelser
