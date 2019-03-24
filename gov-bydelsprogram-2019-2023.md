@@ -102,6 +102,7 @@ Vi har flere videregående skoler plassert i bydelen vår som er viktig for tilb
 * beholde fritt skolevalg slik at elever fortsatt kan velge skole basert på interesser og ikke låses basert på postnummeret til foreldrene sine.
 * styrke bydelens arbeid mot frafall fra videregående opplæring (med oppsøkende arbeid).
 * sørge for kommunal finansiering av skolehelsetjeneste på videregående nivå, slik at tilbudet sikres å være iht skolens behov og ikke budsjettmodeller gjennom bydelen som ikke gjenspeiler elev massens størrelse.
+* styrke Osloskolens arbeid med frafall og samarbeide med bydelen om andre tjenester og oppfølging til elever som står i fare for å falle ut av skolen.
 
 **For yrkesfagene vil Gamle Oslo Venstre**
 
