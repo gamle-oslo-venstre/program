@@ -47,7 +47,7 @@ Gamle Oslo Venstre vil ha en friere skole hvor hva du lærer er viktigere enn hv
 * at alle skoleveier skal være trygge og at det tilrettelegges for sykling til skolen.
 * vil legge til rette for at bydel, lokalt næringsliv og idrettslag inngår forpliktende samarbeid med skolene i nærområdet for å hindre fravær på barne- og ungdomstrinnet og frafall fra videregående opplæring.
 * ha nulltoleranse mot mobbing i skolen
-* sette krav om kompetanse innen karriereveiledning og flerkulturell kompetanse for rådgivere i skolen
+* sette krav om kompetanse innen karriereveiledning og flerkulturell kompetanse må også veie tungt for rådgivere i skolen
 * styrke Friluftssenteret i Gamle Oslo (FRIGO), og øke dens samarbeid med bydelens skoler.
 * sikre at skolene i bydelen skal være åpne for frivillige aktører og andre som ønsker å lage
 aktivitetstilbud til barn og unge
