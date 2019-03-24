@@ -400,6 +400,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * følge opp Nasjonalteaterets ombygging av Munch-museet så det blir en inkluderende kulturmøteplass for hele byen på Tøyen
 * videreutvikle Tøyen som nærmiljø utover tiltakene som ligger i Tøyenløftet
 * legge grøntlokk over Finnmarksgata
+* sikre grøntområder i utbyggingen rundt nye Jordal
 
 ### I Kværnerbyen delbydel vil Gamle Oslo Venstre
 * jobbe for å flytte lokomotivverkstedet og togvasken i Kværnerdalen ut av byen
