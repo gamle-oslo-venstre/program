@@ -353,7 +353,7 @@ Frivilligheten samler folk i bydelens kultur- og samfunnsliv. Den bidrar til kun
 * tilby flere av bydelens lokaler til bruk av frivilligheten
 * satse spesielt på frivillige organisasjoner for ungdom
 * styrke frivillighet som møteplass for folk som står utenfor arbeidslivet
-* åpne bydelens skolebygg for alternativ bruk etter ordinær skoletid, slik som møtelokaler for lag og foreninger, privat undervisning, idrett eller kulturaktiviteter.
+* åpne bydelens skolebygg for alternativ bruk etter ordinær skoletid, slik som møtelokaler for lag og foreninger, privat undervisning, idrett eller kulturaktiviteter, etter modell fra meråpne bibliotek
 * støtte frivillige organisasjoner som skaper møter mellom minoritets- og majoritetsbefolkningen
 
 ## Idrett for alle
