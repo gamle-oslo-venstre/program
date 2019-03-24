@@ -514,7 +514,6 @@ De lokale helsetjenestene skal være gode og tilgjengelige for alle. Samtidig sk
 * at frisklivssentralen skal ha go kapasitet og fungere som en lavterskel informasjons- og rådgivningstjeneste for alle som har behov for det
 * styrke Gamle Oslos helsestasjon for ungdom og gjøre seg synlig i skolene bydelen
 * styrke bydelsoverlegenes rolle som medisinskfaglig leder for helse- og omsorgstjenestene på bydelsnivå
-* bedre organisering og drift av hjemmetjenesten i bydelen
 * sikre at alle borgere har tilgang til fastlege
 * Sikre tilgang til lavterskeltilbud av primære helsetjenester i bydelen for papirløse og rusavhengige uten fast bopel.
 
