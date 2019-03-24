@@ -325,7 +325,7 @@ Det er et høyt aktivitetsnivå på kulturfeltet i bydelen. Venstre vil at alle 
 * ha større samarbeid mellom kulturaktører og skoler
 * jobbe for at bydelen skal være attraktiv for kulturvirksomhet og kunstnere
 * opprettholde og styrke bydelens ungdomsklubber og alkoholfrie arrangementer på helg og kveldstid
-* utvide aldersgrensen og åpningstiden på Tøyen Biblio så flere barn har tilgang til dette tilbudet
+* utvide åpningstiden på Tøyen Biblio så flere barn har tilgang til dette tilbudet
 * støtte videreutvikling av alternativ informasjonsutveksling som appen Ung i BGO
 * støtte videreutvikling av Øyafestivalen og Miniøya i Tøyenparken, samt sikre at festivalen forblir i bydelen
 * jobbe for å opprette en kino i bydelen
