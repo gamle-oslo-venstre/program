@@ -103,6 +103,7 @@ Vi har flere videregående skoler plassert i bydelen vår som er viktig for tilb
 * styrke bydelens arbeid mot frafall fra videregående opplæring (med oppsøkende arbeid).
 * sørge for kommunal finansiering av skolehelsetjeneste på videregående nivå, slik at tilbudet sikres å være iht skolens behov og ikke budsjettmodeller gjennom bydelen som ikke gjenspeiler elev massens størrelse.
 * styrke Osloskolens arbeid med frafall og samarbeide med bydelen om andre tjenester og oppfølging til elever som står i fare for å falle ut av skolen.
+* opprette gjennomføringsteam i bydelen som skal bidra til at elever som står i fare for å falle ut av skolen skal få bedre hjelp til å gjennomføre ungdomsskole og videregående opplæring
 
 **For yrkesfagene vil Gamle Oslo Venstre**
 
