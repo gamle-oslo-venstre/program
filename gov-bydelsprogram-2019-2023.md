@@ -136,7 +136,7 @@ norskferdigheter
 * sette i verk tiltak for å sikre et godt barnehage/hjem-samarbeid med fokus på tidlig innsats og jobbe for at flere velger å la barna sine gå i barnehage
 * sikre kvalitet i alle barnehager, kommunale som private, ved at hver enkelt barnehage har nok kompetente ansatte gjennom pedagog-og bemanningsnorm, tilstedeværende leder, vikar ved behov og godt vedlikehold av bygningsmasse og utearealer
 * legge til rette for et mangfoldig tilbud av type barnehager, slik at foreldre kan velge barnehageplass også ut fra barnehagens profil
-* opprette en sentral pott der barnehager kan søke om midler til nye lekeapparater og generell oppgradering av uteområdene
+* sette av minst 1 million i året til oppgradering av lekeapparater og uteområder i barnehagene i bydelen.
 * innføre opplæring i grensesetting og seksualitet fra og med barnehagen
 
 ## Nærmiljø og oppvekst
