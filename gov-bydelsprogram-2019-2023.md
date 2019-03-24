@@ -237,7 +237,7 @@ Vårt mål er at all trafikkvekst i Oslo skal tas med kollektiv, sykkel og gange
 **Gamle Oslo Venstre vil**
 
 * prioritere gående og syklende ved utforming av bygater
-* ha flere gågater, blant annet en sammenhengende gågate fra Kvadraturen til Grünerløkka, og en gågate i deler av Grønlandsleiret
+* ha flere gågater, blant annet en sammenhengende gågate fra Kvadraturen til Grünerløkka, og en gågate fra Torggata til Grønland torg, etter modell fra Torggata
 * prioritere "shared space" i bygater, rundt skoler og i andre områder viktige for et godt nærmiljø, hvor fotgjengere prioriteres, biler har lav fart, og det er tydelig merket for syklister.
 * etablere flere HC-plasser i bydelen og utstede midlertidige HC-kort til personer med midlertidige bevegelsesutfordringer
 * tillate biler med HC-kort å kjøre i kollektivgater i bydelen
