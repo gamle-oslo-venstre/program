@@ -563,6 +563,7 @@ Alle skal være trygge i byen vår, spesielt der vi bor og ferdes til daglig. Ga
 * ha mer synlig natteravn
 * ha mer synlig politi som regelmessig patruljerer i gatene, særlig sentrumsnære strøk i bydelen
 * etablere sosiale og kulturelle møteplasser der en kan samles i trygge omgivelser
+* sørge for tilbud til eldre som gjør det lettere å delta i samfunnslivet, for eksempel ved samlokalisering av tilbud til eldre og andre grupper
 
 ## Vold i nære relasjoner
 Vold i nære relasjoner forekommer i alle samfunnslag og blant alle aldersgrupper, og på tross av økt kunnskap om og økt fokus på vold i nære relasjoner. Å avdekke slik vold i nære relasjoner, er utfordrende og man må sikre god kompetanse på området for å motarbeide og gripe tak der vold avdekkes
