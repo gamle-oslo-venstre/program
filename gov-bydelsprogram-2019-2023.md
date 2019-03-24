@@ -116,8 +116,6 @@ For å skape et godt psykososialt læringsmiljø for elevene er det nødvendig m
 
 * gi skolehelsetjenesten mulighet til å dokumentere gyldig fravær
 * gi tilgang til psykolog gjennom skolehelsetjenesten i tett samarbeid med bydelens psykolog tilbud.
-* at skolehelsetjenesten på videregående nivå skal organiseres og finansieres gjennom
-kommunen sentralt og ikke gjennom bydelen
 * opprette en digital skolehelsetjeneste
 * ansette miljøarbeidere på flere av bydelens skoler for å motarbeide frafall, dårlig miljø og kriminalitet
 * øke antall årsverk, rekruttere menn til skolehelsetjenesten i skolehelsetjenesten og også åpne opp for at andre yrkesgrupper som bydelens psykologer, sosionomer og idrettspedagoger kan bli ansatt
