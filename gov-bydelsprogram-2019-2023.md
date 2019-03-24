@@ -560,7 +560,6 @@ Alle skal være trygge i byen vår, spesielt der vi bor og ferdes til daglig. Ga
 
 * at Oslo kommune og politiet fortsetter samarbeidet om SaLTo for å bekjempe og forebygge rus og kriminalitet
 * sikre at det er god belysning rundt parker, plasser og gater der folk ferdes å nattestid
-* ha mer synlig natteravn
 * ha mer synlig politi som regelmessig patruljerer i gatene, særlig sentrumsnære strøk i bydelen
 * etablere sosiale og kulturelle møteplasser der en kan samles i trygge omgivelser
 * sørge for tilbud til eldre som gjør det lettere å delta i samfunnslivet, for eksempel ved samlokalisering av tilbud til eldre og andre grupper
