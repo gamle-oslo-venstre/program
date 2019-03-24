@@ -595,7 +595,7 @@ NAV er vårt viktigste instans for å få flere i arbeid og forhindre utenforska
 * ha tett samarbeid mellom NAV-kontorene så de kan jobbe på tvers med den enkelte bruker ( f.eks ved avklaring av botilbud og tilgjengelighet i andre bydeler enn de er bosatt)
 * ha som mål at de som henvender seg til NAV i Gamle Oslo for hjelp, skal være i dialog med en veileder innen 48 timer
 * ha tett samarbeidet mellom næringslivet i bydelen, NAV og bydelskontoret for å få flere ut på arbeidspraksis, slik at færre står utenfor arbeidslivet, og på den måten sikre at flest mulig personer i bydelen er i aktivitet.
-* ha gode ordninger for nye gründervirksomheter i gamle Oslo, slik at de kan sysselsette flere lokalt i bydelen.
+* ha gode ordninger for nye gründervirksomheter i Gamle Oslo, slik at de kan sysselsette flere lokalt i bydelen.
 * trekke inn også frivillige organisasjoner slik at de uten aktivitet kan bidra med ulike praksis i disse organisasjonene som godkjent aktivitet.
 * jobbe for et storbytillegg på sosialstønaden i hele Oslo, og ha Gamle Oslo som første bydel til å prøve ut dette.
 * styrke ordningen med brukerstyrt personlig assistent (BPA)
