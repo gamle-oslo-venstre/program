@@ -270,7 +270,7 @@ Den raske fremveksten av elbiler løser mange av miljøproblemene med biltrafikk
 * tilrettelegge tomter for etablering av hurtiglading
 * gå mot store nye motorveiutbygginger inn mot Oslo dersom de øker biltrafikken, og kreve høye rushtidsavgifter og prioritering av kollektiv på eventuelle utbygginger
 * videreføre ordningen med beboerparkering og inkludere elbiler i ordningen til en redusert pris
-* tilrettelegge for at flere av Oslos bilister benytter bildelingsordning hel er enn å eie egen bil
+* tilrettelegge for at flere av Oslos bilister benytter bildelingsordning heller enn å eie egen bil
 * rense utslipp fra biltunnelene i bydelen
 
 ## Nullutslippsbydelen
