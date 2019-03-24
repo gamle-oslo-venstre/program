@@ -182,7 +182,7 @@ For studenter er det viktig å få et rimelig sted å bo og Gamle Oslo Venstre v
 * jobbe for at det bygges nok studentboliger i Oslo og at flere boliger blir plassert i Gamle Oslo bydel.
 * tilby flere studierelevante praksisplasser i bydelens tjenesteområder.
 * bidra til gode vilkår for studentkultur og studenttilbud
-* bedre studentidrettens tilgang på anlegg i bydelen
+* bedre studentidrettens tilgang på anlegg i bydelen uten at det går ut over barne- og ungdomsidretten
 * jobbe for at veksthus og andre utdanningsrelaterte institusjoner etablerer seg i bydelen der det er hensiktsmessig.
 
 \newpage
