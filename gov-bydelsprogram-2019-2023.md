@@ -271,6 +271,7 @@ Den raske fremveksten av elbiler løser mange av miljøproblemene med biltrafikk
 * gå mot store nye motorveiutbygginger inn mot Oslo dersom de øker biltrafikken, og kreve høye rushtidsavgifter og prioritering av kollektiv på eventuelle utbygginger
 * videreføre ordningen med beboerparkering og inkludere elbiler i ordningen til en redusert pris
 * tilrettelegge for at flere av Oslos bilister benytter bildelingsordning hel er enn å eie egen bil
+* rense utslipp fra biltunnelene i bydelen
 
 ## Nullutslippsbydelen
 Global oppvarming er den største utfordringen verden står overfor. Selv om løsningene er globale, ønsker Venstre at Gamle Oslo skal gå foran som et godt eksempel på hvordan det er mulig å redusere klimagassutslipp samtidig som byen blir bedre å bo i.
