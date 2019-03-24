@@ -502,7 +502,6 @@ I våre første leveår er vi ekstra sårbare. Derfor er det ekstra viktig å s�
 * sørge for at alle barn får oppfølging fra helsestasjon i første leveårene
 * samlokalisere kommunale tjenester for barn på ett sted, slik som åpen barnehage, fysioterapi, lege, psykolog, barnevern og barselgruppe
 * sikre språksjekk ved 4-års alder av barn på helsestasjoner
-* styrke frivillige organisasjoners arbeid med familier der barna ikke går i barnehage
 * at alle gravide skal kunne tilbys regelmessig oppfølging hos jordmor, og ekstra rådgivning/oppfølging ved behov
 * at helsestasjonene skal kunne tilby veiledning med jordmor og/eller helsesøster hjemme i barseltiden
 * at helsestasjonene sikrer god ettervern og oppfølging av kvinner rett etter fødsel, med kvinnehelse i fokus
