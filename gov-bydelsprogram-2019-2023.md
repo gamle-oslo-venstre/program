@@ -202,7 +202,6 @@ Sykkel, gange, nærings- og kollektivtransport skal prioriteres foran personbile
 * at bysykkelstasjoner skal være på plass i nye boområder allerede når de første beboerne flytter inn
 * arbeide for sammenhengende bussruter som knytter bydelen bedre sammen, eksempelvis på Hovinbyen
 * jobbe for hyppigere kollektivavganger, også nattestid
-* etablere nytt fergeanløp i Bjørvika for Ruters Oslo-båter
 
 ## Kollektivtransport
 
@@ -406,7 +405,6 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 ### I Bispevika delbydel vil Gamle Oslo Venstre
 * etablere en bussrute som gir besøkende og beboere tilgang til offentlig transport, på Sørenga i første omgang.
 * etablere et grøntlokk med sykkeltrasé over jernbanelinjene ved Oslo S for å skape en sammenhengende park mot Middelalderparken og en bedre kobling mot Grønland
-* etablere en fergeanløp for Ruters Oslo-båter for å knytte hele fjordbyen sammen via kollektivtrafikk
 * tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb, seiling og vindsurfing
 * få på plass en grunnskole på Sørenga
 * at fritidsanlegg som har blitt neglisjert raskest mulig blir istandsatt og vedlikeholdt
