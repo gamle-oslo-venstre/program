@@ -443,7 +443,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * sørge for at det blir regulert tilstrekkelig med barnehager, skoler og grøntarealer i nye boligområder som i Hovinbyen.
 * bedre trafikkforbindelsen mellom Bryn og Carl Berners plass med trikk i Østensjøveien/Grenseveien
 * tilrettelegge for flere elbilparkeringsplasser på Valle, Lilleberg og Malerhaugen
-* jobbe for at gjenstående tomter på Ensjø blir utviklet, ved å ivareta og sikre et godt lokalmiljø
+* jobbe for at gjenstående tomter på Ensjø blir utviklet, ved å ivareta og sikre et grønt og åpent lokalmiljø med rom for møteplasser.
 * knytte Hovinbyen sammen med Østmarka ved hjelp av et grøntdrag
 * flytte Tøyen togstasjon til Ensjø
 * sikre at det strøs og måkes på trapper på ulike bydeler for å sikre fremkommelighet på vinteren.
