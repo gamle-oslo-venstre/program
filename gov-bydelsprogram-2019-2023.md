@@ -58,7 +58,7 @@ med den øvrige elevmassen, og i større grad deltar i fellesfag
 * sørge for at elever med behov for det, får spesialundervisning av spesialpedagoger, og at
 tiltak settes inn så tidlig som mulig også som en integrert del av klassemiljøet
 * opprette flere plasser i Sommerskolen, og gjøre tilbudet kjent i bydelen
-* ikke tillate narkorazziaer eller kameraovervåkning i åpningstiden til skolen
+* ikke tillate narkorazziaer eller kameraovervåkning mens barna er på skolen
 
 ## Læreren
 Gode lærere er det aller viktigste for elevenes læring. Venstres svar på utfordringene i Osloskolen er å sikre høy kompetanse og bedre vilkår for lærerne og skolelederne, styrke grunnskolen som allmenndannende del av skoleløpet.
