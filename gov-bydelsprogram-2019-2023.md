@@ -84,6 +84,7 @@ Gode lærere er det aller viktigste for elevenes læring. Venstres svar på utfo
 * sørge for at retten til plass på nærskolen er reell
 * åpne for et ekstra skoleår mellom ungdomsskolen og videregående for å kvalifisere flere til vgs ved Jordal ungdomsskole
 * lage tilbud med intensivkurs for elever som ønsker å styrke kunnskapene sine i enkeltfag før videregående opplæring
+* sørge for raskere ferdigstillelse av barne- og ungdomsskole på Sørenga, med bredt opptak fra bydelen
 
 ## Aktivitetsskolen (SFO)
 Aktivitetsskolen er et viktig tilbud for mange elever, og det bør derfor være tilgjengelig for flere. Spesielt viktig er det å øke deltakelsen i AKS blant de elevene som trenger mer oppfølging og trening i ferdigheter.
