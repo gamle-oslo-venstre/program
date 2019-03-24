@@ -401,6 +401,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * videreutvikle Tøyen som nærmiljø utover tiltakene som ligger i Tøyenløftet
 * legge grøntlokk over Finnmarksgata
 * sikre grøntområder i utbyggingen rundt nye Jordal
+* sørge for at planleggingen ac 60-bussens trasé over Kampen ivaretar innspill fra beboere i forbindelse med at Thorbjørn Egners plass blir bilfri
 
 ### I Kværnerbyen delbydel vil Gamle Oslo Venstre
 * jobbe for å flytte lokomotivverkstedet og togvasken i Kværnerdalen ut av byen
