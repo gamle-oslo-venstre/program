@@ -219,6 +219,7 @@ gateparkering og gjennomkjøring, samt opprette kollektivgater
 * sikre universell  utforming av kollektivtilbudet, både av transportmidlene og holdeplassene slik at alle, uansett funksjonsevne, skal kunne reise miljøvennlig
 * 20-bussen skal gå hele veien til Kværnerbyen/svartdalsparken, via Dahlhaugs- og enebakkveien slik at svartdalsparken og området blir lettere tilgjengelig for bydelen.
 * opprettholde og forlenge eksisterende trikkelinjer, deriblant beholde trikken i Schweigaardsgate og opprette ny linje gjennom Galgeberg til Helsfyr
+* at 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
 
 ## Fremtidens T-banenett
 
@@ -408,6 +409,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb, seiling og vindsurfing
 * få på plass en grunnskole på Sørenga
 * at fritidsanlegg som har blitt neglisjert raskest mulig blir istandsatt og vedlikeholdt
+* at 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
 
 ### På Grønland, Enerhaugen delbydeler vil Gamle Oslo Venstre
 * åpne Grønlandsområdet mer mot sjøen og binde den sammen med Bjørvika ved å transformere Galleri Oslo og gjøre den til en mindre dominerende barriere ved å sikre gjennomgang fra Grønland til Schweigaardsgate
