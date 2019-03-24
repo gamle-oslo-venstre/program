@@ -576,7 +576,7 @@ Vold i nære relasjoner forekommer i alle samfunnslag og blant alle aldersgruppe
 * at det skal arrangeres kurs for ansatte i skole, barnehage, helsestasjon og tannhelsetjeneste om forholdet mellom taushetsplikt og avvergeplikt, og om hvordan vold kan avdekkes og følges opp
 
 ## Fattigdom
-Gamle Oslo er en bydel med store forskjeller og en sammensatt befolkning av fattige og rike innbyggere. Gamle Oslo Venstre ønsker å forbedre tilbudet til fattige i bydelen ved å forenkle dagens byråkratiske system for ulike støtteordninger, og gjøre det enklere for folk som sliter med å få god, individuell behandling og oppfølging. Frivillige organisasjoner og engasjerte innbyggere spiller en avgjørende rolle, og må sikres gode rammevilkår.
+Gamle Oslo er en bydel med store forskjeller og består av innbyggere med ulik økonomi. Gamle Oslo Venstre ønsker å forbedre tilbudet i bydelen ved å forenkle dagens byråkratiske system for ulike støtteordninger, og gjøre det enklere for folk som sliter med å få god, individuell behandling og oppfølging. Frivillige organisasjoner og engasjerte innbyggere spiller en avgjørende rolle, og må sikres gode rammevilkår.
 
 **Gamle Oslo Venstre vil**
 
