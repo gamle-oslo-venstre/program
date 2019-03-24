@@ -152,6 +152,7 @@ eksisterende bilveier for trafikk, begrense grønne busser i sentrum eller redus
 * undersøke mulighetene for å stenge Kolstadgata ved Tøyen skole for å utvide skolegården og utvide skolegården på Gamlebyen skole
 * støtte sosiale og kulturelle entreprenører, frivillige organisasjoner og idrettslag som ønsker å skape lavterskel fritidstilbud og møteplasser for barn og unge
 * jobbe for at bydelens barn og unge under 18 år får dekket kontingenter til fritidsklubb/idrettslag/korps/kor eller lignende  - slik at alle har et sted å være og et sted å mestre etter skoletid.
+* gjøre det lettere å starte opp aktivitetstilbud til ungdom i bydelen og åpne for større innslag av aktivitet for og av ungdom.
 * sikre god drift av ungdomsklubber i bydelen, ved at de har variert tilbud og er attraktive, tilgjengelige og gode møteplasser spesielt for ungdom mellom 15-18 år.
 * ha lokalkjente politi i bydelen for å etablere kontakt med utsatte ungdomsgrupper og jobbe mer forebyggende
 * styrke oppsøkende tjenester/utekontakt i bydelen
