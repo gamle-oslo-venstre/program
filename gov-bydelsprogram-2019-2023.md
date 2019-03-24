@@ -414,7 +414,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * sørge for at Botsfengselet blir utviklet til en møteplass for alle, med boliger, kulturtilbud og ulike næringer med inspirasjon fra Tøyen torg.
 * at Klosterenga park oppgraderes parallelt med endringen av botsfengselet
 
-### I Bispevika delbydel vil Gamle Oslo Venstre
+### I Bispevika delbydel (Bjørvika og Sørenga) vil Gamle Oslo Venstre
 * etablere en bussrute som gir besøkende og beboere tilgang til offentlig transport, på Sørenga i første omgang.
 * etablere et grøntlokk med sykkeltrasé over jernbanelinjene ved Oslo S for å skape en sammenhengende park mot Middelalderparken og en bedre kobling mot Grønland
 * tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb, seiling og vindsurfing
@@ -422,7 +422,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * at fritidsanlegg som har blitt neglisjert raskest mulig blir istandsatt og vedlikeholdt
 * at 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
 
-### På Grønland, Enerhaugen delbydeler vil Gamle Oslo Venstre
+### På Grønland og Enerhaugen delbydeler vil Gamle Oslo Venstre
 * åpne Grønlandsområdet mer mot sjøen og binde den sammen med Bjørvika ved å transformere Galleri Oslo og gjøre den til en mindre dominerende barriere ved å sikre gjennomgang fra Grønland til Schweigaardsgate
 * oppgradere Grønland som gågate fra Grønlands torg til Brugata
 * etablere et grøntlokk med sykkeltrasé over jernbanelinjene ved Oslo S for å skape en sammenhengende park mot Middelalderparken og en bedre kobling mot Bjørvika
