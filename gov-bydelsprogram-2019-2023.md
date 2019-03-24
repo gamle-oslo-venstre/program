@@ -623,6 +623,7 @@ Knapphet på ressurser og særlig fokus på effektivisering merkes på de årlig
 **Gamle Oslo Venstre vil**
 
 * at det flyttes mer makt til bydelen og la bydelsutvalgene også selv få tilsette sin bydelsdirektør
+* at ansvaret for grunnskolen legges til bydelen
 * ha som mål at veksten i ansatte i bydelen skal være lavere enn befolkningsveksten
 * bruke digitalisering og automatisering aktivt til å redusere kommunens kostnader og øke kvaliteten på tjenestene
 * ha et godt system til å håndtere overtallighet i bydelen og raskt kunne flytte på ressurser fra et område til et annet.
