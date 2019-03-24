@@ -297,6 +297,7 @@ Venstre vil ha en ren Oslofjord og rene elver, fritt for plast og annen forurens
 * ta i bruk alternativer til mikroplast på kunstgressbaner med sikte på å fase ut all bruk av gummigranulat
 * kartlegge alle utløp i bydelens elver og arbeide for å stenge skadelige utløp for godt
 * sikre at det er til enhver tid er rikt plante- og dyreliv i bydelens elver og utelukke alle forurensningskilder
+* gjøre fjorden og sjøen tilgjengelig for flere, ved å legge til rette for deleløsninger, klubb- og foreningsliv
 
 ## Enkelt å leve miljøvennlig
 Miljøkampen må være en felles innsats fra alle som bor i Oslo. Kommunen må sørge for at det er enkelt og attraktivt å ta grønne valg i hverdagen.. En viktig del av løsningen på klimaproblemene ligger i å ta i bruk ny teknologi og gjøre det enklere for deg å velge miljøvennlig.
