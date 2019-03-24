@@ -31,7 +31,7 @@ toc-depth: 2
 
 Det viktigste for Venstre er å bidra til at hver enkelt gis mulighet til å skape sitt gode liv. Gamle Oslo har rundt 50 000 innbyggere, og er den bydelen som er forventet å vokse mest de neste ti årene. Gamle Oslo har en ung og mangfoldig befolkning med ulike utfordringer.
 
-De neste fire årene vil Gamle Oslo Venstre gjøre bydelen til den beste bydelen for barn og unge å kunne vokse opp i, den bydelen med det største mangfoldet av kultur og være en den bydelen med best byutvikling.
+De neste fire årene vil Gamle Oslo Venstre gjøre bydelen til den beste bydelen for barn og unge å kunne vokse opp i, den bydelen med det største mangfoldet av kultur og byutvikling som fremmer gode og trygge bomiljøer, med vekt på møteplasser og grøntarealer. Gamle Oslo skal bli den mest gå-, sykkel- og kollektivvennlige bydelen.
 
 \newpage
 # Kapittel 1 - Utdanning og oppvekst
