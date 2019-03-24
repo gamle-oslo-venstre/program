@@ -91,7 +91,6 @@ Aktivitetsskolen er et viktig tilbud for mange elever, og det bør derfor være 
 **Gamle Oslo Venstre vil**
 
 * la alle elever få muligheten til å gå gratis på Aktivitetsskolen
-* innføre søskenmoderasjon også for familier med barn i aktivitetsskole og barnehage samtidig
 * stille krav om at AKS-ledere har en relevant kompetanse
 * at AKS samarbeider med frivillige organisasjoner, aktører innen kulturlivet og idrettslag for å gi barn en variert og innholdsrik hverdag
 
