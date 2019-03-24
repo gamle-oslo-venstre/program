@@ -469,7 +469,7 @@ Gamle Oslo har mange innbyggere som bor i kommunale boliger. Dette har innvirkni
 
 **Gamle Oslo Venstre vil**
 
-* innføre bomiljøarbeidere for å bedre bomiljøet i og rundt kommunale boliger
+* innføre flere bomiljøarbeidere for å bedre bomiljøet i og rundt kommunale boliger
 * forbedre sammensetningen av boliger
 * øke antall større boenheter i den kommunale boligmassen
 * spre de kommunale boligene i bydelen
