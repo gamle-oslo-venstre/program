@@ -358,7 +358,7 @@ Frivilligheten samler folk i bydelens kultur- og samfunnsliv. Den bidrar til kun
 
 ## Idrett for alle
 
-Idrett skaper trivsel, sosiale nettverk og god folkehelse. Gamle Oslo Venstre vil legge til rette for at flere av bydelens barn og unge inkluderes i idrettsliv og aktiviteter.
+Idrett skaper trivsel, sosiale nettverk og god folkehelse. Gamle Oslo Venstre vil legge til rette for at flere av bydelens barn og unge inkluderes i idrettsliv og aktiviteter. Gamle oslo og indre by har for få idrettsanlegg. Jobb nummer en er å bygge flere idrettsanlegg for breddeidrett i indre by.
 
 **Gamle Oslo Venstre vil**
 
