@@ -279,7 +279,7 @@ Global oppvarming er den største utfordringen verden står overfor. Selv om lø
 **Gamle Oslo Venstre vil**
 
 * at Gamle Oslo skal være en nullutslippsbydel innen 2030
-* at all oppvarming i Gamle Oslo skal skje med fornybar energi innen 2020
+* at all oppvarming av kommunale bygg i Gamle Oslo skal skje med fornybar energi innen 2025
 * bygge ut fjernvarmenettet og bidra til andre miljøvennlige oppvarmingsløsninger der fjernvarme ikke er tilgjengelig i bydelen
 * at nye større utbyggingsområder skal planlegges som nullutslippsområder
 * at kommunens eiendommer skal bygges som passiv- og plusshus og hele livsløpet til bygningsmassen skal være energieffektiv
