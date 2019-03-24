@@ -403,6 +403,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * sikre grøntområder i utbyggingen rundt nye Jordal
 * sikre at Thorbjørn Egners plass blir et fullverdig torg
 * sørge for at planleggingen av 60-bussens trasé over Kampen ivaretar innspill fra beboere i forbindelse med at Thorbjørn Egners plass blir bilfri
+* at det snarest må settes istand en permanent løsning for flerbrukshall på Tøyen. Den midlertidige hallen må ikke bli permanent.
 
 ### I Kværnerbyen delbydel vil Gamle Oslo Venstre
 * jobbe for å flytte lokomotivverkstedet og togvasken i Kværnerdalen ut av byen
