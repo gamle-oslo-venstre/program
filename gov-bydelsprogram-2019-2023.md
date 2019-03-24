@@ -1,13 +1,13 @@
 ---
+include-before:
+- '`\newpage{}`{=latex}'
 header-includes:
-  - \usepackage[left]{lineno}
-  - \linenumbers
   - \usepackage{enumitem}
   - \setlist{leftmargin=5.5mm}
 title: |
    | Gamle Oslo Venstre - Bydelsprogram 2019-2023
    |
-   | Andre utkast
+   |
    |
    |
    |
@@ -17,7 +17,6 @@ title: |
    | ![Gamle Oslo logo](bgo-symb-pms3308.eps)
    |
    | ![Venstre logo](Venstre_Hovedlogo_digitalprint_cmyk_positiv.eps)
-   | \newpage
 mainfont: "OfficinaSans-Book.otf"
 mainfontoptions:
 - BoldFont=OfficinaSans-Bold.otf
