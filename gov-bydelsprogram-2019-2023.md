@@ -47,7 +47,7 @@ Gamle Oslo Venstre vil ha en friere skole hvor hva du lærer er viktigere enn hv
 * vil legge til rette for at bydel, lokalt næringsliv og idrettslag inngår forpliktende samarbeid med skolene i nærområdet for å hindre fravær på barne- og ungdomstrinnet og frafall fra videregående opplæring.
 * ha nulltoleranse mot mobbing i skolen
 * sette krav om kompetanse innen karriereveiledning og flerkulturell kompetanse må også veie tungt for rådgivere i skolen
-* styrke Friluftssenteret i Gamle Oslo (FRIGO), og øke dens samarbeid med bydelens skoler.
+* styrke Friluftssenteret i Gamle Oslo (FRIGO), og øke dets samarbeid med bydelens skoler.
 * sikre at skolene i bydelen skal være åpne for frivillige aktører og andre som ønsker å lage
 aktivitetstilbud til barn og unge
 * styrke norskundervisningen i Osloskolen, blant annet ved å øke kvaliteten på den særskilte
@@ -66,7 +66,7 @@ Gode lærere er det aller viktigste for elevenes læring. Venstres svar på utfo
 
 * rekruttere de beste lærerne til Gamle Oslo ved å tilby høyere lønn
 * tilrettelegge for økt digital kompetanse blant lærere i bydelens skoler, blant annet for mer visuell opplæring for de minste.
-* jobbe aktivt for å rekruttere flere menn og flere med minoritetsbakgrunn inn i bydelensskoler
+* jobbe aktivt for å rekruttere flere menn og flere med minoritetsbakgrunn inn i bydelens skoler
 * gi lærerne mer tid til hjem/skole-samarbeid, og til å bli bedre kjent med lokalmiljøet og bakgrunnen til sine elever og foreldre
 
 ## Grunnskolen
@@ -99,7 +99,7 @@ Vi har flere videregående skoler plassert i bydelen vår som er viktig for tilb
 
 **Gamle Oslo Venstre vil**
 
-* beholde fritt skolevalg slik at elever fortsatt kan velge skole basert på interesser og ikke låses basert på postnummeret til foreldrene sine.
+* beholde fritt skolevalg slik at elever fortsatt kan velge skole basert på interesser og ikke låses basert på postnummeret til foreldrene.
 * styrke bydelens arbeid mot frafall fra videregående opplæring (med oppsøkende arbeid).
 * sørge for kommunal finansiering av skolehelsetjeneste på videregående nivå, slik at tilbudet sikres å være iht skolens behov og ikke budsjettmodeller gjennom bydelen som ikke gjenspeiler elev massens størrelse.
 * styrke Osloskolens arbeid med frafall og samarbeide med bydelen om andre tjenester og oppfølging til elever som står i fare for å falle ut av skolen.
@@ -115,7 +115,7 @@ For å skape et godt psykososialt læringsmiljø for elevene er det nødvendig m
 **Gamle Oslo Venstre vil**
 
 * gi skolehelsetjenesten mulighet til å dokumentere gyldig fravær
-* gi tilgang til psykolog gjennom skolehelsetjenesten i tett samarbeid med bydelens psykolog tilbud.
+* gi tilgang til psykolog gjennom skolehelsetjenesten i tett samarbeid med bydelens psykologtilbud.
 * opprette en digital skolehelsetjeneste
 * styrke utekontaktens arbeid blant utsatt ungdom, både på skolene i bydelen og på andre arenaer hvor ungdommen oppholder seg.
 * ansette miljøarbeidere på flere av bydelens skoler for å motarbeide frafall, dårlig miljø og kriminalitet
@@ -146,7 +146,7 @@ En viktig del av oppveksten til alle barn er nærmiljøene rundt hjem og skole. 
 
 * starte prosjekter der tjenester som barnevern, psykolog og NAV flyttes inn i skolen og ha aktivitet på skolens område også utenom skoletid (etter modell fra "Community schools" i Storbritannia), og gjennomføre slike tiltak  f.eks. på Tøyen skole også på andre skoler som f.eks. Vahl skole.
 * etablere flere lekeplasser for barn i bydelen
-* oppgradere bydelens grøntområder og gjøre de mer tilgjengelig og attraktiv for barn og ungdom.
+* oppgradere bydelens grøntområder og gjøre dem mer tilgjengelig og attraktiv for barn og ungdom.
 * arbeide for at alle barn i bydelen har trygge skoleveier, blant annet gjennom å stenge
 eksisterende bilveier for trafikk, begrense grønne busser i sentrum eller redusere tillatt hastighet, dette gjelder f.eks. skolevei til gamlebyen skole fra Sørenga.
 * undersøke mulighetene for å stenge Kolstadgata ved Tøyen skole for å utvide skolegården og utvide skolegården på Gamlebyen skole
@@ -154,7 +154,7 @@ eksisterende bilveier for trafikk, begrense grønne busser i sentrum eller redus
 * jobbe for at bydelens barn og unge under 18 år får dekket kontingenter til fritidsklubb/idrettslag/korps/kor eller lignende  - slik at alle har et sted å være og et sted å mestre etter skoletid.
 * gjøre det lettere å starte opp aktivitetstilbud til ungdom i bydelen og åpne for større innslag av aktivitet for og av ungdom.
 * sikre god drift av ungdomsklubber i bydelen, ved at de har variert tilbud og er attraktive, tilgjengelige og gode møteplasser spesielt for ungdom mellom 15-18 år.
-* ha lokalkjente politi i bydelen for å etablere kontakt med utsatte ungdomsgrupper og jobbe mer forebyggende
+* ha lokalkjent politi i bydelen for å etablere kontakt med utsatte ungdomsgrupper og jobbe mer forebyggende
 * styrke oppsøkende tjenester/utekontakt i bydelen
 * bidra til at flere menn jobber med barne- og ungdomstiltak som gode rollemodeller
 * ha en ordning for aktivitetsbuss for barn og unge, der idrett- og kulturlag kan busses til fritidsaktivitet
@@ -166,7 +166,7 @@ Gamle Oslo Venstre ønsker et barnevern som har tid og ressurser til å sette ba
 **Gamle Oslo Venstre vil**
 
 * øke tilskuddet til barnevernet
-* ha mer fokus på forebyggende arbeid i barnevernet, med aktiv samarbeid med familiene som trenger deres hjelp
+* ha mer fokus på forebyggende arbeid i barnevernet, med aktivt samarbeid med familiene som trenger deres hjelp
 * styrke barns medvirkning i avgjørelser som angår dem og sikre at barnets beste blir ivaretatt
 * gjøre barnevernet mer tilgjengelig slik at barn og foreldre i bydelen får bedre kjennskap til sine rettigheter og hva barnevernet kan hjelpe dem med.
 * sikre nødvendig kompetanseheving i barnevernet og en enda bedre flerkulturell forståelse
@@ -299,7 +299,7 @@ Venstre vil ha en ren Oslofjord og rene elver, fritt for plast og annen forurens
 * gjøre fjorden og sjøen tilgjengelig for flere, ved å legge til rette for deleløsninger, klubb- og foreningsliv
 
 ## Enkelt å leve miljøvennlig
-Miljøkampen må være en felles innsats fra alle som bor i Oslo. Kommunen må sørge for at det er enkelt og attraktivt å ta grønne valg i hverdagen.. En viktig del av løsningen på klimaproblemene ligger i å ta i bruk ny teknologi og gjøre det enklere for deg å velge miljøvennlig.
+Miljøkampen må være en felles innsats fra alle som bor i Oslo. Kommunen må sørge for at det er enkelt og attraktivt å ta grønne valg i hverdagen. En viktig del av løsningen på klimaproblemene ligger i å ta i bruk ny teknologi og gjøre det enklere for deg å velge miljøvennlig.
 
 **Gamle Oslo Venstre vil**
 
@@ -432,7 +432,7 @@ Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å si
 * at det vurderes etablering av et oppvarmet badeanlegg i området, slik de har i Helsinki
 
 ### På Grønland og Enerhaugen delbydeler vil Gamle Oslo Venstre
-* åpne Grønlandsområdet mer mot sjøen og binde den sammen med Bjørvika ved å transformere Galleri Oslo og gjøre den til en mindre dominerende barriere ved å sikre gjennomgang fra Grønland til Schweigaardsgate
+* åpne Grønlandsområdet mer mot sjøen og binde det sammen med Bjørvika ved å transformere Galleri Oslo og gjøre det til en mindre dominerende barriere ved å sikre gjennomgang fra Grønland til Schweigaardsgate
 * oppgradere Grønland som gågate fra Grønlands torg til Brugata
 * etablere et grøntlokk med sykkeltrasé over jernbanelinjene ved Oslo S for å skape en sammenhengende park mot Middelalderparken og en bedre kobling mot Bjørvika
 * fjerne Nylandsbrua for å åpne opp området, og forbedre forholdene ved Olafiagangen og Vaterland ved å tilrettelegge for nytt og innovativt næringsliv, f.eks. opprette en tradisjonell mathall eller etablere konsertscene, og gi mer plass til ungdomsklubben.
@@ -515,7 +515,7 @@ De lokale helsetjenestene skal være gode og tilgjengelige for alle. Samtidig sk
 
 **Gamle Oslo Venstre vil**
 
-* at frisklivssentralen skal ha go kapasitet og fungere som en lavterskel informasjons- og rådgivningstjeneste for alle som har behov for det
+* at frisklivssentralen skal ha god kapasitet og fungere som en lavterskel informasjons- og rådgivningstjeneste for alle som har behov for det
 * styrke Gamle Oslos helsestasjon for ungdom og gjøre seg synlig i skolene bydelen
 * styrke bydelsoverlegenes rolle som medisinskfaglig leder for helse- og omsorgstjenestene på bydelsnivå
 * sikre at alle innbyggere har tilgang til fastlege
