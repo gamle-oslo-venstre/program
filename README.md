@@ -1,8 +1,8 @@
-# Lokalvalgsprogram 2019-2013
+# Lokalvalgsprogram 2019-2023
 
 ## Generere program
 
-  pandoc --latex-engine xelatex --toc -f markdown gov-bydelsprogram-2019-2023.md -o gov-bydelsprogram-2019-2023.pdf
+  pandoc --pdf-engine xelatex --toc -f markdown gov-bydelsprogram-2019-2023.md -o gov-bydelsprogram-2019-2023.pdf
   
 ## Last ned program
 
