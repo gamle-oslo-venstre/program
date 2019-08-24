@@ -3,6 +3,7 @@ html {
 body {
   margin: auto;
   width: 40em;
+  max-width: 100%;
   font-family: officina, arial, helvetica, sans-serif;
 }
 header br { display: none }
@@ -11,6 +12,7 @@ header embed { display: none }
 header {
   text-align: center;
   width: 30em;
+  max-width: 90%;
   margin: auto;
   padding-bottom: 5em;
 }
