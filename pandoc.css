@@ -3,7 +3,7 @@ html {
 body {
   margin: auto;
   width: 40em;
-  max-width: 100%;
+  max-width: 95%;
   font-family: officina, arial, helvetica, sans-serif;
 }
 header br { display: none }
@@ -12,7 +12,7 @@ header embed { display: none }
 header {
   text-align: center;
   width: 30em;
-  max-width: 90%;
+  max-width: 100%;
   margin: auto;
   padding-bottom: 5em;
 }
@@ -48,13 +48,14 @@ h1,h2,h3,h4,h5, p strong, a, a:hover, a:visited {
 ul {
   list-style: none;
 }
-
+body > ul li {
+  margin-top: 0.5em;
+}
 body > ul li::before {
   content: "\2713";
   color: #ff6633;
   font-weight: bold;
   display: inline-block; 
   width: 1em;
-  line-height: 200%;
   margin-left: -1em;
 }
