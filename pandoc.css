@@ -52,7 +52,7 @@ body > ul li {
   margin-top: 0.5em;
 }
 body > ul li::before {
-  content: "\2713";
+  content: "\2714";
   color: #ff6633;
   font-weight: bold;
   display: inline-block; 
