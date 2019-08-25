@@ -1,0 +1,61 @@
+html {
+}
+body {
+  margin: auto;
+  width: 40em;
+  max-width: 95%;
+  font-family: officina, arial, helvetica, sans-serif;
+}
+header br { display: none }
+header embed { display: none }
+
+header {
+  text-align: center;
+  width: 30em;
+  max-width: 100%;
+  margin: auto;
+  padding-bottom: 5em;
+}
+
+h1,h2,h3,h4,h5, p strong, a, a:hover, a:visited {
+  color: #1e6b5d;
+  text-decoration: none;
+}
+
+#TOC ul {
+  list-style-type: none;
+}
+
+#TOC li {
+  line-height: 150%;
+}
+#TOC > ul > li {
+  margin-top: 1em;
+}
+/* venstregrønn: 006666 */
+/* mørk tavle: 003333 */
+/* varm grå: ced0ca */
+/* himmel: #b0d3e5 */
+/* eple: #66cc66 */
+/* punch: #ff6633 */
+
+@font-face {
+
+    font-family: officina;
+    src: url("OfficinaSans-Book.otf") format("opentype");
+}
+
+ul {
+  list-style: none;
+}
+body > ul li {
+  margin-top: 0.5em;
+}
+body > ul li::before {
+  content: "\2714";
+  color: #ff6633;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
