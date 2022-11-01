@@ -106,8 +106,44 @@ Miljø:
 
 - Forby kjøretøy med blindsoner utenfor motorvei. Blindsoner kan bøtes på med hensiktsmessig utforming av kjøretøy eller kamera til en billig penge i 2022.
 
-test
-test
+## nedrabling fra møte 2. juni ##
 
-- enda en test
+### utfordringer og temaer
+ - sykling i småveier når man ikke bruker f.eks. eufemia
+ - slaglyd pga manglende vegetasjon
+ - åpningstider på utesteder
+ - støykameraer
+ - hva med støygrenser på biler stedet for fossilbiler etc.
+ - elsparkesykler
+ - sykkel på fortau
+ - blindsonekameraer
+ - kollektivforbindelse vest-høyre inntil tunnel (bislett-st.hanshaugen-tøyen-ensjø/galgeberg etc.)
+ - innbyggermedvirkning
+ - høyhus
+ - skape levende byrom, utadrettede fronter, skape følelse av inkludering 
+ - grønland, fiks den nå, 
+   - involvere bedrifter
+ - stargate, bydelshus?
+ - grønland, gågate, bilfritt grønland (
+ - nylandsbrua (forslagene fra BU)
+ - snu på eufemias gate for å kunne kjøre ned fra sørsida.
+ - takterrasser ikk regnes som uteområde for andre
+ - hundeparker
+ - fornebu
+ - grusing/måking til gående
+ - søppelhåndtering
+ - søppelsortering på offentlig plass, panthåndtering
+ - mini-gjenbruksstasjon, krav på et visst antall per x innbyggere, oslonøkkel overalt
+ - urbant landbruk, samle inn kompost f.eks.
+ - boplikt i bydelen :-)
+ - hva med å jobbe for at det skal være lett å bo andre steder enn i Oslo? (nico)
+- tidsplan Oslo innspill 1. juni
+- lage forms for å hente inn forslag
+- lese gammelt program
+- hente inn program fra andre
+- lage et midlertidig program og så vente på 1./2. versjon av oslo-porgrammet før man syr ting sammen med lokalt vinklet innhold.
+- utkast september-ish
+- workshop oktober
+- ferdig 1. desember
+- trykking av flier
 
