@@ -105,9 +105,3 @@ Miljø:
 - kanskje gratis kollektiv til eldre også, jfr. demens-problemtaikk med digitale løsninger
 
 - Forby kjøretøy med blindsoner utenfor motorvei. Blindsoner kan bøtes på med hensiktsmessig utforming av kjøretøy eller kamera til en billig penge i 2022.
-
-test
-
-test dette er jonas som skriver 
-
-te3
