@@ -107,3 +107,5 @@ Miljø:
 - Forby kjøretøy med blindsoner utenfor motorvei. Blindsoner kan bøtes på med hensiktsmessig utforming av kjøretøy eller kamera til en billig penge i 2022.
 
 test
+
+test dette er jonas som skriver 
