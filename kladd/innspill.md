@@ -99,3 +99,14 @@ Skole:
 Miljø:
 -	Gjøre det enklere å søke kommunale midler for utbygging av solcellepanel
 -	Styrke ENØK
+
+forslag fra Jonas, gratis kollektiv i Oslo, tas over skatteseddelen
+
+
+
+
+- forslag fra Jonas, gratis kollektiv i Oslo, tas over skatteseddelen
+
+- kanskje gratis kollektiv til eldre også, jfr. demens-problemtaikk med digitale løsninger
+
+- Forby kjøretøy med blindsoner utenfor motorvei. Blindsoner kan bøtes på med hensiktsmessig utforming av kjøretøy eller kamera til en billig penge i 2022.
