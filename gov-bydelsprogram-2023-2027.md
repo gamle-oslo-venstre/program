@@ -33,13 +33,14 @@ toc-depth: 2
 ## Oslo Venstre
 ### Første utkast
 Kjære velger,
-Som Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet,
+Som Gamle Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet,
 samtidig som vi tar vare på naturen og hverandre. Vår visjon er en grønnere, friere og
-rausere by. Det er utgangspunktet for dette programmet.
-Vi skal gjøre Oslo til en foregangsby i klima- og miljøpolitikken. Da må det bli enklere og
-billigere å ta miljøvennlige valg i hverdagen. Derfor vil Venstre ha billigere og bedre
+rausere bydel, noe som ligger til grunn for dette programmet.
+
+Vi skal gjøre Gamle Oslo til foregangsbydel i klima- og miljøpolitikken, samtidig som vi tar vare på den unike atmosfæren, og det brede, inklunderende og flerkulturelle miljøet vi har.
+For å sikre en grønn og klimavennlig bydel, må det bli billigere å ta miljøvennlige valg i hverdagen. Derfor vil Venstre ha billigere og bedre
 kollektivtransport, og gjøre byen mer tilgjengelig for syklister og gående. Samtidig skal
-vi stanse nedbyggingen av natur, og ta vare på Marka, parkene, elvene og Oslofjorden.  
+vi stanse nedbyggingen av natur, og ta vare på de fine grøntområdene vi har i bydelen, ruste opp parker, og rense Oslofjorden og gjøre den tilgjengelig for alle.
 Det skal være trygt og godt å vokse opp i Oslo. Som liberale er vi opptatt av å gi barn og
 unge en utdanning og oppvekst som skaper like muligheter for alle. Venstre satser på
 skolen fordi kunnskap er nøkkelen til å løse utfordringene vi står overfor og utjevne
