@@ -71,7 +71,9 @@ Bystyreprogram, Oslo Venstre, Første utkast
 
 # Klima og miljø
 ## En klimavennlig hovedstad
+Hvilken energistrategi har vi? (noe å ta med i bydelen?)
 ## Grønt hverdagsliv og sirkulær økonomi
+Har sirkulærøkonomi noen konsekvenser for vår bydel. Kan vi få god effekt av sirkulærøkonimi i bydelen?
 ## En klimatilpasset by
 ## Mer natur i byen
 ## Ren og levende Oslofjord
@@ -79,12 +81,22 @@ Bystyreprogram, Oslo Venstre, Første utkast
 # Byutvikling
 ## En grønn by med plass til alle
 ## Nye byutviklingsområder
+Konsekvensene av NRK-utbyggingen.
+Det er viktig for bydelen å få utviklingen og tilgang til den tekniske kompetansen som vil komme med flytting av NRK-bygget.
 ## Boliger for alle
 ## Gode og levende nabolag
+Hva skjer med det gamle Munchmuseet. 
 
 # Grønn transport
+Trafikkproblem særlig Grønland og Tøyen, få til noe med trafikkavvikling der.
+Gå til krig med Statens Vegvesen for å få makta overført til kommunen, slik at vi får bestemmelsesmakt over veinettet i boligområder-
+Det fungerer ikke med hjertesoner rundt skoler, ettersom det kjøres for fort, og det er vanskelig å regulere dette.
+Det må på plass fartsreduserende tiltak i sentrumsnære områder, og særlig i områder rundt barneskoler (Leif)
 ## Gå- og sykkelbyen Oslo
+Stenge Finnmarksgata for annen trafikk enn HC og kollektivtrafikk.
 ## Kollektivtransport
+Hvordan er nettverket konstruert? Det er vanskelig å komme seg på tvers av byen, man må ofte via sentrum.
+Sentrumstunnel for T-bane
 ## En miljøvennlig bilpolitikk
 
 # Utdanning og oppvekst
@@ -113,6 +125,9 @@ Bystyreprogram, Oslo Venstre, Første utkast
 ## Helsetjenester tilpasset folk
 ## Bedre psykisk helsehjelp
 ## Human ruspolitikk
+Hjemløse med rusproblematikk. Må løse problemet ved å tørre mer i rusbehandling. de som ikke evner eller vil slutte med rus, må få behandling slik at vi får dem bort fra gata.
+Fanget av rusen når det er ROP-pasienter. Åpne russcenen må det finnes en løsning på, slik at vi også skaper et tryggere bomiljø. (Leif)
+
 ## Trygg fødsels- og barselomsorg
 ## Seksuell og reproduktiv helse
 ## Fremtidens eldreomsorg
@@ -123,7 +138,10 @@ Bystyreprogram, Oslo Venstre, Første utkast
 ## Mangfold, rasisme og diskriminering
 ## Velferd og arbeid
 ## Kommunale botilbud
+tredje boligsektor. Stått tomt siden 2013, viser seg at dette ikke fungerte.
+Det er ingen som ønsker at det skal være så stor gjennomfart i kommunale boliger, og vi får et vedvarende problem med lavinntektsfamilier i området.
 ## En trygg by
+12 % av all anmeldt kriminalitet i Oslo foregår i det som Oslo Politidistrikt klassifiserer som sentrum.
 
 # Næring, arbeid og skatt
 ## Næringsbyen Oslo
