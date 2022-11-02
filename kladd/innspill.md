@@ -137,6 +137,9 @@ Miljø:
  - urbant landbruk, samle inn kompost f.eks.
  - boplikt i bydelen :-)
  - hva med å jobbe for at det skal være lett å bo andre steder enn i Oslo? (nico)
+- 
+
+## Plan for videre arbeid ##
 - tidsplan Oslo innspill 1. juni
 - lage forms for å hente inn forslag
 - lese gammelt program
