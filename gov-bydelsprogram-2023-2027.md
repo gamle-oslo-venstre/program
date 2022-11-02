@@ -202,3 +202,24 @@ Bystyreprogram, Oslo Venstre, Første utkast
 - Barselsgruppe med kun hvite middelalderkvinner, ingen tiltak som sørger for god integrering i bydelen.
 - Samme utfordring i barnehagen. Foreldre setter seg sammen i de gruppene som de føler seg mest hjemme i.
 - Nuding for å få folk til å finne sammen - få til en mental forestilling i bydelsadministrasjonen om at man kan få til mange små tiltak som kan bringe bydelen mer smamne.
+- Aktivitetshuset i Kværnerbyen. OBOS sitt booking-system, borettslagene og OBOS slått seg sammen for å lage til dette.
+- Deichmans x2 på Tøyen Venstre-seier. Er dette tiltak vi kan få til flere steder bydelen?
+
+- sikkerstille at det er koordinering i byggeprosjekter i bydelen
+- Kildesortering alle søplebøtter i kommunal regi 
+- gjennbruksstasjoner for større avfall (kjøleskap, hageavfall etc.)
+- beredskapsplaner i egen bydel
+- Rive Nylandsbrua
+- Noe om vikinger! (Gøril)
+- Biblo Tøyen på Grønland. 
+
+Ismail:
+- En del uteliggere, må hjelpe disse som ikke har kontroll over egen økonomi.
+- Kan det private næringslivet være med å hjelpe disse? Matpass - matkuponger som kan gis til restaurantene i byen, slik at uteliggere kan komme og spise. Kan også bidra til å redusere matsvinn for en del restauranter.
+- Forsvare bemanningsbransjen.
+- Hvordan kan vi sørge for å skaffe jobber til unge i bydelen? Jobb ved siden av studier, eller mulighet for ekstra inntekt når man trenger det.
+- Skape bedre kontakt med næringer og ENK i området.
+- Svare på praktiske spørsmål, entreprenør-politikk fra Stortingen, men også dør-til-dør i de ulike butikkene.
+- Leie til eie næringslokaler.
+- Bydelsinitativ for næringsetaten å ta grep for integrering og støtte tli gründere.
+- Fosterfamilie hos egne slekt
