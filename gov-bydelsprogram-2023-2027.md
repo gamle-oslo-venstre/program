@@ -16,7 +16,8 @@ title: |
    |
    | ![Gamle Oslo logo](bgo-symb-pms3308.eps)
    |
-   | ![Venstre logo](Venstre_Hovedlogo_digitalprint_cmyk_positiv.eps)mainfont: "OfficinaSans-Book.otf"
+   | ![Venstre logo](Venstre_Hovedlogo_digitalprint_cmyk_positiv.eps)
+mainfont: "OfficinaSans-Book.otf"
 mainfontoptions:
 - BoldFont=OfficinaSans-Bold.otf
 geometry: margin=2cm
