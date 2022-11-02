@@ -9,9 +9,9 @@ jobs:
     - uses: actions/checkout@v1
 
     - uses: awalsh128/cache-apt-pkgs-action@latest
-        with:
-          packages: pandoc texlive-xetex texlive-latex-extra texlive-extra-utils texlive-fonts-recommended
-          version: 1.0
+      with:
+        packages: pandoc texlive-xetex texlive-latex-extra texlive-extra-utils texlive-fonts-recommended
+        version: 1.0
 
     - name: generate html
       run: for SRC in `ls gov-*.md`; export BASE=`basename ${SRC} .md`; do pandoc --css pandoc.css -s --toc-depth 2 --toc --pdf-engine xelatex -f markdown ${SRC} --metadata pagetitle="Gamle Oslo Venstre bydelsprogram 2023-2027" | perl -wple 's/eps/svg/' > ${BASE}.html; done
