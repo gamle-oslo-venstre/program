@@ -32,7 +32,9 @@ toc-depth: 2
 
 ## Oslo Venstre
 ### Første utkast
+
 Kjære velger,
+
 Som Gamle Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet,
 samtidig som vi tar vare på naturen og hverandre. Vår visjon er en grønnere, friere og
 rausere bydel, noe som ligger til grunn for dette programmet.
