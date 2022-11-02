@@ -12,7 +12,16 @@ jobs:
       run: sudo apt install pandoc texlive-xetex texlive-latex-extra texlive-extra-utils texlive-fonts-recommended
   
     - name: generate html
-      run: export SRC=`ls gov-*.md`; export BASE=`basename ${SRC} .md`; pandoc --css pandoc.css -s --toc-depth 2 --toc --pdf-engine xelatex -f markdown ${SRC} --metadata pagetitle="Gamle Oslo Venstre bydelsprogram 2023-2027" | perl -wple 's/eps/svg/' > ${BASE}.html
+      run: for SRC in `ls gov-*.md`; export BASE=`basename ${SRC} .md`; pandoc --css pandoc.css -s --toc-depth 2 --toc --pdf-engine xelatex -f markdown ${SRC} --metadata pagetitle="Gamle Oslo Venstre bydelsprogram 2023-2027" | perl -wple 's/eps/svg/' > ${BASE}.html; done
 
     - name: generate PDF
-      run: export SRC=`ls gov-*.md`; export BASE=`basename ${SRC} .md`; pandoc --pdf-engine xelatex --toc -f markdown ${SRC} -o ${BASE}.pdf
+      run: for SRC in `ls gov-*.md`; export BASE=`basename ${SRC} .md`; pandoc --pdf-engine xelatex --toc -f markdown ${SRC} -o ${BASE}.pdf; done
+      
+    - name: push html and pdf
+     uses: test-room-7/action-update-file@v1
+     with:
+       file-path: |
+          *.pdf
+          *.html
+      commit-msg: Auto-update HTML/PDF
+      github-token: ${{ secrets.GITHUB_TOKEN }}
