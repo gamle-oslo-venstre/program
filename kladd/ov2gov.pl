@@ -19,8 +19,6 @@ while (my $line = decode_utf8(<>)) {
   $line = "<br>\n$line" if $line =~ m{^<b>.*}gmx;
   $line =~ s{<b>(?:Oslo\s+)?(Venstre\s+vil:).*?</b>}{<h3>Gamle Oslo $1</h3>}gmxs;
   $line =~ s{<b>(.*?)</b>}{<h2>$1</h2>};
-#  $line =~ s{•\s+.*}{<li>}gmx;
-print encode_utf8("--$line--\n\n");
   $out .= $line;
 }
 
@@ -30,6 +28,7 @@ $temp->spew_utf8($out);
 my $gfm = decode_utf8(`pandoc -f html -t gfm < $temp`);
 
 $gfm =~ s/\n*?•\s([^*\#•]+?)\n*?/"\n- " . stripln($1) /gmxes;
+$gfm =~ s{\#\#.*?(\#\# \s Kjære \s velger)}{$1}gmsx;
 #$gfm =~ s/^- (.*?)\n(\S)/- $1 $2/gmxs;
 
 print encode_utf8($gfm);
