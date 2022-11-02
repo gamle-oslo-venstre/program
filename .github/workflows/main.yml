@@ -9,7 +9,7 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: install dependencies
-      run: sudo apt install pandoc texlive-xetex
+      run: sudo apt install pandoc texlive-xetex texlive-latex-extra
   
     - name: generate html
       run: export SRC=`ls gov-*.md`; export BASE=`basename ${SRC} .md`; pandoc --css pandoc.css -s --toc-depth 2 --toc --pdf-engine xelatex -f markdown ${SRC} --metadata pagetitle="Gamle Oslo Venstre bydelsprogram 2023-2027" | perl -wple 's/eps/svg/' > ${BASE}.html
