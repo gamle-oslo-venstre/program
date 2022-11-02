@@ -223,3 +223,4 @@ Ismail:
 - Leie til eie næringslokaler.
 - Bydelsinitativ for næringsetaten å ta grep for integrering og støtte tli gründere.
 - Fosterfamilie hos egne slekt
+- Karrieredag hvor arbeidsgivere kan møte arbeidsledige som sliter, og kan utveksle ideer.
