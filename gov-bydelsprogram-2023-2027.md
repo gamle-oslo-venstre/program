@@ -196,3 +196,9 @@ Bystyreprogram, Oslo Venstre, Første utkast
 # En moderne kommune
 ## En effektiv og tilgjengelig kommune
 ## Åpenhet og demokrati
+
+- Sosiale entreprenører i tillegg til frivilighet. Det må være lov for profesjonelle, private aktører å levere tjenester til bydelen. De vil ikke nødvendigvis tjene seg rike.
+
+- Barselsgruppe med kun hvite middelalderkvinner, ingen tiltak som sørger for god integrering i bydelen.
+- Samme utfordring i barnehagen. Foreldre setter seg sammen i de gruppene som de føler seg mest hjemme i.
+- Nuding for å få folk til å finne sammen - få til en mental forestilling i bydelsadministrasjonen om at man kan få til mange små tiltak som kan bringe bydelen mer smamne.
