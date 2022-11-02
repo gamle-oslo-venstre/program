@@ -72,12 +72,15 @@ Bystyreprogram, Oslo Venstre, Første utkast
 # Klima og miljø
 ## En klimavennlig hovedstad
 - Hvilken energistrategi har vi? (noe å ta med i bydelen?)
+
 ## Grønt hverdagsliv og sirkulær økonomi
 - Har sirkulærøkonomi noen konsekvenser for vår bydel. Kan vi få god effekt av sirkulærøkonimi i bydelen?
+
 ## En klimatilpasset by
 ## Mer natur i byen
 - Bevare trær og grøntområder. Ikke bare grøntområder, men at det faktisk er vill natur.
 - Villplen og andre tiltak for å skape gode vilkår for dyreliv og innsekter.
+
 ## Ren og levende Oslofjord
 - Rense opp Oslofjorden, og innføre tiltak som sørger for renhold og ivaretagelse av områdene rundt Sørenga, Operastranda etc.
 
@@ -90,6 +93,7 @@ Bystyreprogram, Oslo Venstre, Første utkast
 - Konsekvensene av NRK-utbyggingen.
 - Det er viktig for bydelen å få utviklingen og tilgang til den tekniske kompetansen som vil komme med flytting av NRK-bygget.
 - Ikke høyhus i områder med gammel bebyggelse, men kan fint bygges der 
+
 ## Boliger for alle
 ## Gode og levende nabolag
 - Hva skjer med det gamle Munchmuseet?
@@ -99,12 +103,15 @@ Bystyreprogram, Oslo Venstre, Første utkast
 - Gå til krig med Statens Vegvesen for å få makta overført til kommunen, slik at vi får bestemmelsesmakt over veinettet i boligområder-
 - Det fungerer ikke med hjertesoner rundt skoler, ettersom det kjøres for fort, og det er vanskelig å regulere dette.
 - Det må på plass fartsreduserende tiltak i sentrumsnære områder, og særlig i områder rundt barneskoler (Leif)
+
 ## Gå- og sykkelbyen Oslo
 - Stenge Finnmarksgata for annen trafikk enn HC og kollektivtrafikk.
 - Stenge Grønland for trafikk. 
+
 ## Kollektivtransport
 - Hvordan er nettverket konstruert? Det er vanskelig å komme seg på tvers av byen, man må ofte via sentrum.
 - Sentrumstunnel for T-bane
+
 ## En miljøvennlig bilpolitikk
 - Skal være mulig å komme seg frem til sin egen bolig ved behov, og det skal være tilrettelagt for HC og kollektiv i sentrum.
 - Flere parkeringsplasser øremerket til bildeling.
@@ -113,7 +120,11 @@ Bystyreprogram, Oslo Venstre, Første utkast
 # Utdanning og oppvekst
 - Vi må markere oss mer på barn- og ungdomspolitikk i bydelen. Vi har mange gode innspill, men AP vinner det fleste sakene.
 - V har ikke gode svar på en del problemer, men vi er flinke til å si hvilke løsninger vi ikke vil ha. F. eks. vil vi ikke ha 3. boligsektor, men det er ikke en god løsning å nekte den fordi man vil ha mer boligbygging.
+
 ## Barnehage
+- Barn i bydelen skal ha tilgang til barnehage innenfor 1 km fra sitt bosted, og alle barn skal ha rett til en barnehage i trygge rammer og et trygt nærmiljø.
+- Barn i bydelen skal ha tilgang til barneskole innenfor 1 km fra sitt bosted, og alle barn skal ha rett til en barneskole i trygge rammer og et trygt nærmiljø.
+
 ## Barneskole
 ## Aktivitetsskolen
 ## Ungdomsskolen
@@ -124,25 +135,36 @@ Bystyreprogram, Oslo Venstre, Første utkast
 ## Læringsmiljø
 ## Studenter
 - Det er mange studenter som kunne ha bodd i bydelen. Både boligpolitikk og studentpolitikk.
+
 ## Barnevernet
 ## Oppvekst og nærmiljø
 - Gi unge mulighet til å få arbeidstrening og arbeidserfaring, uten at dette går utover inntektsgrenser for stønader (ref. sak på tøyen hvor familie ble kastet ut).
 - hva er det barm og unge vil ha (plasse ved Kampen)
+
 # Kultur og idrett
 ## En kulturby i verdensklasse
 - fotohuset operastranda/sukkerbiten
 - Kultur inn i botsparken
+
 ## Frivillighetshovedstaden
 - Alternativ bruk av tomme kontorlokaler, ettersom det nå er mange som heller har hjemmekontor. Dette kan også fungere godt sammen med utfordringer med for få klubbhus.
 - Vi vil bruke frivilligheten mer for å skape gode løsninger for barn og unge.
+
 ## Friluftsliv i byen
 ## Idrettsglede for alle
 ## Idrettsanlegg
 
 # Helse
+- FAKT-tilnærming, hvor helsehjelpen bringes hjem til pasientene, slik at de kan fortsette å bo hjemme fremfor å flytte på langtidsplasser.
+- FAKTung og FAKTrus
 ## Sykehus
 ## Helsetjenester tilpasset folk
+- Hjemmehelsetjenesten får ikke tilskudd for å kunne utføre de arbeidsoppgaver som å kan gjennomføres i pasientenes hjem fremfor på sykehus/legekontor.
+- Hjemmehelsetjenesten trenger et kompetanseløft for å kunne hjelpe pasientene der de er.
+
 ## Bedre psykisk helsehjelp
+- Bedre digital helsehjelp, men ikke på bekostning av oppfølging av pasientene.
+
 ## Human ruspolitikk
 - Hjemløse med rusproblematikk.
 - Må løse problemet ved å tørre mer i rusbehandling. de som ikke evner eller vil slutte med rus, må få behandling slik at vi får dem bort fra gata.
@@ -156,11 +178,13 @@ Bystyreprogram, Oslo Venstre, Første utkast
 ## En fordomsfri sosialpolitikk
 ## Asyl og integrering
 - Krav til kunnskap
+
 ## Mangfold, rasisme og diskriminering
 ## Velferd og arbeid
 ## Kommunale botilbud
 - Tredje boligsektor. Stått tomt siden 2013, viser seg at dette ikke fungerte.
 - Det er ingen som ønsker at det skal være så stor gjennomfart i kommunale boliger, og vi får et vedvarende problem med lavinntektsfamilier i området.
+
 ## En trygg by
 - 12 % av all anmeldt kriminalitet i Oslo foregår i det som Oslo Politidistrikt klassifiserer som sentrum.
 
