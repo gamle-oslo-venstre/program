@@ -150,3 +150,7 @@ Miljø:
 - ferdig 1. desember
 - trykking av flier
 
+Hente inn innspill fra middelalder-grupper (Middelalderparken får en del endringer). Gøril hadde fått innspill om dette fra Odd-Einar
+Sentrum sektor skiller seg fra bydelene forøvrig.
+
+1-personshusholdninger over 46 67 % over snittet for resten av Oslo.
