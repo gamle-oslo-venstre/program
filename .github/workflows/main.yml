@@ -23,5 +23,5 @@ jobs:
         file-path: |
           *.pdf
           *.html
-      commit-msg: Auto-update HTML/PDF
-      github-token: ${{ secrets.GITHUB_TOKEN }}
+        commit-msg: Auto-update HTML/PDF
+        github-token: ${{ secrets.GITHUB_TOKEN }}
