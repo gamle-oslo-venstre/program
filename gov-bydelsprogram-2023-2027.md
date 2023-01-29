@@ -55,7 +55,7 @@ fritt og mangfoldig kulturliv og på dem som vil skape en arbeidsplass for seg s
 noen til. Vi vet at Oslo blir best når alle gode krefter bidrar og kommunen spiller på lag
 med næringslivet, frivilligheten og innbyggerne. 
  
-Oslo skal være en raus og inkluderende by med plass til alle, uavhengig av bakgrunn,
+Gamle Oslo skal være en raus og inkluderende bydel med plass til alle, uavhengig av bakgrunn,
 legning, livssyn, kjønn, alder, funksjonsevne og livssituasjon. Derfor er Venstre opptatt
 av å stå opp for de som trenger det mest. Vi skal bekjempe fattigdom og rasisme, og
 stille opp for sårbare grupper som i altfor lang tid har blitt møtt av det offentlige med
@@ -67,14 +67,71 @@ Vi håper du vil bli med på laget.
  
 Godt valg!
 
-Bystyreprogram, Oslo Venstre, Første utkast
+Bystyreprogram, Gamle Oslo Venstre, Første utkast
 
 # Klima og miljø
-## En klimavennlig hovedstad
-- Hvilken energistrategi har vi? (noe å ta med i bydelen?)
 
-## Grønt hverdagsliv og sirkulær økonomi
-- Har sirkulærøkonomi noen konsekvenser for vår bydel. Kan vi få god effekt av sirkulærøkonimi i bydelen?
+Verden står midt i en klima- og naturkrise. Venstre vil at Oslo skal være en
+nasjonal og internasjonal pådriver for gjennomføring av klimakutt som
+monner, og en by som tar vare på natur og dyreliv. Oslo må gå foran og vise
+at grønn omstilling er mulig, uten at det går på bekostning av innbyggernes
+livskvalitet eller frihet. 
+
+## En klimavennlig bydel
+
+Oslo må være en nullutslippsby innen 2030. Transport, avfall og bygg og an-
+legg står for nesten alle utslipp i Oslo. Hovedinnsatsen må derfor legges her.
+Bevaring, restaurering og reetablering av natur er avgjørende klimatiltak.
+Det bidrar til reduserte utslipp og gjør oss bedre rustet til å håndtere klima-
+endringene.
+
+##Gamle Oslo Venstre vil:
+
+-  Redusere biltrafikken i bydelen.
+
+- Bedre forholdene for ikke-syklende myke trafikanter
+
+- Stille strenge klima- og miljøkrav når utbyggingsområder planlegges.
+
+- At byggeplasser i bydelen blir utslippsfrie.
+
+- Stille krav om ren energiproduksjon og vegetasjon på tak og fasa-
+der i nye større bygg og lage incentiver for dette for eksisterende
+bygg, for å bidra til klimatilpasning og økt biologisk mangfold.
+
+- Øke produksjonen av fornybar energi i Oslo-området, blant annet
+ved å legge til rette for økt bruk av solceller på tak.
+
+## Grønt hverdagsliv og sirkulærøkonomi
+
+Å ta vare på miljøet handler om å ta ansvar, men det det handler også om å
+gjøre Oslo til en bedre by å bo i. En grønn by, der det er enkelt og billig å leve
+miljøvennlig, er en god by å bo i. Å gå, sykle og å reise kollektivt skal alltid
+være det rimeligste og beste alternativet. Nordmenn ligger på verdens-
+toppen i forbruk per innbygger. For å redusere belastningen som følge av
+forbruk og avfall, må vi legge til rette for økt gjenbruk av materialer og deling
+av ressursene. Venstre vil derfor gjøre det enklere og mer attraktivt å dele,
+gjenbruke, ombruke og resirkulere.
+
+##Gamle Oslo Venstre vil:
+- Prioritere fotgjengere, sykkel og kollektivtransport foran privat-
+bilisme.
+
+- Sørge for at alle har en park eller et grøntområde i gangavstand fra
+sin bolig.
+
+- Få slutt på overfylte søppeldunker ved å erstatte dem med smar-
+tere og mer innovative søppelkasser.
+
+- Stille krav om at næringslivet kildesorterer alt avfall.
+
+- Gjøre det enklere for Oinnbyggere i Gamle Oslo å sortere og resirkulere avfall, blant
+annet ved å utvide åpningstidene ved gjenbruksstasjonene og
+sikre et bedre tilbud for innsamling, gjenbruk og gjenvinning av
+tekstilavfall.
+
+- Gjøre bildelingsordninger mer tilgjengelig med flere reserverte
+parkeringsplasser og flere ladeplasser.
 
 ## En klimatilpasset by
 ## Mer natur i byen
