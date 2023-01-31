@@ -85,7 +85,7 @@ Bevaring, restaurering og reetablering av natur er avgjørende klimatiltak.
 Det bidrar til reduserte utslipp og gjør oss bedre rustet til å håndtere klima-
 endringene.
 
-##Gamle Oslo Venstre vil:
+## Gamle Oslo Venstre vil:
 
 -  Redusere biltrafikken i bydelen.
 
@@ -113,7 +113,7 @@ forbruk og avfall, må vi legge til rette for økt gjenbruk av materialer og del
 av ressursene. Venstre vil derfor gjøre det enklere og mer attraktivt å dele,
 gjenbruke, ombruke og resirkulere.
 
-##Gamle Oslo Venstre vil:
+## Gamle Oslo Venstre vil:
 - Prioritere fotgjengere, sykkel og kollektivtransport foran privat-
 bilisme.
 
@@ -135,7 +135,9 @@ parkeringsplasser og flere ladeplasser.
 
 ## En klimatilpasset by
 ## Mer natur i byen
+
 - Bevare trær og grøntområder. Ikke bare grøntområder, men at det faktisk er vill natur.
+-
 - Villplen og andre tiltak for å skape gode vilkår for dyreliv og innsekter.
 
 ## Ren og levende Oslofjord
