@@ -29,40 +29,26 @@ toc-depth: 2
 
 **Innledning**
 
-# Bystyreprogram
+# Bydelsprogram
 
-## Oslo Venstre
+## Gamle Oslo Venstre
 ### Første utkast
 
 Kjære velger,
 
-Som Gamle Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet,
-samtidig som vi tar vare på naturen og hverandre. Vår visjon er en grønnere, friere og
-rausere bydel, noe som ligger til grunn for dette programmet.
+Som Gamle Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet, samtidig som vi tar vare på naturen og hverandre. Vår visjon er en grønnere, friere og rausere bydel, noe som ligger til grunn for dette programmet.
 
 Vi skal gjøre Gamle Oslo til foregangsbydel i klima- og miljøpolitikken, samtidig som vi tar vare på den unike atmosfæren, og det brede, inklunderende og flerkulturelle miljøet vi har.
-For å sikre en grønn og klimavennlig bydel, må det bli billigere å ta miljøvennlige valg i hverdagen. Derfor vil Venstre ha billigere og bedre
-kollektivtransport, og gjøre byen mer tilgjengelig for syklister og gående. Samtidig skal
-vi stanse nedbyggingen av natur, og ta vare på de fine grøntområdene vi har i bydelen, ruste opp parker, og rense Oslofjorden og gjøre den tilgjengelig for alle.
-Det skal være trygt og godt å vokse opp i Oslo. Som liberale er vi opptatt av å gi barn og
-unge en utdanning og oppvekst som skaper like muligheter for alle. Venstre satser på
-skolen fordi kunnskap er nøkkelen til å løse utfordringene vi står overfor og utjevne
-sosiale forskjeller. Slik danner vi grunnlaget for at folk kan leve frie og gode liv.  
-Noe av det beste med Oslo er at vi har kultur for enhver smak, sjarmerende butikker og
-kulturbygg i verdensklasse, store smaksopplevelser og små nabolagskafeer, brennende
-idrettsglede og steder å nyte roen. Derfor heier vi på ildsjeler som beriker byen, på et
-fritt og mangfoldig kulturliv og på dem som vil skape en arbeidsplass for seg selv og
-noen til. Vi vet at Oslo blir best når alle gode krefter bidrar og kommunen spiller på lag
+For å sikre en grønn og klimavennlig bydel, må det bli billigere å ta miljøvennlige valg i hverdagen.
+Derfor vil Venstre ha billigere og bedre kollektivtransport, og gjøre byen mer tilgjengelig for syklister og gående.
+Samtidig skal vi stanse nedbyggingen av natur, og ta vare på de fine grøntområdene vi har i bydelen, ruste opp parker, og rense Oslofjorden og gjøre den tilgjengelig for alle. Det skal være trygt og godt å vokse opp i Oslo. Som liberale er vi opptatt av å gi barn og unge en utdanning og oppvekst som skaper like muligheter for alle. Venstre satser på skolen fordi kunnskap er nøkkelen til å løse utfordringene vi står overfor og utjevne sosiale forskjeller. Slik danner vi grunnlaget for at folk kan leve frie og gode liv. Noe av det beste med Oslo er at vi har kultur for enhver smak, sjarmerende butikker og kulturbygg i verdensklasse, store smaksopplevelser og små nabolagskafeer, brennende idrettsglede og steder å nyte roen. Derfor heier vi på ildsjeler som beriker byen, på et fritt og mangfoldig kulturliv og på dem som vil skape en arbeidsplass for seg selv og
+noen til.
+Vi vet at Oslo blir best når alle gode krefter bidrar og kommunen spiller på lag
 med næringslivet, frivilligheten og innbyggerne. 
  
-Gamle Oslo skal være en raus og inkluderende bydel med plass til alle, uavhengig av bakgrunn,
-legning, livssyn, kjønn, alder, funksjonsevne og livssituasjon. Derfor er Venstre opptatt
-av å stå opp for de som trenger det mest. Vi skal bekjempe fattigdom og rasisme, og
-stille opp for sårbare grupper som i altfor lang tid har blitt møtt av det offentlige med
-moralisme og stengte dører.
-I en tid der liberale verdier er under stort press, både i Norge og i resten av verden,
-trengs et parti som står opp for frihet og fellesskap, mot enkle populistiske
-løsninger. Når du velger Venstre er du med på å støtte opp om de liberale verdiene.
+Gamle Oslo skal være en raus og inkluderende bydel med plass til alle, uavhengig av bakgrunn, legning, livssyn, kjønn, alder, funksjonsevne og livssituasjon. Derfor er Venstre opptatt av å stå opp for de som trenger det mest. Vi skal bekjempe fattigdom og rasisme, og stille opp for sårbare grupper som i altfor lang tid har blitt møtt av det offentlige med moralisme og stengte dører.
+I en tid der liberale verdier er under stort press, både i Norge og i resten av verden, trengs et parti som står opp for frihet og fellesskap, mot enkle populistiske løsninger.
+Når du velger Venstre er du med på å støtte opp om de liberale verdiene.
 Vi håper du vil bli med på laget.
  
 Godt valg!
@@ -87,7 +73,7 @@ endringene.
 
 ## Gamle Oslo Venstre vil:
 
--  Redusere biltrafikken i bydelen.
+- Redusere biltrafikken i bydelen.
 
 - Bedre forholdene for ikke-syklende myke trafikanter
 
@@ -157,7 +143,7 @@ parkeringsplasser og flere ladeplasser.
 ## Gode og levende nabolag
 - Hva skjer med det gamle Munchmuseet?
 
-# Grønn transport
+# Samferdsel
 - Trafikkproblem særlig Grønland og Tøyen, få til noe med trafikkavvikling der.
 - Gå til krig med Statens Vegvesen for å få makta overført til kommunen, slik at vi får bestemmelsesmakt over veinettet i boligområder-
 - Det fungerer ikke med hjertesoner rundt skoler, ettersom det kjøres for fort, og det er vanskelig å regulere dette.
@@ -170,6 +156,32 @@ parkeringsplasser og flere ladeplasser.
 ## Kollektivtransport
 - Hvordan er nettverket konstruert? Det er vanskelig å komme seg på tvers av byen, man må ofte via sentrum.
 - Sentrumstunnel for T-bane
+
+## Gamle Oslo Venstre vil
+- at prisen på månedskortet reduseres til 499,- kroner, 299,- for studenter
+- gi gratis kollektivtransport til alle under 18 år hele døgnet
+- sørge for at Ruter-appen automatisk omgjør enkeltbilletter til den beste tilgjengelige billetten etter hvor mange reiser brukeren har hatt
+- bedre fremkommelighet for trikk og buss, der det er nødvendig, å begrense gateparkering og gjennomkjøring, samt opprette kollektivgater
+- etablere bussterminaler på Bryn og Helsfyr, der de grønne bussene skal snu i stedet for å kjøre gjennom sentrum
+- sørge for en utvidelse av buss- og T-banetilbudet på nattestid i bydelen.
+- sikre universell utforming av kollektivtilbudet, både av transportmidlene og holdeplassene slik at alle, uansett funksjonsevne, skal kunne
+reise miljøvennlig
+- 20-bussen skal gå hele veien til Kværnerbyen/svartdalsparken, via Dahlhaugs- og enebakkveien slik at svartdalsparken og området blir
+lettere tilgjengelig for bydelen.
+- opprettholde og forlenge eksisterende trikkelinjer, deriblant beholde trikken i Schweigaardsgate og opprette ny linje gjennom Galgeberg
+til Helsfyr
+- at 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
+
+## Fremtidens T-banenett
+
+T-banen er grunnstammen i kollektivtrafikken i Oslo. T-banenettet må utvides for å nå nye områder, og kapasiteten gjennom sentrum må økes
+for å kunne ha flere avganger.
+
+## Gamle Oslo Venstre vil
+- øke kapasiteten og frekvensen på T-banenettet gjennom blant annet bygging av ny sentrumstunnel
+- utrede alternativer til Ruters anbefalte trasévalg, blant annet et alternativ som treffer Øvre Grünerløkka, St. Hanshaugen og Bislett og et
+alternativ som treffer Øvre Grünerløkka, Ullevål Sykehus og Bislett. Traséen skal legges slik at Bislett stadion ikke står i fare for å måtte
+rives i byggeperioden
 
 ## En miljøvennlig bilpolitikk
 - Skal være mulig å komme seg frem til sin egen bolig ved behov, og det skal være tilrettelagt for HC og kollektiv i sentrum.
