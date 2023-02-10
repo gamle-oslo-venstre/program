@@ -1,4 +1,7 @@
 on:
+  push:
+    paths:
+      - 'gov-*.md'
   workflow_dispatch:
 jobs:
   generate_docs:
