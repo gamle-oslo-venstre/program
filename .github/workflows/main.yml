@@ -13,7 +13,7 @@ jobs:
 
     - uses: awalsh128/cache-apt-pkgs-action@latest
       with:
-        packages: pandoc texlive-xetex texlive-latex-extra texlive-extra-utils texlive-fonts-recommended
+        packages: pandoc texlive-latex-base texlive-xetex texlive-latex-extra texlive-extra-utils texlive-fonts-recommended
         version: 1.0
 
     - name: re-run config
