@@ -56,6 +56,8 @@ Godt valg!
 
 Bystyreprogram, Gamle Oslo Venstre, Første utkast
 
+\newpage
+
 # Klima og miljø
 
 Verden står midt i en klima- og naturkrise. Venstre vil at Oslo skal være en
