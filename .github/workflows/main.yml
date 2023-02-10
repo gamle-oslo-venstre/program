@@ -17,7 +17,7 @@ jobs:
         version: 1.0
 
     - name: re-run config See https://github.com/awalsh128/cache-apt-pkgs-action/issues/57
-      run: sudo fmtutil-sys --all; sudo mktexlsr /var/lib/texmf
+      run: sudo update-fmtutil; # sudo fmtutil-sys --all; sudo mktexlsr /var/lib/texmf
 
     - name: generate html
       run: for SRC in `ls gov-*.md`; do export BASE=`basename ${SRC} .md`; pandoc --css pandoc.css -s --toc-depth 2 --toc --pdf-engine xelatex -f markdown ${SRC} --metadata pagetitle="Gamle Oslo Venstre bydelsprogram 2023-2027" | perl -wple 's/eps/svg/' > ${BASE}.html; done
