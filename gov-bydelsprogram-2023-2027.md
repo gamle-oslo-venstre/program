@@ -146,21 +146,6 @@ parkeringsplasser og flere ladeplasser.
 - Rense opp Oslofjorden, og innføre tiltak som sørger for renhold og ivaretagelse av
 - områdene rundt Sørenga, Operastranda etc.
 
-# Byutvikling
-## En grønn by med plass til alle
-- Fotohuset er satt på hold, men det er ingen tiltak for hva som kan gjøres i mellomtiden.
-- Legge press på grunneiere om utvikling av områdene.
-- Kan f. eks. Operaen og Munchmuseet gjøre noe med området mellom sukkerbiten og Operastranda dersom de får tilgang til det?
-
-## Nye byutviklingsområder
-- Konsekvensene av NRK-utbyggingen.
-- Det er viktig for bydelen å få utviklingen og tilgang til den tekniske kompetansen som vil komme med flytting av NRK-bygget.
-- Ikke høyhus i områder med gammel bebyggelse, men kan fint bygges der 
-
-## Boliger for alle
-## Gode og levende nabolag
-- Hva skjer med det gamle Munchmuseet?
-
 # Samferdsel
 - Trafikkproblem særlig Grønland og Tøyen, få til noe med trafikkavvikling der.
 - Gå til krig med Statens Vegvesen for å få makta overført til kommunen, slik at vi får bestemmelsesmakt over veinettet i boligområder-
@@ -176,7 +161,7 @@ parkeringsplasser og flere ladeplasser.
 - Sentrumstunnel for T-bane
 
 ## Gamle Oslo Venstre vil
-- at prisen på månedskortet reduseres til 499,- kroner, 299,- for studenter
+- at prisen på månedskortet reduseres til maks 600,- kroner, og maks 300,- for rabatterte billeter.
 - gi gratis kollektivtransport til alle under 18 år hele døgnet
 - sørge for at Ruter-appen automatisk omgjør enkeltbilletter til den beste tilgjengelige billetten etter hvor mange reiser brukeren har hatt
 - bedre fremkommelighet for trikk og buss, der det er nødvendig, å begrense gateparkering og gjennomkjøring, samt opprette kollektivgater
@@ -206,6 +191,21 @@ rives i byggeperioden
 - Flere parkeringsplasser øremerket til bildeling.
 - Krav til nullutslippsbiler innenfor ring 3 (unntak HC).
 
+# Byutvikling
+## En grønn by med plass til alle
+- Fotohuset er satt på hold, men det er ingen tiltak for hva som kan gjøres i mellomtiden.
+- Legge press på grunneiere om utvikling av områdene.
+- Kan f. eks. Operaen og Munchmuseet gjøre noe med området mellom sukkerbiten og Operastranda dersom de får tilgang til det?
+
+## Nye byutviklingsområder
+- Konsekvensene av NRK-utbyggingen.
+- Det er viktig for bydelen å få utviklingen og tilgang til den tekniske kompetansen som vil komme med flytting av NRK-bygget.
+- Ikke høyhus i områder med gammel bebyggelse, men kan fint bygges der 
+
+## Boliger for alle
+## Gode og levende nabolag
+- Hva skjer med det gamle Munchmuseet?
+
 # Utdanning og oppvekst
 - Vi må markere oss mer på barn- og ungdomspolitikk i bydelen. Vi har mange gode innspill, men AP vinner det fleste sakene.
 - V har ikke gode svar på en del problemer, men vi er flinke til å si hvilke løsninger vi ikke vil ha. F. eks. vil vi ikke ha 3. boligsektor, men det er ikke en god løsning å nekte den fordi man vil ha mer boligbygging.
@@ -230,7 +230,7 @@ rives i byggeperioden
 - Gi unge mulighet til å få arbeidstrening og arbeidserfaring, uten at dette går utover inntektsgrenser for stønader (ref. sak på tøyen hvor familie ble kastet ut).
 - hva er det barm og unge vil ha (plasse ved Kampen)
 
-# Kultur og idrett
+# Kultur, idrett og friluftsliv
 ## En kulturby i verdensklasse
 - fotohuset operastranda/sukkerbiten
 - Kultur inn i botsparken
@@ -242,6 +242,11 @@ rives i byggeperioden
 ## Friluftsliv i byen
 ## Idrettsglede for alle
 ## Idrettsanlegg
+
+# Næring, arbeid og skatt
+## Næringsbyen Oslo
+## Et levende uteliv
+## Skatt og avgift
 
 # Helse
 - FAKT-tilnærming, hvor helsehjelpen bringes hjem til pasientene, slik at de kan fortsette å bo hjemme fremfor å flytte på langtidsplasser.
@@ -276,11 +281,6 @@ rives i byggeperioden
 
 ## En trygg by
 - 12 % av all anmeldt kriminalitet i Oslo foregår i det som Oslo Politidistrikt klassifiserer som sentrum.
-
-# Næring, arbeid og skatt
-## Næringsbyen Oslo
-## Et levende uteliv
-## Skatt og avgift
 
 # En moderne kommune
 ## En effektiv og tilgjengelig kommune
