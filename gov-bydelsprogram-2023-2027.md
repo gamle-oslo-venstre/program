@@ -37,18 +37,31 @@ toc-depth: 2
 
 Kjære velger,
 
-Som Gamle Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet, samtidig som vi tar vare på naturen og hverandre. Vår visjon er en grønnere, friere og rausere bydel, noe som ligger til grunn for dette programmet.
+Som Gamle Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet,
+samtidig som vi tar vare på naturen og hverandre. Vår visjon er en grønnere, friere og rausere bydel,
+noe som ligger til grunn for dette programmet.
 
-Vi skal gjøre Gamle Oslo til foregangsbydel i klima- og miljøpolitikken, samtidig som vi tar vare på den unike atmosfæren, og det brede, inklunderende og flerkulturelle miljøet vi har.
+Vi skal gjøre Gamle Oslo til foregangsbydel i klima- og miljøpolitikken, samtidig som vi tar vare på
+den unike atmosfæren, og det brede, inklunderende og flerkulturelle miljøet vi har.
 For å sikre en grønn og klimavennlig bydel, må det bli billigere å ta miljøvennlige valg i hverdagen.
 Derfor vil Venstre ha billigere og bedre kollektivtransport, og gjøre byen mer tilgjengelig for syklister og gående.
-Samtidig skal vi stanse nedbyggingen av natur, og ta vare på de fine grøntområdene vi har i bydelen, ruste opp parker, og rense Oslofjorden og gjøre den tilgjengelig for alle. Det skal være trygt og godt å vokse opp i Oslo. Som liberale er vi opptatt av å gi barn og unge en utdanning og oppvekst som skaper like muligheter for alle. Venstre satser på skolen fordi kunnskap er nøkkelen til å løse utfordringene vi står overfor og utjevne sosiale forskjeller. Slik danner vi grunnlaget for at folk kan leve frie og gode liv. Noe av det beste med Oslo er at vi har kultur for enhver smak, sjarmerende butikker og kulturbygg i verdensklasse, store smaksopplevelser og små nabolagskafeer, brennende idrettsglede og steder å nyte roen. Derfor heier vi på ildsjeler som beriker byen, på et fritt og mangfoldig kulturliv og på dem som vil skape en arbeidsplass for seg selv og
-noen til.
-Vi vet at Oslo blir best når alle gode krefter bidrar og kommunen spiller på lag
-med næringslivet, frivilligheten og innbyggerne. 
+Samtidig skal vi stanse nedbyggingen av natur, og ta vare på de fine grøntområdene vi har i bydelen, ruste opp parker,
+og rense Oslofjorden og gjøre den tilgjengelig for alle. Det skal være trygt og godt å vokse opp i Oslo.
+Som liberale er vi opptatt av å gi barn og unge en utdanning og oppvekst som skaper like muligheter for alle.
+Venstre satser på skolen fordi kunnskap er nøkkelen til å løse utfordringene vi står overfor og utjevne
+sosiale forskjeller. Slik danner vi grunnlaget for at folk kan leve frie og gode liv. Noe av det beste med Oslo
+er at vi har kultur for enhver smak, sjarmerende butikker og kulturbygg i verdensklasse, store smaksopplevelser
+og små nabolagskafeer, brennende idrettsglede og steder å nyte roen. Derfor heier vi på ildsjeler som beriker byen,
+på et fritt og mangfoldig kulturliv og på dem som vil skape en arbeidsplass for seg selv og noen til.
+Vi vet at Oslo blir best når alle gode krefter bidrar og kommunen spiller på lagmed næringslivet, frivilligheten
+og innbyggerne. 
  
-Gamle Oslo skal være en raus og inkluderende bydel med plass til alle, uavhengig av bakgrunn, legning, livssyn, kjønn, alder, funksjonsevne og livssituasjon. Derfor er Venstre opptatt av å stå opp for de som trenger det mest. Vi skal bekjempe fattigdom og rasisme, og stille opp for sårbare grupper som i altfor lang tid har blitt møtt av det offentlige med moralisme og stengte dører.
-I en tid der liberale verdier er under stort press, både i Norge og i resten av verden, trengs et parti som står opp for frihet og fellesskap, mot enkle populistiske løsninger.
+Gamle Oslo skal være en raus og inkluderende bydel med plass til alle, uavhengig av bakgrunn, legning, livssyn,
+kjønn, alder, funksjonsevne og livssituasjon. Derfor er Venstre opptatt av å stå opp for de som trenger det mest.
+Vi skal bekjempe fattigdom og rasisme, og stille opp for sårbare grupper som i altfor lang tid har blitt møtt av
+det offentlige med moralisme og stengte dører.
+I en tid der liberale verdier er under stort press, både i Norge og i resten av verden, trengs et parti som står
+opp for frihet og fellesskap, mot enkle populistiske løsninger.
 Når du velger Venstre er du med på å støtte opp om de liberale verdiene.
 Vi håper du vil bli med på laget.
  
@@ -72,7 +85,8 @@ Oslo må være en nullutslippsby innen 2030. Transport, avfall og bygg og an-
 legg står for nesten alle utslipp i Oslo. Hovedinnsatsen må derfor legges her.
 Bevaring, restaurering og reetablering av natur er avgjørende klimatiltak.
 Det bidrar til reduserte utslipp og gjør oss bedre rustet til å håndtere klima-
-endringene.
+endringene. Venstre ønsker derfor at bydel Gamle Oslo skal være en foregangsbydel,
+med gode eksempler på hvordan det er mulig å redusere
 
 ## Gamle Oslo Venstre vil:
 
@@ -126,15 +140,16 @@ parkeringsplasser og flere ladeplasser.
 ## Mer natur i byen
 
 - Bevare trær og grøntområder. Ikke bare grøntområder, men at det faktisk er vill natur.
--
 - Villplen og andre tiltak for å skape gode vilkår for dyreliv og innsekter.
 
 ## Ren og levende Oslofjord
-- Rense opp Oslofjorden, og innføre tiltak som sørger for renhold og ivaretagelse av områdene rundt Sørenga, Operastranda etc.
+- Rense opp Oslofjorden, og innføre tiltak som sørger for renhold og ivaretagelse av
+- områdene rundt Sørenga, Operastranda etc.
 
 # Byutvikling
 ## En grønn by med plass til alle
-- Fotohuset er satt på hold, men det er ingen tiltak for hva som kan gjøres i mellomtiden. Legge press på grunneiere om utvikling av områdene.
+- Fotohuset er satt på hold, men det er ingen tiltak for hva som kan gjøres i mellomtiden.
+- Legge press på grunneiere om utvikling av områdene.
 - Kan f. eks. Operaen og Munchmuseet gjøre noe med området mellom sukkerbiten og Operastranda dersom de får tilgang til det?
 
 ## Nye byutviklingsområder
