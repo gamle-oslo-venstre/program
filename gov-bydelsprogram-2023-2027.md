@@ -209,7 +209,7 @@ Skole er et kommunalt ansvar, men bydelen er ansvarlig for oppfølging av barn o
 tilknytning til skolene, slik som aktivitetsskole, helsesykepleier, Friluftssenteret i Gamle Oslo (FRIGO) og aktivitetsklubber.
 Gamle Oslo Venstre vil fortsette å satse på barn og unge, og tilby gode rammer for å gjennomføre aktiviteter i tilknytning til skole og aktivitetsklubber.
 
-##Osloskolen
+## Osloskolen
 Gamle Oslo Venstre vil ha en friere skole hvor hva du lærer er viktigere enn hvordan, og der skolen sikrer like muligheter for
 alle barn. Det krever at undervisningen tilpasses den enkelt elevs utgangspunkt, interesser og ferdigheter, og ikke
 motsatt. Selv om Osloskolen i stor grad bidrar til å utjevne sosiale forskjeller, har vi fortsatt en vei å gå. En god skole koster
@@ -387,15 +387,12 @@ studentsamskipnaden.
 - Jobbe for at veksthus og andre utdanningsrelaterte institusjoner etablerer seg i bydelen der det er hensiktsmessig.
 
 ## Oppvekst og nærmiljø
-En viktig del av oppveksten til alle barn er nærmiljøene rundt hjem og skole. Barn har behov for trygge omgivelser både når
-det gjelder trafikk, lekeplasser og sosiale vilkår. Gamle Oslo Venstre vil derfor videreføre områdeprogrammene i de bydelene
-det gjelder og samtidig styrke arbeidet med gode nærområder over hele byen.
+En viktig del av oppveksten til alle barn er nærmiljøene rundt hjem og skole, og vi må derfor sørge for lekemuligheter i nærmiljøet, gode grøntområder 
+og tryggtrafikk. Gamle Oslo Venstre vil derfor videreføre områdeprogrammene i de bydelene
+det gjelder, og samtidig styrke arbeidet med gode nærområder i hele bydelen.
 
 ### Gamle Oslo Venstre vil:
-- Starte prosjekter der tjenester som barnevern, psykolog og NAV flyttes inn i skolen og ha aktivitet på skolens område
-også utenom skoletid (etter modell fra “Community schools” i Storbritannia), og gjennomføre slike tiltak f.eks. på Tøyen
-skole også på andre skoler som f.eks. Vahl skole.
-- Etablere flere lekeplasser for barn i bydelen
+- Sikre gode utearealer for alle barn, og etablere flere lekeplasser for barn i bydelen
 - Oppgradere bydelens grøntområder og gjøre dem mer tilgjengelig og attraktiv for barn og ungdom.
 - Arbeide for at alle barn i bydelen har trygge skoleveier, blant annet gjennom å stenge eksisterende bilveier for trafikk,
 begrense grønne busser i sentrum eller redusere tillatt hastighet, dette gjelder f.eks. skolevei til gamlebyen skole fra
@@ -409,33 +406,35 @@ og møteplasser for barn og unge
 ungdom.
 - Sikre god drift av ungdomsklubber i bydelen, ved at de har variert tilbud og er attraktive, tilgjengelige og gode møteplasser
 spesielt for ungdom mellom 15-18 år.
-- Ha lokalkjent politi i bydelen for å etablere kontakt med utsatte ungdomsgrupper og jobbe mer forebyggende
+- Ha lokalkjent politi- og miljøteam i bydelen for å etablere kontakt med utsatte ungdomsgrupper og jobbe mer forebyggende
 - Styrke oppsøkende tjenester/utekontakt i bydelen
 - Bidra til at flere menn jobber med barne- og ungdomstiltak som gode rollemodeller
 - Ha en ordning for aktivitetsbuss for barn og unge, der idrett- og kulturlag kan busses til fritidsaktivitet
-- jbbe for et langsiktig samarbeid mellom familier som trenger ekstra oppfølging, for å sikre at alle barn i bydelen
+- Jobbe for et langsiktig samarbeid mellom familier som trenger ekstra oppfølging, for å sikre at alle barn i bydelen
 gjennomfører skoleløpet og får en trygg oppvekst
 - Jobbe for at Grønland politistasjon gjennopptar arbeidet med "Ut i det fri med Oslo Politi"
+- Starte prosjekter der tjenester som barnevern, psykolog og NAV flyttes inn i skolen og ha aktivitet på skolens område
+også utenom skoletid (etter modell fra “Community schools” i Storbritannia), og gjennomføre slike tiltak f.eks. på Tøyen
+skole også på andre skoler som f.eks. Vahl skole.
+- Erstatte bruk av gummidekke som underlag på nye lekeplasser og uteområder med mer natur- og miljøvennlige alternativer.
 
 ## Barnevernet
 Gamle Oslo Venstre ønsker et barnevern som har tid og ressurser til å sette barnet i sentrum. Et godt barnevern er et barnevern
 som har tillit i befolkningen, og som har tid og mulighet til å gjøre gode undersøkelser og tiltak når det er nødvendig.
-Barnevernet skal jobbe kunnskapsbasert, og ikke påstandsbasert, for å finne
-de metodene som fungerer best for barna selv. For å kunne gi god hjelp
-trenger barnevernet faglig sterke medarbeidere med gode
-kommunikasjonsferdigheter.
+Barnevernet skal jobbe kunnskapsbasert, og ikke påstandsbasert, for å finne de metodene som fungerer best for barna selv.
+For å kunne gi god hjelp trenger barnevernet faglig sterke medarbeidere med gode kommunikasjonsferdigheter.
 
 ### Gamle Oslo Venstre vil:
-- Øke tilskuddet til barnevernet
-- Ha mer fokus på forebyggende arbeid i barnevernet, med aktivt samarbeid med familiene som trenger deres hjelp
-- Styrke barns medvirkning i avgjørelser som angår dem og sikre at barnets beste blir ivaretatt
+- Øke tilskuddet til barnevernet.
+- Ha mer fokus på forebyggende arbeid i barnevernet, med aktivt samarbeid med familiene som trenger deres hjelp.
+- Styrke barns medvirkning i avgjørelser som angår dem og sikre at barnets beste blir ivaretatt.
 - Gjøre barnevernet mer tilgjengelig slik at barn og foreldre i bydelen får bedre kjennskap til sine rettigheter og hva
 barnevernet kan hjelpe dem med.
-- Sikre nødvendig kompetanseheving i barnevernet og en enda bedre flerkulturell forståelse
-- Sikre tilstrekkelig ressurser til godt ettervern
+- Sikre nødvendig kompetanseheving i barnevernet og en enda bedre flerkulturell forståelse.
+- Sikre tilstrekkelig ressurser til godt ettervern.
 - Styrke fosterhjemstjenesten for å gi bedre støtte til fosterhjem og bedre rekrutteringen av fosterhjem, spesielt med
-flerkulturell bakgrunn
-- Styrke tolketjenesten for å styrke rettssikkherheten til familier som ikke snakker norsk
+flerkulturell bakgrunn.
+- Styrke tolketjenesten for å styrke rettssikkherheten til familier som ikke snakker norsk.
 
 # Kultur, idrett og friluftsliv
 ## En kulturby i verdensklasse
