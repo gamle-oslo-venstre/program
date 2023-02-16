@@ -87,7 +87,7 @@ endringene. Venstre ønsker derfor at bydel Gamle Oslo skal være en foregangsby
 med gode eksempler på hvordan det er mulig å redusere klimagassutslippene samtidig
 som byen blir bedre å bo i.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Stille strenge klima- og miljøkrav når utbyggingsområder planlegges.
 - At byggeplasser i bydelen blir utslippsfrie.
 - Stille krav om ren energiproduksjon og vegetasjon på tak og fasa-
@@ -111,7 +111,7 @@ forbruk og avfall, må vi legge til rette for økt gjenbruk av materialer og del
 av ressursene. Venstre vil derfor gjøre det enklere og mer attraktivt å dele,
 gjenbruke, ombruke og resirkulere.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Sørge for at alle har en park eller et grøntområde i gangavstand fra
 sin bolig.
 - Få slutt på overfylte søppeldunker ved å erstatte dem med smar-
@@ -152,7 +152,7 @@ sørge for at indre by har et finmasket nett av bilfrie gater. Rundt skoler og
 barnehager vil vi opprette bilfrie soner, der barn fritt kan ferdes trygt og på 
 egenhånd.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Prioritere fotgjengere, sykkel og kollektivtransport foran privatbilisme.
 - Stenge Finnmarksgata for annen trafikk enn HC og kollektivtrafikk. 
 - Redusere biltrafikken i bydelen.
@@ -162,12 +162,13 @@ egenhånd.
 - Stenge Grønland for trafikk fra Vaterland Bru tilkrysset Tøyenbekken/Grønlandsleiret.
 - Sørge for at Sentrumsnære områder i stor grad er steng for bilisme, men tilrettelagt for HC; varelevering og tjeneseutøvelse.
 - Jobbe for at alle offentlige områder i Gamle Oslo blir universelt utformet.
+- opprette flere bysykkelstasjoner og parkeringer i bydelens områder, deriblant ved Kampen-trappa, Valle-Hovin og Harald Hårdrådes plass
 
 ## Kollektivtransport
 Venstre vil være en garantist for at kollektivtrafikken i Oslo skal være rimelig, ha hyppige avganger og nå ut til flest mulig.
 Det handler om at du skal komme deg dit du skal på en god og miljøvennlig måte.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - At prisen på månedskortet reduseres til maks 600,- kroner, og maks 300,- for rabatterte billeter.
 - Gi gratis kollektivtransport til alle under 18 år hele døgnet
 - Sørge for at Ruter-appen automatisk omgjør enkeltbilletter til den beste tilgjengelige billetten etter hvor mange reiser brukeren har hatt
@@ -185,7 +186,7 @@ til Helsfyr
 ## Fremtidens T-banenett
 T-banen er grunnstammen i kollektivtrafikken i Oslo. T-banenettet må utvides for å nå nye områder, og kapasiteten gjennom sentrum må økes for å kunne ha flere avganger.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Øke kapasiteten og frekvensen på T-banenettet gjennom blant annet bygging av ny sentrumstunnel
 - Utrede alternativer til Ruters anbefalte trasévalg, blant annet et alternativ som treffer Øvre Grünerløkka, St. Hanshaugen og Bislett og et
 alternativ som treffer Øvre Grünerløkka, Ullevål Sykehus og Bislett. Traséen skal legges slik at Bislett stadion ikke står i fare for å måtte
@@ -194,24 +195,24 @@ rives i byggeperioden-
 
 ## En miljøvennlig bilpolitikk
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 # Byutvikling
 ## En grønn by med plass til alle
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Nye byutviklingsområder
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Boliger for alle
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Gode og levende nabolag
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 # Utdanning og Oppvekst
 Skole er et kommunalt ansvar, men bydelen er ansvarlig for oppfølging av barn og unge i bydelen. Mye aktivitet skjer i
@@ -224,7 +225,7 @@ alle barn. Det krever at undervisningen tilpasses den enkelt elevs utgangspunkt,
 motsatt. Selv om Osloskolen i stor grad bidrar til å utjevne sosiale forskjeller, har vi fortsatt en vei å gå. En god skole koster
 penger, og det er Venstre villig til å prioritere.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - At ressursene skal tilpasses behovene på den enkelte skole; det vil si at alle skoler skal være rustet til å gi et godt tilbud
 til sine elever, samtidig som at enkelte skoler skal få nok ressurser til å møte elever som trenger tettere oppfølging.
 - At alle skoleveier skal være trygge og at det tilrettelegges for sykling til skolen.
@@ -248,7 +249,7 @@ Gode lærere er det aller viktigste for elevenes læring. Venstres svar på utfo
 og bedre vilkår for lærerne og skolelederne, styrke grunnskolen som allmenndannende del av skoleløpet.
 kunnskapsrike lærere, som er omgitt av gode og stabile fagmiljø, er avgjørende for å sikre økt læring og mindre uro i Osloskolen.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Rekruttere de beste lærerne til Gamle Oslo ved å tilby høyere lønn og bedre betingelser.
 - Tilrettelegge for økt digital kompetanse blant lærere i bydelens skoler, blant annet for mer visuell opplæring for de minste.
 - Jobbe aktivt for å rekruttere flere menn og flere med minoritetsbakgrunn inn i bydelens skoler.
@@ -267,7 +268,7 @@ voksne er helt avgjørende for barna. Kvaliteten på barnehagene i Oslo
 varierer, og enkelte barnehager har for lav voksentetthet eller for lav 
 kompetanse blant de ansatte. Gamle Oslo Venstre vil alltid sette kvalitet først.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - At alle skal ha mulighet til å få plass i en barnehage i sitt nærmiljø.
 - Jobbe for oppheve forbudet mot private aktører i Oslobarnehagen
 - Jobbe for å etablere en kveldsåpen barnehage i bydelen, kombinert med makstid per døgn og uke
@@ -291,7 +292,7 @@ barnehagens profil
 i modenhet innenfor et årstrinn, og at mange barn starter på skolen uten å kunne godt nok norsk til å følge ordinær
 undervisning. Osloskolen må ta tak i disse utfordringene som er svært relevante spesielt i bydelen vår.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Gjøre det enklere å utsette eller fremskynde skolestart.
 - Legge til rette for at elever skal få hospitere i andre klassetrinn i fag der de ligger på et annet nivå enn eget klassetrin
 - At kartleggingsprøver først og fremst skal benyttes som pedagogiske verktøy for å gi hvert barn faglige utfordringer på
@@ -305,7 +306,7 @@ riktig nivå og identifisere eventuelle behov for tilrettelagt opplæring
 Aktivitetsskolen er et viktig tilbud for mange elever, og det bør derfor være tilgjengelig for flere. Spesielt viktig er det å øke
 deltakelsen i AKS blant de elevene som trenger mer oppfølging og trening i ferdigheter.
 
-## Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - La alle elever få muligheten til å gå gratis på Aktivitetsskolen
 - Stille krav om at AKS-ledere har en relevant kompetanse
 - At AKS samarbeider med frivillige organisasjoner, aktører innen kulturlivet og idrettslag for å gi barn en variert og
@@ -318,7 +319,7 @@ fullfører grunnskolen med et godt utgangspunkt for videre utdanning.
 Ungdomsskolen skal motivere og engasjere elever til å fordype seg i fagene
 og oppdage hvilke interesser og ønsker de har for sitt liv.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Vurdere prøveprosjekt med profilskoler i grunnskolen, med skoler som spisser undervisningen inn mot utvalgte tema som realfag, språk, kunst eller kultur.
 - Søke om å få øke timetallet i, og tilbudet av valgfag, for å gjøre ungdomsskolen mer motiverende for elevene.
 - Utvide ordningen med et ekstra år med 11. klasse eller intensivkurs for de som ikke har bestått fag.
@@ -336,7 +337,7 @@ i bydelen
 ## Videregående opplæring
 Vi har flere videregående skoler plassert i bydelen vår som er viktig for tilbudet for ungdom fra hele byen.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Beholde fritt skolevalg slik at elever fortsatt kan velge skole basert på interesser og ikke låses basert på postnummeret
 til foreldrene.
 - Styrke Osloskolens arbeid med frafall og samarbeide med bydelen om andre tjenester og oppfølging til elever som står i
@@ -352,7 +353,7 @@ og være positiv til friskoler med pedagogisk alternativ.
 studiekompetanse uten full fordypning, som idrettsfag, medier og
 kommunikasjon.
 
-## For Yrkesfag vil Gamle Oslo Venstre:
+**For Yrkesfag vil Gamle Oslo Venstre:**
 - stille krav om lærlingplasser ved kommunale anbud spesielt i vår bydel, ha flere Varde-prosjekter og øke inntaket av
 lærlinger i kommunens virksomheteR
 - Styrke kvaliteten på lærlingers opplæring ved å etablere
@@ -363,12 +364,12 @@ For å skape et godt psykososialt læringsmiljø for elevene er det nødvendig m
 elevene med helseplager og andre utfordringer som elevene møter i skolehverdagen. Skolehelsetjenesten er under bydelens
 ansvarsområder og det er viktig å sikre et godt tilbud for skolene.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Gjøre skolehelsetjenesten mer tilgjengelig for Oslos lærlinger gjennom flere ansatte og utvikling av plattformer for digital skolehelsetjeneste.
 
 ## Læringsmiljø
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Jobbe for å ta igjen vedlikeholdsetterslepet i Osloskolen.
 - Gjennomføre et grønt skolegårdsløft i byens skolegårder og
 uteområdene i barnehagene.
@@ -384,7 +385,7 @@ og er en viktig del av Oslo befolkning. I dag er det er vanskelig for studenter
 og utilgjengelige for studenter med dårlig råd. Vi må tilrettelegge for flere
 studentboliger og et bedre og rimeligere kulturtilbud for studenter.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Sikre at alle kulturtilbud som mottar kommunal støtte skal ha stu-
 dentrabatt.
 - Bedre studentidrettens tilgang på anlegg.
@@ -400,7 +401,7 @@ En viktig del av oppveksten til alle barn er nærmiljøene rundt hjem og skole, 
 og tryggtrafikk. Gamle Oslo Venstre vil derfor videreføre områdeprogrammene i de bydelene
 det gjelder, og samtidig styrke arbeidet med gode nærområder i hele bydelen.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Sikre gode utearealer for alle barn, og etablere flere lekeplasser for barn i bydelen
 - Oppgradere bydelens grøntområder og gjøre dem mer tilgjengelig og attraktiv for barn og ungdom.
 - Arbeide for at alle barn i bydelen har trygge skoleveier, blant annet gjennom å stenge eksisterende bilveier for trafikk,
@@ -433,7 +434,7 @@ som har tillit i befolkningen, og som har tid og mulighet til å gjøre gode und
 Barnevernet skal jobbe kunnskapsbasert, og ikke påstandsbasert, for å finne de metodene som fungerer best for barna selv.
 For å kunne gi god hjelp trenger barnevernet faglig sterke medarbeidere med gode kommunikasjonsferdigheter.
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Øke tilskuddet til barnevernet.
 - Ha mer fokus på forebyggende arbeid i barnevernet, med aktivt samarbeid med familiene som trenger deres hjelp.
 - Styrke barns medvirkning i avgjørelser som angår dem og sikre at barnets beste blir ivaretatt.
@@ -448,96 +449,96 @@ flerkulturell bakgrunn.
 # Kultur, idrett og friluftsliv
 ## En kulturby i verdensklasse
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Frivillighetshovedstaden
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Friluftsliv i byen
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Idrettsglede for alle
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Idrettsanlegg
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 # Næring, arbeid og skatt
 ## Næringsbyen Oslo
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Et levende uteliv
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Skatt og avgift
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 # Helse
 ## Sykehus
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Helsetjenester tilpasset folk
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Bedre psykisk helsehjelp
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Human ruspolitikk
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Trygg fødsels- og barselomsorg
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Seksuell og reproduktiv helse
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Fremtidens eldreomsorg
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 # Sosial, trygghet og mangfold
 ## En fordomsfri sosialpolitikk
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Asyl og integrering
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Mangfold, rasisme og diskriminering
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Velferd og arbeid
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Kommunale botilbud
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## En trygg by
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 # En moderne kommune
 ## En effektiv og tilgjengelig kommune
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 
 ## Åpenhet og demokrati
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
