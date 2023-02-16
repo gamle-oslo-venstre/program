@@ -234,7 +234,7 @@ mulig også som en integrert del av klassemiljøet.
 - Opprette flere plasser i Sommerskolen, og gjøre tilbudet kjent i bydelen.
 - Ikke tillate narkorazziaer eller kameraovervåkning mens barna er på skolen.
 
-## Lærerne
+## Læreren
 Gode lærere er det aller viktigste for elevenes læring. Venstres svar på utfordringene i Osloskolen er å sikre høy kompetanse
 og bedre vilkår for lærerne og skolelederne, styrke grunnskolen som allmenndannende del av skoleløpet.
 kunnskapsrike lærere, som er omgitt av gode og stabile fagmiljø, er avgjørende for å sikre økt læring og mindre uro i Osloskolen.
@@ -253,7 +253,13 @@ innhold og åpningstid, som passer for deg og din hverdag og der ditt barn trive
 uteområder og variasjon i aktivitetstilbudet til barna er viktig for sikre høy kvalitet på barnehagene våre uansett hvem som
 leverer tjenestene.
 
+Kompetanse hos ledelse, lærere og ansatte, gode inne- og utemiljø og nok 
+voksne er helt avgjørende for barna. Kvaliteten på barnehagene i Oslo 
+varierer, og enkelte barnehager har for lav voksentetthet eller for lav 
+kompetanse blant de ansatte. Gamle Oslo Venstre vil alltid sette kvalitet først.
+
 ## Gamle Oslo Venstre vil:
+- At alle skal ha mulighet til å få plass i en barnehage i sitt nærmiljø.
 - Jobbe for oppheve forbudet mot private aktører i Oslobarnehagen
 - Jobbe for å etablere en kveldsåpen barnehage i bydelen, kombinert med makstid per døgn og uke
 - Jobbe for å ha en riktig dekning av barnehageplasser ut i fra de ulike behovene i delbydelene, gjerne i forbindelse med
@@ -269,7 +275,7 @@ utearealer
 - Legge til rette for et mangfoldig tilbud av type barnehager, slik at foreldre kan velge barnehageplass også ut fra
 barnehagens profil
 - Sette av minst 1 million i året til oppgradering av lekeapparater og uteområder i barnehagene i bydelen.
-- Innføre opplæring i grensesetting og seksualitet fra og med barnehagen
+- Innføre opplæring i grensesetting og seksualitet fra og med barnehagen.
 
 ## Barneskole
 Å få en god start på skolegangen er avgjørende for å lykkes senere i utdanningsløpet. Vi vet at det er store forskjeller
@@ -278,18 +284,13 @@ undervisning. Osloskolen må ta tak i disse utfordringene som er svært relevant
 
 ## Gamle Oslo Venstre vil:
 - Gjøre det enklere å utsette eller fremskynde skolestart.
-- Legge til rette for at elever skal få hospitere i andre klassetrinn i fag der de ligger på et annet nivå enn eget klassetrinn
-4
+- Legge til rette for at elever skal få hospitere i andre klassetrinn i fag der de ligger på et annet nivå enn eget klassetrin
 - At kartleggingsprøver først og fremst skal benyttes som pedagogiske verktøy for å gi hvert barn faglige utfordringer på
 riktig nivå og identifisere eventuelle behov for tilrettelagt opplæring
 - Utvide svømmeundervisningen slik at alle barn i bydelen lærer å svømme i løpet av barneskolen
-- Åpne for muligheten for å ha valgfag i flere fremmedspråk enn det som tilbys, blant annet de mest utbredte morsmålene
-i bydelen
-- At også ungdomsskoleelever skal kunne ta ut politisk fravær
-- Sørge for at retten til plass på nærskolen er reell
-- Åpne for et ekstra skoleår mellom ungdomsskolen og videregående for å kvalifisere flere til vgs ved Jordal ungdomsskole
-- Lage tilbud med intensivkurs for elever som ønsker å styrke kunnskapene sine i enkeltfag før videregående opplæring
 - Sørge for raskere ferdigstillelse av barne- og ungdomsskole på Sørenga, med bredt opptak fra bydelen
+- Styrke tilbudet til tilpasset opplæring for elever med høyere læringspotensial.
+- Innføre andre fremmedspråk fra femte klasse og gi flere valgmuligheter enn i dag. 
 
 ## Aktivitetsskolen
 Aktivitetsskolen er et viktig tilbud for mange elever, og det bør derfor være tilgjengelig for flere. Spesielt viktig er det å øke
@@ -309,18 +310,19 @@ Ungdomsskolen skal motivere og engasjere elever til å fordype seg i fagene
 og oppdage hvilke interesser og ønsker de har for sitt liv.
 
 ## Gamle Oslo Venstre vil:
-- Vurdere prøveprosjekt med profilskoler i grunnskolen, med skoler
-som spisser undervisningen inn mot utvalgte tema som realfag,
-språk, kunst eller kultur.
-- Søke om å få øke timetallet i, og tilbudet av valgfag, for å gjøre
-ungdomsskolen mer motiverende for elevene.
-- Utvide ordningen med et ekstra år med 11. klasse eller intensivkurs
-for de som ikke har bestått fag.
-- Styrke den tilpassede opplæringen ved å legge til rette for at elever kan få tilrettelagt undervisning i fag der de ligger på et annet
-nivå enn eget klassetrinn.
-- Sikre faglig tilpasning ved å gjøre det enklere å hoppe over klassetrinn eller gå om igjen, når det vurderes best i tråd med elevens
-faglige nivå og utvikling, i samråd med foresatte og eleven selv.
+- Vurdere prøveprosjekt med profilskoler i grunnskolen, med skoler som spisser undervisningen inn mot utvalgte tema som realfag, språk, kunst eller kultur.
+- Søke om å få øke timetallet i, og tilbudet av valgfag, for å gjøre ungdomsskolen mer motiverende for elevene.
+- Utvide ordningen med et ekstra år med 11. klasse eller intensivkurs for de som ikke har bestått fag.
+- Styrke den tilpassede opplæringen ved å legge til rette for at elever kan få tilrettelagt undervisning i fag der de ligger på et annet nivå enn eget klassetrinn.
+- Sikre faglig tilpasning ved å gjøre det enklere å hoppe over klassetrinn eller gå om igjen, når det vurderes best i tråd med elevens faglige nivå og utvikling,
+i samråd med foresatte og eleven selv.
 - Stimulere til samfunnsengasjement ved at også ungdomsskoleelever skal kunne ta ut politisk fravær.
+- Åpne for muligheten for å ha valgfag i flere fremmedspråk enn det som tilbys, blant annet de mest utbredte morsmålene
+i bydelen
+- Sørge for at retten til plass på nærskolen er reell
+- Åpne for et ekstra skoleår mellom ungdomsskolen og videregående for å kvalifisere flere til vgs ved Jordal ungdomsskole
+- Lage tilbud med intensivkurs for elever som ønsker å styrke kunnskapene sine i enkeltfag før videregående opplæring
+- Sørge for raskere ferdigstillelse av barne- og ungdomsskole på Sørenga, med bredt opptak fra bydelen
 
 ## Videregående opplæring
 Vi har flere videregående skoler plassert i bydelen vår som er viktig for tilbudet for ungdom fra hele byen.
@@ -353,16 +355,18 @@ elevene med helseplager og andre utfordringer som elevene møter i skolehverdage
 ansvarsområder og det er viktig å sikre et godt tilbud for skolene.
 
 ## Gamle Oslo Venstre vil:
-- Gjøre skolehelsetjenesten mer tilgjengelig for Oslos lærlinger
-gjennom flere ansatte og utvikling av plattformer for digital
-skolehelsetjeneste.
+- Gjøre skolehelsetjenesten mer tilgjengelig for Oslos lærlinger gjennom flere ansatte og utvikling av plattformer for digital skolehelsetjeneste.
 
 ## Læringsmiljø
 
 ## Gamle Oslo Venstre vil:
 - Jobbe for å ta igjen vedlikeholdsetterslepet i Osloskolen.
--  Gjennomføre et grønt skolegårdsløft i byens skolegårder og
+- Gjennomføre et grønt skolegårdsløft i byens skolegårder og
 uteområdene i barnehagene.
+- Styrke skolebibliotektjenesten ved å ha gode innkjøpsbudsjetter, lengre åpningstider og kvalifisert personale på alle skolebibliotek og samarbeid
+- med lokale bibliotek.
+- Sikre at religiøse og kulturelle normer ikke hindrer barns deltakelse i undervisning, samtidig som det religiøse og kulturelle 
+mangfoldet blant elevene blir respektert.
 
 ## Studenter
 Oslo skal være landets beste studentby. Studenter tilfører byen liv og kultur
