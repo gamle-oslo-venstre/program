@@ -139,20 +139,29 @@ byggeprosjekter.
 - Rense opp Oslofjorden, og innføre tiltak som sørger for renhold og ivaretagelse av områdene rundt Sørenga, Operastranda etc.
 
 # Samferdsel
-- Trafikkproblem særlig Grønland og Tøyen, få til noe med trafikkavvikling der.
-- Gå til krig med Statens Vegvesen for å få makta overført til kommunen, slik at vi får bestemmelsesmakt over veinettet i boligområder-
-- Det fungerer ikke med hjertesoner rundt skoler, ettersom det kjøres for fort, og det er vanskelig å regulere dette.
-- Det må på plass fartsreduserende tiltak i sentrumsnære områder, og særlig i områder rundt barneskoler (Leif)
+Sykkel, gange, nærings- og kollektivtransport skal prioriteres foran personbiler når det bygges ut ny transportkapasitet og
+ved endring av det eksisterende veinettet.
 
 ## Gå- og sykkelbyen Oslo
+Gamle Oslo Venstres mål er å skape en bydel der gående og syklende føler seg trygge i 
+trafikken hele året. For mennesker med ulike funksjonsvariasjoner er Gamle Oslo 
+fremdeles i stor grad en utilgjengelig by. For mange steder er byen er 
+utformet på bilens premisser, med fysiske barrierer og plassbegrensninger 
+for myke trafikanter. Vi vil styrke gang- og sykkelfeltene, og 
+sørge for at indre by har et finmasket nett av bilfrie gater. Rundt skoler og 
+barnehager vil vi opprette bilfrie soner, der barn fritt kan ferdes trygt og på 
+egenhånd.
 
 ### Gamle Oslo Venstre vil:
-- Prioritere fotgjengere, sykkel og kollektivtransport foran privat-
-bilisme.
-- Stenge Finnmarksgata for annen trafikk enn HC og kollektivtrafikk.
-- Stenge Grønland for trafikk. 
+- Prioritere fotgjengere, sykkel og kollektivtransport foran privatbilisme.
+- Stenge Finnmarksgata for annen trafikk enn HC og kollektivtrafikk. 
 - Redusere biltrafikken i bydelen.
 - Bedre forholdene for ikke-syklende myke trafikanter
+- Innføre fartsreduserende tiltak i sentrumsnære områder, særlig i områder rundt barneskoler og lekeplasser for barn.
+- Sikre alle barn trygge skoleveier, ved at alle skoler blir en del av hjertesonearbeidet. 
+- Stenge Grønland for trafikk fra Vaterland Bru tilkrysset Tøyenbekken/Grønlandsleiret.
+- Sørge for at Sentrumsnære områder i stor grad er steng for bilisme, men tilrettelagt for HC; varelevering og tjeneseutøvelse.
+- Jobbe for at alle offentlige områder i Gamle Oslo blir universelt utformet.
 
 ## Kollektivtransport
 Venstre vil være en garantist for at kollektivtrafikken i Oslo skal være rimelig, ha hyppige avganger og nå ut til flest mulig.
