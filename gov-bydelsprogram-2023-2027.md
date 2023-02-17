@@ -88,16 +88,13 @@ med gode eksempler på hvordan det er mulig å redusere klimagassutslippene samt
 som byen blir bedre å bo i.
 
 **Gamle Oslo Venstre vil:**
+- At Gamle Oslo skal være en nullutslippsbydel innen 2030.
 - Stille strenge klima- og miljøkrav når utbyggingsområder planlegges.
 - At byggeplasser i bydelen blir utslippsfrie.
-- Stille krav om ren energiproduksjon og vegetasjon på tak og fasa-
-der i nye større bygg og lage incentiver for dette for eksisterende
-bygg, for å bidra til klimatilpasning og økt biologisk mangfold.
-- Øke produksjonen av fornybar energi i Oslo-området, blant annet
-ved å legge til rette for økt bruk av solceller på tak.
--  Bygge ut flere, og utvide eksisterende, miljøvennlige fjernvarme-
-nett for oppvarming.
--  At byggeplasser i bydelen blir utslippsfrie.
+- Stille krav om ren energiproduksjon og vegetasjon på tak og fasader i nye større bygg og lage incentiver for dette for eksisterende bygg, for å bidra til
+klimatilpasning og økt biologisk mangfold.
+- Øke produksjonen av fornybar energi i Oslo-området, blant annet ved å legge til rette for økt bruk av solceller på tak.
+-  Bygge ut flere, og utvide eksisterende, miljøvennlige fjernvarmenett for oppvarming.
 -  Gjøre det enklere å selge strøm fra solceller og annen lokal
 produsert energi til nettet.
 
@@ -112,30 +109,24 @@ av ressursene. Venstre vil derfor gjøre det enklere og mer attraktivt å dele,
 gjenbruke, ombruke og resirkulere.
 
 **Gamle Oslo Venstre vil:**
-- Sørge for at alle har en park eller et grøntområde i gangavstand fra
-sin bolig.
-- Få slutt på overfylte søppeldunker ved å erstatte dem med smar-
-tere og mer innovative søppelkasser.
+- Sørge for at alle har en park eller et grøntområde i gangavstand fra sin bolig.
+- Få slutt på overfylte søppeldunker ved å erstatte dem med smartere og mer innovative søppelkasser.
 - Stille krav om at næringslivet kildesorterer alt avfall.
-- Gjøre det enklere for innbyggere i Gamle Oslo å sortere og resirkulere avfall, blant
-annet ved å utvide åpningstidene ved gjenbruksstasjonene og
-sikre et bedre tilbud for innsamling, gjenbruk og gjenvinning av
-tekstilavfall.
-- Gjøre bildelingsordninger mer tilgjengelig med flere reserverte
-parkeringsplasser og flere ladeplasser.
-Stille krav til ombruk og gjenbruk av materialer i alle kommunale
-byggeprosjekter.
+- Gjøre det enklere for innbyggere i Gamle Oslo å sortere og resirkulere avfall, blant annet ved å utvide åpningstidene ved gjenbruksstasjonene og sikre
+et bedre tilbud for innsamling, gjenbruk og gjenvinning av tekstilavfall.
+- Gjøre bildelingsordninger mer tilgjengelig med flere reserverte parkeringsplasser og flere ladeplasser.
+- Stille krav til ombruk og gjenbruk av materialer i alle kommunale byggeprosjekter.
 
 ## En klimatilpasset by
 ## Mer natur i byen
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Bevare trær og grøntområder. Ikke bare grøntområder, men at det faktisk er vill natur.
 - Villplen og andre tiltak for å skape gode vilkår for dyreliv og innsekter.
 
 ## Ren og levende Oslofjord
 
-### Gamle Oslo Venstre vil:
+**Gamle Oslo Venstre vil:**
 - Rense opp Oslofjorden, og innføre tiltak som sørger for renhold og ivaretagelse av områdene rundt Sørenga, Operastranda etc.
 
 # Samferdsel
@@ -177,10 +168,8 @@ Det handler om at du skal komme deg dit du skal på en god og miljøvennlig måt
 - Sørge for en utvidelse av buss- og T-banetilbudet på nattestid i bydelen.
 - Sikre universell utforming av kollektivtilbudet, både av transportmidlene og holdeplassene slik at alle, uansett funksjonsevne, skal kunne
 reise miljøvennlig
-- 20-bussen skal gå hele veien til Kværnerbyen/svartdalsparken, via Dahlhaugs- og enebakkveien slik at svartdalsparken og området blir
+- 20-bussen skal gå hele veien til Kværnerbyen/Svartdalsparken, via Dahlhaugs- og Enebakkveien slik at Svartdalsparken og området blir
 lettere tilgjengelig for bydelen.
-- Opprettholde og forlenge eksisterende trikkelinjer, deriblant beholde trikken i Schweigaardsgate og opprette ny linje gjennom Galgeberg
-til Helsfyr
 - At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
 
 ## Fremtidens T-banenett
@@ -194,8 +183,19 @@ rives i byggeperioden-
 - Kjempe for ny sentrumstunnel for T-banen
 
 ## En miljøvennlig bilpolitikk
+Gamle Oslo har mye gjennomgangstrakk, dette gir både trafikale utfordring, støyforurensing og redusert luftkvalitet. Gamle
+Oslo Venstre vil derfor redusere den totale biltrafikken. Der gateparkering fjernes skal det være for å tilrettelegge for gående,
+syklister eller kollektivtrafikk, eller for å få økt byliv.
 
 **Gamle Oslo Venstre vil:**
+- Innføre en moderat betaling på ladeplasser for å få økt sirkulasjon og økt tilgjengelighet
+- Øke støtten til etablering av ladeplasser i borettslag/sameier
+- Tilrettelegge tomter for etablering av hurtiglading
+- Gå mot store nye motorveiutbygginger inn mot Oslo dersom de øker biltrafikken, og kreve høye rushtidsavgifter og
+prioritering av kollektiv på eventuelle utbygginger
+- Videreføre ordningen med beboerparkering og inkludere elbiler i ordningen til en redusert pris
+- Tilrettelegge for at flere av Oslos bilister benytter bildelingsordning heller enn å eie egen bil
+- Rense utslipp fra biltunnelene i bydelen
 
 # Byutvikling
 ## En grønn by med plass til alle
