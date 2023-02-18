@@ -110,12 +110,20 @@ gjenbruke, ombruke og resirkulere.
 
 **Gamle Oslo Venstre vil:**
 - Sørge for at alle har en park eller et grøntområde i gangavstand fra sin bolig.
-- Få slutt på overfylte søppeldunker ved å erstatte dem med smartere og mer innovative søppelkasser.
-- Stille krav om at næringslivet kildesorterer alt avfall.
+- Bevare eksisterende parsell-/kolonihager og skolehager
 - Gjøre det enklere for innbyggere i Gamle Oslo å sortere og resirkulere avfall, blant annet ved å utvide åpningstidene ved gjenbruksstasjonene og sikre
 et bedre tilbud for innsamling, gjenbruk og gjenvinning av tekstilavfall.
+- At det skal være alternativer til GjenbruksID ved gjenbruksstasjonene
+- Få slutt på overfylte søppeldunker ved å erstatte dem med smartere og mer innovative søppelkasser.
+- Ha mulighet for kildesortering i alle søppelkasser i bydelen
+- Stille krav om at næringslivet kildesorterer alt avfall.
+- Stille krav til ombruk og gjenbruk av materialer i alle kommunale byggeprosjekter
+- Stille krav om kildesortering fra næringseiendom
+- Kreve avfallssug i nye større utbyggingsprosjekter i Gamle Oslo
+- Forby vedfyring i peis og ikke rentbrennende ovner på dager med luftforurensing over grenseverdier
+- Innføre en støtteordning for etablering av grønne tak og grønne vegger på eksisterende bygg
+- Støtte borettslag til å implementere gode miljøtiltak som solcellepanel på tak og å dra nytte av overvann på tak
 - Gjøre bildelingsordninger mer tilgjengelig med flere reserverte parkeringsplasser og flere ladeplasser.
-- Stille krav til ombruk og gjenbruk av materialer i alle kommunale byggeprosjekter.
 
 ## Mer natur i byen
 Naturmangfoldet på jorda er under voldsomt press, og tap av natur bidrar til
@@ -210,6 +218,7 @@ Oslo Venstre vil derfor redusere den totale biltrafikken. Der gateparkering fjer
 syklister eller kollektivtrafikk, eller for å få økt byliv.
 
 **Gamle Oslo Venstre vil:**
+- Redusere behovet for bruk av bil i hverdagen, og tilrettelegge for at de som trenger bil har tilgang til ladeinfrastruktur og bildelingsordninger.
 - Innføre en moderat betaling på ladeplasser for å få økt sirkulasjon og økt tilgjengelighet
 - Øke støtten til etablering av ladeplasser i borettslag/sameier
 - Tilrettelegge tomter for etablering av hurtiglading
@@ -218,8 +227,9 @@ prioritering av kollektiv på eventuelle utbygginger
 - Videreføre ordningen med beboerparkering og inkludere elbiler i ordningen til en redusert pris
 - Tilrettelegge for at flere av Oslos bilister benytter bildelingsordning heller enn å eie egen bil
 - Rense utslipp fra biltunnelene i bydelen
+- Få fart på arbeidet med mer klimavennlig og koordinert varelevering i indre by, slik at vi reduserer bilkjøring og utnytter kapasitet i kjøretøy bedre.
 
-# Byutvikling
+# Bydelsutvikling
 ## En grønn by med plass til alle
 
 **Gamle Oslo Venstre vil:**
@@ -469,34 +479,120 @@ flerkulturell bakgrunn.
 - Styrke tolketjenesten for å styrke rettssikkherheten til familier som ikke snakker norsk.
 
 # Kultur, idrett og friluftsliv
+Oslo skal fortsatt ha et fritt, sterkt og selvstendig kultur- og idrettsliv. Vi skal støtte mangfoldet og bredden, samtidig som vi dyrker frem talentene. 
+Kommunen skal være en støttespiller for kulturlivet og idretten og sørge for at alle, uavhengig av utgangspunkt, skal få oppleve kultur og idrettsglede.
+
 ## En kulturby i verdensklasse
+Det er et høyt aktivitetsnivå på kulturfeltet i bydelen. Venstre vil at alle skal ha mulighet til å oppleve kunst og kultur,
+uavhengig av alder, inntekt og funksjonshemninger.
+Den beste måten for bydelen å støtte opp om kulturlivet på, er ved å la kulturen være fri og bidra konstruktivt med arealer, lokaler og virkemidler til
+initiativer fra kulturlivet selv.
 
 **Gamle Oslo Venstre vil:**
+- Starte innføringen av et fritidskort på 5000 kroner årlig for alle mellom 10 og 18 år som kan brukes på kultur-, fritids- og idrettstilbud.
+- Stille kommunale bygg og plasser til rådighet for kulturarrangementer og at kommunale bygg som står midlertidig tomme, skal tilbys kulturaktører for leie.
+- At kommunens virksomheter skal ikke konkurrere med kulturlivet, men heller støtte initiativ som kommer fra kulturlivet.
+- Styrke bibliotektilbudet i hele bydelen med selvbetjening utenfor åpningstid i alle filialer, samt ha forsøk med selvbetjente skolebibliotek på kveldstid.
+- Styrke tilskuddsordningene til kultursektoren og forenkle søknadsprosessene til bydelens midler.
+- Bygge ut kulturell infrastruktur i hele byen, blant annet ved å stille krav om lokaler til kultur i større områdeutbygginger og tilrettelegge for lokale 
+scener i bydelene med servering og aktiviteter i form av musikk, humor, revy, teater, litteratur, e-sport og annen kulturaktivitet.
+- Jobbe for god etterbruk av det gamle Munchmuseet til kulturformål eller formål som gagner nærmiljøet.
+- Videreutvikle Middelalderbyen.
+- Sikre støtte til konsertarrangører som arrangerer konserter uten alkoholservering eller har alkoholfrie soner på sine arrangementer, for å sikre bedre tilbud
+for ungdom.
+- Gjøre kulturtilbudene i Oslo mer attraktive for ungdom og gi ungdom opp til 18 år et godt og variert kulturtilbud i hele byen, i form av blant annet
+øvingslokaler for musikk og e-sport-tilbud.
 
 ## Frivillighetshovedstaden
+Frivilligheten lager rom for inkluderende møteplasser, fellesskap og læringsarenaer. Den gir mennesker i alle aldre mulighet til å ta ansvar og engasjere
+seg i samfunnet og har stor egenverdi. For Venstre er det helt grunnleggende at frivilligheten får utvikle seg på egne premisser. Det offentlige skal ikke
+styre hvilken retning frivilligheten skal ta, hvilke aktiviteter som skal utføres eller initiativ som skal tas. Kommunens oppgave er å tilrettelegge for frivillig
+aktivitet, blant annet gjennom å skape møteplasser og å forenkle
+søknadsprosessene for frivillige organisasjoner.
 
 **Gamle Oslo Venstre vil:**
+- Gjøre det enklere å drive frivillige organisasjoner
+- Styrke koordineringen av frivillighetsarbeidet i bydelen
+- Tilby flere av bydelens lokaler til bruk av frivilligheten
+- Satse spesielt på frivillige organisasjoner for ungdom
+- Styrke frivillighet som møteplass for folk som står utenfor arbeidslivet
+- Åpne bydelens skolebygg for alternativ bruk etter ordinær skoletid, slik som møtelokaler for lag og foreninger, privat
+undervisning, idrett eller kulturaktiviteter, etter modell fra meråpne bibliotek
+- Støtte frivillige organisasjoner som skaper møter mellom minoritets- og majoritetsbefolkningen
+- Samarbeide med frivillige organisasjoner for å få flere barn og unge til å delta på fritidsaktiviteter, bedre folkehelse og oppvekstvilkår og redusere utenforskap.
+- Inkludere frivillige organisasjoners behov bedre i utformingen av bydelen.
 
 ## Friluftsliv i byen
+Friluftsliv gir rike naturopplevelser, er helsefremmende og er den
+aktiviteten flest mennesker deltar i. Å legge til rette for friluftsaktiviteter der
+folk bor, koster lite, men det krever aktiv tilrettelegging og
+tilgjengeliggjøring av arealer. Venstres mål er at alle skal ha tilgang til
+nærnatur og turterreng i nærheten av der de bor.
 
 **Gamle Oslo Venstre vil:**
+- Sørge for at alle har mulighet til å delta i friluftsaktivitet gjennom samarbeid og støtte til friluftsorganisasjoner.
+- Utvikle bydelen slik at alle boliger, skoler og barnehager ligger i
+gangavstand til grøntområder og turstier.
+- Sikre at flere turstier får belysning som ikke skaper lysforurensing og etablere og vedlikeholde universelt utformede turstier og ruter.
+- Etablere sammenhengende kyst- og elvestier og ivareta allemannsretten i Oslo, blant annet ved å stramme inn bygging i strandsonen og fjerne sperringer
+- At kommunen skal samarbeide med lokale turlag og historielag om å ta vare på, kartlegge og tilgjengeliggjøre kulturminner i bydelen.
+- Tilrettelegge bedre for bynært friluftsliv.
+- Etablere flere hundeparker
+- Ha flere offentlige drikkefontener og toaletter i bydelen.
 
 ## Idrettsglede for alle
+Idrett skaper trivsel, sosiale nettverk og god folkehelse. Gamle Oslo Venstre vil legge til rette for at flere av bydelens barn og
+unge inkluderes i idrettsliv og aktiviteter. Gamle oslo og indre by har for få idrettsanlegg. Jobb nummer en er å bygge flere
+idrettsanlegg for breddeidrett i indre by.
 
 **Gamle Oslo Venstre vil:**
+- Sørge for gode avtaler mellom skole og idrett slik at kommunale idrettsanlegg lagt til skoler kan benyttes til
+idrettsaktiviteter etter skoletid
+- Videreføre tilbud om gratis trening for barn og unge i kommunale anlegg
+- Gjøre det enkelt for idrettslag å søke om støtte for å inkludere barn og unge fra familier med lav inntekt
+- Sørge for en stadig bedre og mer profesjonell utvikling og drift av idrettsanlegg, også de anleggene som ikke er direkte
+koblet til en idrettskrets
+- Tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb og seiling
 
 ## Idrettsanlegg
+Oslo har stor mangel på de fleste typer idrettsanlegg. En viktig oppgave framover vil være å bygge nok anlegg for en bredde av idretts- og
+sportstilbud, slik at innbyggerne kan velge blant et mangfold av tilbud.
 
 **Gamle Oslo Venstre vil:**
+- Bygge og rehabilitere anlegg for fysisk aktivitet i samarbeid mednæringsliv og idretten.
+- Stille krav om bygging av idrettsanlegg i nye områdereguleringer.
+- Bygge flere flerbrukshaller.
+- Sikre at hele byen har god tilgang til større svømmehaller.
+- Bedre anleggsdekningen, spesielt i indre by der dekningen i dag er lav, og i områder hvor det ikke finnes etablerte idrettslag.
+- Utvikle og tilgjengeliggjøre arealer til egenorganisert aktivitet som turstier, lysløyper, sykkelstier, balløkker, rulleskitraseer, skateparker og 
+ulike nærmiljøanlegg og sikre at kommunens idrettsanlegg også er tilgjengelige for egenorganisert idrett.
+- Åpne for selvbetjening utenfor åpningstid på idretts- og kulturanlegg.
+- At kommunen skal bistå idrettslag når de møter nye kvalitetskrav til anleggsstandard som følge av avansement.
+- Gjeninnføre ordningen med tilskudd til realisering av idrettsanlegg i samarbeid med lag og foreninger.
 
 # Næring, arbeid og skatt
+
+
 ## Næringsbyen Oslo
 
 **Gamle Oslo Venstre vil:**
 
 ## Et levende uteliv
+Utelivet er en viktig del av enhver storby, og noe av det som gjør Oslo til en spennende og god by å bo i. Serveringsnæringen skal tilby noe for enhver smak,
+samtidig som vi skal sørge for at bedriftene drives på en forsvarlig og trygg måte.
+Gamle Oslo Venstre mener at skjenkebevilling skal være lett å få, og lett å miste ved misbruk eller mislighold. Venstre ønsker seriøse og
+langsiktige aktører i utelivsbransjen i bydelen. Omsetning av alkohol skal foregå i ordnede former.
 
 **Gamle Oslo Venstre vil:**
+- Legge til rette for etablering av kafeer, utesteder og restauranter i nærområdene, inkludert alkoholfrie tilbud.
+- At hele bydelen skal regnes som et skjenkeområde med skjenking inne til kl 03.00 etter dagens regler.
+- Utvide skjenketidene og åpne for mer differensierte og lokalt bestemte åpningstider.
+- Bydelen selv skal ha retten til å bestemme over skjenkebevilgningen i hele bydelen.
+- At støyklager og andre klager i forbindelse med skjenkesteder raskt skal kunne føre til innskrenking av skjenketiden eller inndragelse av løyvet,
+avhengig av klagens alvorlighetsgrad og problemets omfang.
+- Redusere rusbruk i Oslos uteliv, blant annet ved å legge til rette for at folk kan kvitte seg med illegale rusmidler ved bruk av såkalte amnesty boxes.
+- Åpne for at det kan gis skjenkebevilling til eksempelvis frisører, bokhandlere og klesbutikker gitt at de retter seg mot et voksent publikum.
+- Tillate alkoholservering på enkelte idrettsarrangement rettet mot voksne.
 
 ## Skatt og avgift
 
