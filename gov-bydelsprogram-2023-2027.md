@@ -117,17 +117,39 @@ et bedre tilbud for innsamling, gjenbruk og gjenvinning av tekstilavfall.
 - Gjøre bildelingsordninger mer tilgjengelig med flere reserverte parkeringsplasser og flere ladeplasser.
 - Stille krav til ombruk og gjenbruk av materialer i alle kommunale byggeprosjekter.
 
-## En klimatilpasset by
 ## Mer natur i byen
+Naturmangfoldet på jorda er under voldsomt press, og tap av natur bidrar til
+økte klimagassutslipp. Den viktigste årsaken er at natur må vike for byg-
+ninger og vei. Natur beskytter oss mot konsekvensene av klimaendringer
+og ekstremvær og vi er helt avhengige av naturen for å få rent vann, ren luft
+og stabil matproduksjon. Oslo Venstre vil derfor stanse nedbyggingen av
+naturen og få mer natur i byen, ta vare på naturmangfold og reetablere og
+restaurere natur som er blitt ødelagt.
 
 **Gamle Oslo Venstre vil:**
-- Bevare trær og grøntområder. Ikke bare grøntområder, men at det faktisk er vill natur.
-- Villplen og andre tiltak for å skape gode vilkår for dyreliv og innsekter.
+- Etablere flere “parkgater” i indre og ytre by, der asfalt og betong omgjøres til mikroparker med trær og natur.
+- Stille krav om at alle nye byutviklingsprosjekter bidrar til at Oslo får mer natur og grøntområder.
+- Ha mer villplen og andre tiltak for å skape gode vilkår for dyreliv og innsekter.
+- Styrke vernet av trær, plante flere trær og stille krav om at utbyggere planter flere trær når nye bygg oppføres, og at stedsegnede arter i større grad brukes.
+- Oppgradere og bevare bydelens parker og grøntområder slik at de blir mer attraktive og for å styrke biologisk mangfold.
+- Bevare trær og grøntområder, og sørge for at det er mer vill natur i bydelen.
+- Legge til rette for mer urbant landbruk.
 
 ## Ren og levende Oslofjord
+Venstre vil ha en ren Oslofjord og rene elver, fritt for plast og annen forurensing. Vi vil sørge for en bærekraftig forvaltning
+av fisk og krepsdyr med sikte på å gjenoppbygge sviktende bestander, tilrettelegge for bading og skånsom bruk.
 
 **Gamle Oslo Venstre vil:**
 - Rense opp Oslofjorden, og innføre tiltak som sørger for renhold og ivaretagelse av områdene rundt Sørenga, Operastranda etc.
+- Gjenåpne bekker og elver
+- Sikre en ren Oslofjord, fri for plast, mikroplast og annen forurensning og fortsette opprydningen og rensingen av
+havnebassenget
+- Gjøre Oslofjorden til et marint verneområde
+- Bevare allmennhetens tilgang til øyene i Oslofjorden, og sikre økt tilgang til strandsonene
+- Ta i bruk alternativer til mikroplast på kunstgressbaner med sikte på å fase ut all bruk av gummigranulat
+- Kartlegge alle utløp i bydelens elver og arbeide for å stenge skadelige utløp for godt
+- Sikre at det er til enhver tid er rikt plante- og dyreliv i bydelens elver og utelukke alle forurensningskilder
+- Gjøre fjorden og sjøen tilgjengelig for flere, ved å legge til rette for deleløsninger, klubb- og foreningsliv
 
 # Samferdsel
 Sykkel, gange, nærings- og kollektivtransport skal prioriteres foran personbiler når det bygges ut ny transportkapasitet og
