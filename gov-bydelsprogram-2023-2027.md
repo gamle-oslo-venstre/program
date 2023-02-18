@@ -203,14 +203,15 @@ lettere tilgjengelig for bydelen.
 - At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
 
 ## Fremtidens T-banenett
-T-banen er grunnstammen i kollektivtrafikken i Oslo. T-banenettet må utvides for å nå nye områder, og kapasiteten gjennom sentrum må økes for å kunne ha flere avganger.
+T-banen er grunnstammen i kollektivtrafikken i Oslo. T-banenettet må utvides for å nå nye områder, og kapasiteten gjennom sentrum må økes for å
+kunne ha flere avganger.
 
 **Gamle Oslo Venstre vil:**
-- Øke kapasiteten og frekvensen på T-banenettet gjennom blant annet bygging av ny sentrumstunnel
+- Øke kapasiteten og frekvensen på T-banenettet gjennom blant annet bygging av ny sentrumstunnel.
 - Utrede alternativer til Ruters anbefalte trasévalg, blant annet et alternativ som treffer Øvre Grünerløkka, St. Hanshaugen og Bislett og et
 alternativ som treffer Øvre Grünerløkka, Ullevål Sykehus og Bislett. Traséen skal legges slik at Bislett stadion ikke står i fare for å måtte
-rives i byggeperioden-
-- Kjempe for ny sentrumstunnel for T-banen
+rives i byggeperioden.
+- Kjempe for ny sentrumstunnel for T-banen.
 
 ## En miljøvennlig bilpolitikk
 Gamle Oslo har mye gjennomgangstrakk, dette gir både trafikale utfordring, støyforurensing og redusert luftkvalitet. Gamle
@@ -219,32 +220,154 @@ syklister eller kollektivtrafikk, eller for å få økt byliv.
 
 **Gamle Oslo Venstre vil:**
 - Redusere behovet for bruk av bil i hverdagen, og tilrettelegge for at de som trenger bil har tilgang til ladeinfrastruktur og bildelingsordninger.
-- Innføre en moderat betaling på ladeplasser for å få økt sirkulasjon og økt tilgjengelighet
-- Øke støtten til etablering av ladeplasser i borettslag/sameier
-- Tilrettelegge tomter for etablering av hurtiglading
+- Innføre en moderat betaling på ladeplasser for å få økt sirkulasjon og økt tilgjengelighet.
+- Øke støtten til etablering av ladeplasser i borettslag/sameier.
+- Tilrettelegge tomter for etablering av hurtiglading.
 - Gå mot store nye motorveiutbygginger inn mot Oslo dersom de øker biltrafikken, og kreve høye rushtidsavgifter og
-prioritering av kollektiv på eventuelle utbygginger
-- Videreføre ordningen med beboerparkering og inkludere elbiler i ordningen til en redusert pris
-- Tilrettelegge for at flere av Oslos bilister benytter bildelingsordning heller enn å eie egen bil
-- Rense utslipp fra biltunnelene i bydelen
+prioritering av kollektiv på eventuelle utbygginger.
+- Videreføre ordningen med beboerparkering og inkludere elbiler i ordningen til en redusert pris.
+- Tilrettelegge for at flere av Oslos bilister benytter bildelingsordning heller enn å eie egen bil.
+- Rense utslipp fra biltunnelene i bydelen.
 - Få fart på arbeidet med mer klimavennlig og koordinert varelevering i indre by, slik at vi reduserer bilkjøring og utnytter kapasitet i kjøretøy bedre.
 
 # Bydelsutvikling
-## En grønn by med plass til alle
+Bydel Gamle Oslo har de siste årene åpnet seg mot fjorden og tusenvis av nyinnflyttede kaller nå Bjørvika sitt nye hjem.
+I tillegg er Tøyenløftet i full gang og steder som Ensjø, Bryn og Helsfyr gjøres klart for flere nye mennesker. Hurtig
+byutvikling krever også god plan- og tilrettelegging. For Venstre er det viktig at bydelens utvikling skjer på en inkluderende
+og framtidsrettet måte, samtidig som vi tar vare på bydelens egenart og historie.
 
 **Gamle Oslo Venstre vil:**
+- Fortsette oppgraderingen av gater, parker og torg.
+- At fortettingen skjer på en måte som ivaretar bydelens historie og grønne friarealer
+- Vektlegge universell utforming ved oppgradering av gater, parker og plasser, samt sikre fremkommelighet også om vinteren
+- Ta godt vare på framkommelighet, hindre støyplager og bidra til folks trivsel mens utbygging pågår
+- Jobbe for at større anleggsarbeid ses i sammenheng og bidra til redusere støy og plager for naboer så mye som mulig.
+- At hensynet til fotgjengere og syklister må ivaretas gjennom byggeperioder
+- Redusere gjennomfartstrafikken i bydelen generelt, for eksempel ved å legge endestasjonen for enkelte av regionbussene
+(grønnebusser) til andre deler av byen som Helsfyr
+- Stille strenge krav til utbygging og utvikling av fasader og uteområder
+- Sørge for bærekraftig utnyttingsgrad på Ensjø og andre områder som bygges ut for sikre gode bomiljø
+- Kreve tidlig planlegging av nye skoler og barnehager ved større utbygginger for å sikre forutsigbarhet og nærhet for barn
+og foreldre
+- Sikre gode kollektivtilbud, gang- og sykkelveier allerede fra tidlig etablering i nye boområder
+- Bevare den historiske murhusbebyggelsen i bydelen
+- Verne om “parkagrensa”. Parker og grøntområder er under stort press for utbygging. Samtidig øker bruken i takt med
+befolkningsveksten. Parkene må aktiviseres og utvikles for å møte det økte behovet. Parkene må vernes mot utbygging
+og lysforholdene i parkene må ivaretas.
+- At parker skal bygges tidlig i utbyggingsfaser og ikke vente til slutt i byggeperiodene
 
-## Nye byutviklingsområder
+## Delbydelsutvikling
+Gamle Oslo Venstre vil sikre utvikling av de ulike områdene i bydelen ved å sikre bærekraftige premisser, skape gode lokalmiljøer
+samtidig som vi ivaretar særpreget til bydelens historiske områder. Det er også viktig at befolkningen i områdene blir hørt i
+forhold til sine behov i deres områder, selv om dette skiller seg ut fra resten av bydelen.
+
+**I Nedre Tøyen og Kampen delbydeler vil Gamle Oslo Venstre:**
+- Følge opp Nasjonalteaterets ombygging av Munch-museet så det blir en inkluderende kulturmøteplass for hele byen påTøyen
+- Videreutvikle Tøyen som nærmiljø utover tiltakene som ligger i Tøyenløftet
+- Legge grøntlokk over Finnmarksgata
+- Sikre grøntområder i utbyggingen rundt nye Jordal
+- At det snarest må settes istand en permanent løsning for flerbrukshall på Tøyen. Den midlertidige hallen må ikke bli
+permanent.
+- Oppgradere Tøyen T-banestasjon
+- Stenge Kolstadgata
+- Videreutvikle K1 som aktivitetshus i bydelen
+- Endre boligsammensetningen rundt Tøyen og redusere andelen kommunale leiligheter i området
+- Ha flere boliger tilrettelagt for familier i området
+
+**I Kværnerbyen delbydel vil Gamle Oslo Venstre:**
+- Jobbe for å flytte lokomotivverkstedet og togvasken i Kværnerdalen ut av byen
+- Sikre at historien til Gamlebyen fremheves for både besøkende og beboere
+- At Middelalderparken blir sammenhengende med Ruinparken
+- At det etableres sammengenhengende park fra Dyvekes bru til Middelalderparken
+- Gjenskape Oslo torg til slik det framsto i middelalderen og fram til 1800-tallet, samt redusere trafikken i området.
+- Sørge for at Botsfengselet blir utviklet til en møteplass for alle, med boliger, kulturtilbud og ulike næringer med inspirasjon
+fra Tøyen torg.
+- At Klosterenga park oppgraderes parallelt med endringen av botsfengselet
+
+**Bispevika delbydel (Bjørvika og Sørenga) vil Gamle Oslo Venstre:**
+- Etablere en bussrute som gir besøkende og beboere tilgang til offentlig transport, på Sørenga i første omgang.
+- Etablere et grøntlokk med sykkeltrasé over jernbanelinjene ved Oslo S for å skape en sammenhengende park mot
+Middelalderparken og en bedre kobling mot Grønland
+- Tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb, seiling og vindsurfing
+- Få på plass en grunnskole på Sørenga
+- At fritidsanlegg som har blitt neglisjert raskest mulig blir istandsatt og vedlikeholdt
+- At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
+- At renhold, søppeltømming og toalettfasiliteter reflekterer behovet som skapes av det store antallet badegjester
+- Sørge for en permanent broovergang fra Sukkerbiten eller Munchmuseet til Sørenga
+- At det etableres offentlige toalettfasiliteter ved den nye badeplassen mellom Operaen og Sukkerbiten
+- At det vurderes etablering av et oppvarmet badeanlegg i området, slik de har i Helsinki
+
+**På Grønland og Enerhaugen delbydeler vil Gamle Oslo Venstre:**
+- Fjerne Nylandsbrua for å åpne opp området, og forbedre forholdene ved Olafiagangen og Vaterland ved å tilrettelegge
+for nytt og innovativt næringsliv, f.eks. opprette en tradisjonell mathall eller etablere konsertscene, og gi mer plass til
+ungdomsklubben.
+- Åpne Grønlandsområdet mer mot sjøen og binde det sammen med Bjørvika ved å transformere Galleri Oslo og gjøre det
+til en mindre dominerende barriere ved å sikre gjennomgang fra Grønland til Schweigaardsgate
+- Oppgradere Grønland som gågate fra Grønlands torg til Brugata
+- Etablere et grøntlokk med sykkeltrasé over jernbanelinjene ved Oslo S for å skape en sammenhengende park mot
+Middelalderparken og en bedre kobling mot Bjørvika
+- Jobbe for økt politinærvær og nærvær av Oslovaktene i området for å redusere den ulovlige virksomheten i gatene
+- Jobbe for å bedre fremkommeligheten mellom Grønland og Bjørvika og binde sammen delbydelene i større grad
+
+**På Etterstad, Ensjø og Vålerenga delbydeler vil Gamle Oslo Venstre:**
+- Redusere hastigheten på Grenseveien og sikre bedre fortau og sykkelveier
+- Gjøre Gladengveien, Ensjøveien og Strømsveien tryggere for myke trafikanter ved å ytterligere redusere hastighet og gjennomkjøring
+- Bygge et nytt kryss i skjæringen Gladengveien og Ensjøveien
+- Gjøre det forbudt for biler å krysse bommen på Galgeberg som skaper mye trafikkgjennomgang gjennom Vålerenga.
+- Sørge for at det blir regulert tilstrekkelig med barnehager, skoler og grøntarealer i nye boligområder som i Hovinbyen.
+- Bedre trafikkforbindelsen mellom Bryn og Carl Berners plass med trikk i Østensjøveien/Grenseveien
+- Tilrettelegge for flere elbilparkeringsplasser på Valle, Lilleberg og Malerhaugen
+- Jobbe for at gjenstående tomter på Ensjø blir utviklet, ved å ivareta og sikre et grønt og åpent lokalmiljø med rom for
+møteplasser.
+- Knytte Hovinbyen sammen med Østmarka ved hjelp av et grøntdrag
+- Flytte Tøyen togstasjon til Ensjø
+- Sikre at det strøs og måkes på trapper på ulike bydeler for å sikre fremkommelighet på vinteren.
+- Gjøre Svartdalsparken mer tilgjengelig for bydelen, oppgradere anlegg og vedlikeholde stier og trapper i byens eldste
+urskog.
+
+##Parker og uteområder
+
+Venstre vil etablere flere parker og ta vare på de grøntområdene som finnes. Vi vil sikre godt vedlikehold og gjøre byens parker
+mer attraktive gjennom bedre vedlikehold og etablering av flere fasiliteter som lekeapparater, treningsapparater, parkmøbler
+og toaletter.
 
 **Gamle Oslo Venstre vil:**
+- Bevare store trær og plante nye trær i bydelen
+- Gjennomgå midlertidige bygg i friområder og lage en plan for når og hvordan de skal fjernes
+- Holde det rent, ryddig og søppelfritt i hele bydelen
+- Plante bie- og humlevennlige planter i grøntområder
+- Redusere bruken av veisalt, særlig i områder det skader trær og planter, og etablere flere fortau med varme i bakken i de
+mest brukte gatene i bydelen
+- Senke grensenivået for tiltak mot tungmetaller i jord for nye lekeplasser, barnehager og boligområder
+- Legge til rette for urbant landbruk, inkludert legge til rette for urban birøkting
 
-## Boliger for alle
+## Kommunale boliger
+Gamle Oslo har mange innbyggere som bor i kommunale boliger. Dette har innvirkning på hele bydelen. Det er viktig å sørge
+for gode bomiljø i de kommunale boligene og at boligene har god standard. Barnefamilier skal kunne kjenne seg trygge
+hjemme og i nærområdet sitt.
 
 **Gamle Oslo Venstre vil:**
+- Innføre flere bomiljøarbeidere for å bedre bomiljøet i og rundt kommunale boliger
+- Forbedre sammensetningen av boliger
+- Øke antall større boenheter i den kommunale boligmassen
+- Spre de kommunale boligene i bydelen
+- Jobbe for at bystyret reduserer antall kommunale boliger i bydelen
+- Unngå samlokalisering av barnefamilier og beboere med rus- og psykiatriutfordringer
+- Sørge for botrenings- og sikkerhetskurs samt sørge for at beboerne er godt informert om rettigheter og plikter.
 
-## Gode og levende nabolag
+## Medvirkning
+Oslos innbyggere burde i større grad kunne være med å planlegge sin egen fremtid ved å delta i beslutningsprosesser tidlig.
+Forvaltningen bør gå aktivt ut for å skape engasjement rundt planer som har direkte betydning for folks hverdag, inkludert
+plan- og byggesaksprosesser. Gjennomføringen blir bedre og raskere når beslutninger er forankret hos innbyggerne.
 
 **Gamle Oslo Venstre vil:**
+- Gi bydelene mer myndighet over lokale plansaker, veier, trafikk og parkering
+- At alle store utviklingsprosjekter skal ha en faglig utredning og evaluering
+- Fortsatt la bydelene ha ansvaret for drift av barnehagene, og gi bydeler som ønsker det forvaltningsansvar for
+barnehagebygg
+- At bydelen skal rådføres før kommunen selger eller kjøper eiendom i bydelen
+- At den enkeltes syn på egen sak vektlegges i større grad når bydelen behandler saker som gjelder den enkelte
+- At brukermedvirkning skal være ivaretatt når bydelen utvikler sine tjenester
 
 # Utdanning og Oppvekst
 Skole er et kommunalt ansvar, men bydelen er ansvarlig for oppfølging av barn og unge i bydelen. Mye aktivitet skjer i
@@ -599,64 +722,206 @@ avhengig av klagens alvorlighetsgrad og problemets omfang.
 **Gamle Oslo Venstre vil:**
 
 # Helse
-## Sykehus
+Oslo skal gi muligheter og trygghet til alle, uavhengig av helse og funksjons-
+nivå. I dag er det store forskjeller i helse og livskvalitet blant våre
+innbyggere, og det forsterker sosial ulikhet i byen vår. Alle skal ha tilgang til
+et godt helsetilbud uavhengig av alder, inntekt og hvor i byen du bor.
+
+## Helsestasjon
+I våre første leveår er vi ekstra sårbare. Derfor er det ekstra viktig å sørge for at vi har god oppfølging av barnefamiliene.
+Helsestasjonen kan være det stedet der vanskeligheter først oppdages, og dermed avhjelpes. Venstre mener det er viktig med
+kort avstand mellom de forskjellige tjenestene vi tilbyr slik at det er lett å sørge for tilpasset oppfølging til hvert enkelt barn
+og familie.
 
 **Gamle Oslo Venstre vil:**
+- sørge for at alle barn får oppfølging fra helsestasjon i første leveårene
+- samlokalisere kommunale tjenester for barn på ett sted, slik som åpen barnehage, fysioterapi, lege, psykolog, barnevern og barselgruppe
+- sikre språksjekk ved 4-års alder av barn på helsestasjoner
+- at alle gravide skal kunne tilbys regelmessig oppfølging hos jordmor, og ekstra rådgivning/oppfølging ved behov
+- at helsestasjonene skal kunne tilby veiledning med jordmor og/eller helsesøster hjemme i barseltiden
+- at helsestasjonene sikrer god ettervern og oppfølging av kvinner rett etter fødsel, med kvinnehelse i fokus
 
-## Helsetjenester tilpasset folk
-
-**Gamle Oslo Venstre vil:**
-
-## Bedre psykisk helsehjelp
-
-**Gamle Oslo Venstre vil:**
-
-## Human ruspolitikk
-
-**Gamle Oslo Venstre vil:**
-
-## Trygg fødsels- og barselomsorg
+## Folkehelse
+De lokale helsetjenestene skal være gode og tilgjengelige for alle. Samtidig skal det legges til rette for at den enkelte skal
+kunne ta gode valg for å bedre egen helse.
 
 **Gamle Oslo Venstre vil:**
+- at frisklivssentralen skal ha god kapasitet og fungere som en lavterskel informasjons- og rådgivningstjeneste for alle som
+har behov for det
+- styrke Gamle Oslos helsestasjon for ungdom og gjøre seg synlig i skolene bydelen
+- styrke bydelsoverlegenes rolle som medisinskfaglig leder for helse- og omsorgstjenestene på bydelsnivå
+- sikre at alle innbyggere har tilgang til fastlege
+- Sikre tilgang til lavterskeltilbud av primære helsetjenester i bydelen for papirløse og rusavhengige uten fast bopel.
+
+## Psykisk helse
+Mennesker med psykiske plager har ulik behov for hjelp, og hjelpetilbudet må derfor være bredt, allsidig og samtidig gjøre
+det mulig å fungere i eget nærmiljø.
+
+**Gamle Oslo Venstre vil:**
+- legge til rette for et lavterskeltilbud i bydelen der et er mulig å få psykisk helsehjelp uten krav om henvisning fra fastlegen
+- kreve at helseforetakene utarbeider en jevnlig oppdatert liste over ventelistene hos de ulike psykologer/psykiatere i Oslo,
+og gjøre bydelens beboere kjent med hvor de selv kan undersøke ventelister og søke behandling
+- tilby lavterskel samtaletilbud med psykiatrisk sykepleier i bydelen, organisert i tilknytning til frisklivssentralen og/eller
+helsestasjon
+- gi pasienter med kombinerte rus- og psykiske problemer integrert behandling for begge lidelser
+- sikre tilstrekkelig bemanning av psykiatriske sykepleiere i eldreomsorgen
+- støtte Fontenehuset og andre frivillige organisasjoners arbeid for at mennesker med psykiske lidelser får arbeids- og samfunnsmessig tilhørighet
+
+## Rusomsorg
+Rusavhengige skal få tilbud om hjelp som er lett tilgjengelig og som tar i bruk et bredt spekter av virkemidler. Bydelen
+må arbeide lokalt med å forebygge at nye grupper av særlig barn og ungdom får rusproblemer. Pårørende til personer med
+rusproblemer skal ha et tilbud om hjelp.
+
+**Gamle Oslo Venstre vil:**
+- sikre en verdig rusbehandling ved å etablere hvilerom i tilknytning til metadonutdeling på apotek i bydelen
+- sikre tilstrekkelig antall tilrettelagte boliger med nødvendig tilsyn
+- brukerens egne meninger må være en sentral del av oppfølgingen de får i bydelen
+- støtte og ta vare på pårørende gjennom infomasjonsmøter og samtaler med psykolog
+
+## En god alderdom
+Det er få eldre i Gamle Oslo sammenlignet med andre bydeler. Likevel er det forholdsvis mange unge eldre som har et
+hjelpebehov. Det er derfor viktig å legge til rette for gode hjemmetjenester slik at flest mulig kan bo hjemme så lenge som
+mulig, i tillegg til tilstrekkelig antall sykehjemsplasser for de som ikke kan bo hjemme. Alle skal få den hjelpen de trenger
+for å leve et verdig liv. Mange eldre har god helse og kan leve et godt og aktivt liv i høy alder. Det er viktig at kommunen
+tar vare på den ressursen de eldre representerer. Eldre skal møtes med respekt og gis mulighet til å bruke sine evner i ulike
+roller i samfunnet.
+
+**Gamle Oslo Venstre vil:**
+- utvide tilgangen til spesialtilpassede boliger tilsvarende Omsorg+, som gjør det lettere å bo i egen bolig lenger
+- fremme bruk av velferdsteknologi i hjemmetjenesten
+- utvikle samarbeidet med organisasjoner som legger til rette for en aktiv og meningsfull alderdom
+- styrke hjemmetjenesten og vektlegge hverdagsrehabilitering og trening
+- samarbeide med nabobydeler om spesialiserte helsetjenester for å sikre kompetanse og kvalitet i heldøgnstilbud
 
 ## Seksuell og reproduktiv helse
+Et godt helsetilbud omfatter også rett til informasjon om og tilgang på
+prevensjon, abort, familieplanlegging og gjennomføring av svangerskap.
+Tjenestetilbud og informasjon må tilgjengeliggjøres og tilpasses et
+mangfold av språk og kulturelle kontekster. Samtidig må kunnskapen om
+skei seksualitet, helse og kjønnsidentitet styrkes i alle ledd.
 
 **Gamle Oslo Venstre vil:**
+- Utvide åpningstidene på helsestasjon for unge.
+- Styrke seksualitetsundervisningen i Oslos barnehager og i grunnskolen.
+- Fortsette samarbeidet med Sex og Samfunn om seksualitetsundervisning på 9.trinn.
+- Tilgjengeliggjøre informasjon om seksuell og reproduktiv helse på flere språk
+- Sørge for at alle innbyggere får grunnleggende opplæring i kjønns- og seksualitetsmangfold og informasjon om helsetilbud,
+blant annet gjennom å bedre undervisningen om dette i introduksjonsprogrammene og på voksenopplæringen.
+- Tilby kompetanseheving om kjønnsidentitet og seksualitet til personer som jobber tett på barn og unge.
 
-## Fremtidens eldreomsorg
+# Trygghet, Arbeid og mangfold
+Alle mennesker skal ha muligheten til å leve trygge og frie liv i Oslo. Ingen
+mennesker er like, men alle er like mye verdt. Derfor må vi møte folk på ulike
+måter for å løse problemene de har i sine liv.
 
-**Gamle Oslo Venstre vil:**
+I dag er stigmatisering, fattigdom og utenforskap utbredte problemer for
+mange av byens borgere, og det begrenser folks frihet. Samtidig øker ung-
+domskriminaliteten, og flere står uten arbeid og bolig. Venstre vil redusere
+de sosiale forskjellene i Oslo ved å gi utsatte grupper et betydelig løft, føre
+en mer offensiv integreringspolitikk, og få flere folk ut i arbeid. Samtidig
+skal vi skape en tryggere by, sikre alle verdige boforhold, og bekjempe
+rasisme og diskriminering.
 
-# Sosial, trygghet og mangfold
-## En fordomsfri sosialpolitikk
-
-**Gamle Oslo Venstre vil:**
-
-## Asyl og integrering
-
-**Gamle Oslo Venstre vil:**
-
-## Mangfold, rasisme og diskriminering
-
-**Gamle Oslo Venstre vil:**
-
-## Velferd og arbeid
-
-**Gamle Oslo Venstre vil:**
-
-## Kommunale botilbud
-
-**Gamle Oslo Venstre vil:**
-
-## En trygg by
+## Trygghet
+Alle skal være trygge i byen vår, spesielt der vi bor og ferdes til daglig. Gamle Oslo er i hovedsak en trygg bydel, men enkelte
+områder kan oppleves utrygge og har et utfordrende kriminelt bilde. Gamle Oslo Venstre er opptatt av å få alle kommunens
+etater og bydelens krefter til å spille på lag i kampen mot utrygghet.
 
 **Gamle Oslo Venstre vil:**
+- at Oslo kommune og politiet fortsetter samarbeidet om SaLTo for å bekjempe og forebygge rus og kriminalitet
+- sikre at det er god belysning, som ikke skaper lysforurensing, rundt parker, plasser og gater der folk ferdes å nattestid
+- ha mer synlig politi som regelmessig patruljerer i gatene, særlig sentrumsnære strøk i bydelen
+- etablere sosiale og kulturelle møteplasser der en kan samles i trygge omgivelser
+- sørge for tilbud til eldre som gjør det lettere å delta i samfunnslivet, for eksempel ved samlokalisering av tilbud til eldre og andre grupper.
 
-# En moderne kommune
-## En effektiv og tilgjengelig kommune
+## Vold i nære relasjoner
+Vold i nære relasjoner forekommer i alle samfunnslag og blant alle aldersgrupper, og på tross av økt kunnskap om og økt
+fokus på vold i nære relasjoner. Å avdekke slik vold i nære relasjoner, er utfordrende og man må sikre god kompetanse på
+området for å motarbeide og gripe tak der vold avdekkes
 
 **Gamle Oslo Venstre vil:**
+- styrke det forebyggende arbeidet i bydelen mot vold i nære relasjoner og sørge for at tiltakene er samordnet med andre lokale tjenestetilbud
+- øke kompetanse, styrke fagkunnskapen, skape trygghet og felles forståelse blant ansatte i alle tjenester i bydelen om vold i nære relasjoner
+- at samarbeidsavtalen mellom Oslo krisesenter og barneverntjenesten i bydelen følges opp og sikrer at barn som lever i en voldssituasjon får nødvendig hjelp
+- at bydelen skal utpeke en koordinator for, og prioritere arbeidet mot, vold i nære relasjoner
+- at det skal arrangeres kurs for ansatte i skole, barnehage, helsestasjon og tannhelsetjeneste om forholdet mellom taushetsplikt og avvergeplikt,
+og om hvordan vold kan avdekkes og følges opp
 
-## Åpenhet og demokrati
+## Fattigdom
+Gamle Oslo er en bydel med store forskjeller og består av innbyggere med ulik økonomi. Gamle Oslo Venstre ønsker å forbedre
+tilbudet i bydelen ved å forenkle dagens byråkratiske system for ulike støtteordninger, og gjøre det enklere for folk som sliter
+med å få god, individuell behandling og oppfølging. Frivillige organisasjoner og engasjerte innbyggere spiller en avgjørende
+rolle, og må sikres gode rammevilkår.
 
 **Gamle Oslo Venstre vil:**
+- utvide tilbudet om arbeidstrening/voksenopplæring ved å styrke innsatsen i Oslo Voksenopplæring, Quo Vadis og arbeidstreningsbedriftene
+- kartlegge barnas behov ved utmåling av sosialhjelp, og gjennomgå satsene
+- styrke den økonomiske rådgivningstjenesten til NAV for å gi familier opplæring i hvordan gjøre bedre økonomisk valg
+- ha en lokal handlingsplan for å løfte barn i bydelen ut av fattigdom
+- samordne innsatsen til skole, barnevern, rusomsorg og NAV ved oppfølging av barn og familie i krevende livssituasjoner og vurdere sakene helhetlig
+
+## Arbeid og velferd
+NAV er vårt viktigste instans for å få flere i arbeid og forhindre utenforskap og fattigdom. Gjennom avbyråkratisering til fordel
+for tett og helhetlig oppfølging og et mer utstrakt samarbeid med frivillige organisasjoner og næringsliv, kan bydelen lykkes langt bedre med å
+takle levekårsutfordringene i byen.
+
+**Gamle Oslo Venstre vil:**
+- Opprette egne team som jobber tett opp mot barnefamilier med dårlig råd for å gi tilpasset, rask og helhetlig bistand i bydelen
+- ha tett samarbeid mellom NAV-kontorene så de kan jobbe på tvers med den enkelte bruker ( f.eks ved avklaring av botilbud og tilgjengelighet i
+andre bydeler enn de er bosatt)
+- ha som mål at de som henvender seg til NAV i Gamle Oslo for hjelp, skal være i dialog med en veileder innen 48 timer
+- ha tett samarbeidet mellom næringslivet i bydelen, NAV og bydelskontoret for å få flere ut på arbeidspraksis, slik at færre står utenfor arbeidslivet,
+og på den måten sikre at flest mulig personer i bydelen er i aktivitet.
+- ha gode ordninger for nye gründervirksomheter i Gamle Oslo, slik at de kan sysselsette flere lokalt i bydelen.
+- trekke inn også frivillige organisasjoner slik at de uten aktivitet kan bidra med ulike praksis i disse organisasjonene som godkjent aktivitet.
+- jobbe for et storbytillegg på sosialstønaden i hele Oslo, og ha Gamle Oslo som første bydel til å prøve ut dette.
+- styrke ordningen med brukerstyrt personlig assistent (BPA)
+
+## Mangfold og muligheter
+Gamle Oslo er en bydel med mye mangfold og mye av integreringen skjer på bydelsnivå. Venstre vil føre en mer offensiv
+integreringspolitikk der vi både stiller krav og gir muligheter. Mangfold, integrering og muligheter for alle er mål som
+gjennomsyrer alle deler av Venstres politikk. Utdanning, arbeid og bolig er det viktigste for en god integrering som må følges
+tett på bydelsnivå.
+
+**Gamle Oslo Venstre vil:**
+- bekjempe all diskriminering basert på bakgrunn, seksuell orientering, kjønnsuttrykk, kjønnsidentitet , funksjonsevne og religion
+- bekjempe skadelig sosial kontroll, og undertrykkende kulturell og religiøs praksis
+- jobbe for økt foreldredeltakelse både i skolen og fritidsordninger
+- øke tilbudet om sommerjobber for ungdom i bydelen, spesielt rettet mot minoritetsungdom og forenkle ansettelsesprosessene for slike jobber
+- få til gode samarbeidsarenaer og dialog på tvers av bydelens minoritet- og majoritetsgrupper
+- arrangere mangfoldsdager i bydelen for å vise fram all den kulturelle rikdommen som er samlet i bydelen, og som kan bidra inn i skolen, barnehagen,
+sykehjem og andre tilbud til bydelens beboere.
+- jobbe for å etablere gode botrenings- og sikkerhetskurs for nyankomne
+
+# Økonomi og organisering av bydelen
+Det er viktig at Bydelen er organisert på en mest mulig effektivt for å spare inn unødvendige administrative kostnader. Det
+innebærer at man må ta i bruk digitale verktøy som forenkler og avbyråkratisere administrative prosesser. I tillegg ønsker
+venstre å motarbeide at bydelen oppleves som lukket og utilgjengelig for innbyggere som ønsker innsyn og reell mulighet for
+medvirkning i prosesser.
+
+## Effektiv og smart bydel
+Knapphet på ressurser og særlig fokus på effektivisering merkes på de årlige budsjettene. Det er svært viktig at Gamle Oslo
+som bydel henger med på den teknologiske utviklingen og samtidig sikrer å bli mer smart i egen ressursbruk. Dette for å sikre
+et best mulig tilbud til innbyggerne på en mer effektiv og tilpasset måte. Ved å få til dette vil bydelen også være mer rustet
+til å møte fremtiden samt være mer mobil i å flytte ressurser der de trengs mest.
+
+**Gamle Oslo Venstre vil:**
+- at det flyttes mer makt til bydelen og la bydelsutvalgene også selv få tilsette sin bydelsdirektør
+- at ansvaret for grunnskolen legges til bydelen
+- bruke digitalisering og automatisering aktivt til å redusere kommunens kostnader og øke kvaliteten på tjenestene
+- ha et godt system til å håndtere overtallighet i bydelen og raskt kunne flytte på ressurser fra et område til et annet.
+- at inntekter fra beboerparkeringsordningen tilfaller bydelen direkte
+- at innbyggernes personvern skal sikres
+
+## En åpen og sterk bydel
+Demokrati handler om at vi kan velge våre representanter til et godt folkestyret. Barn og unge, eldre og småbarnsfamilier
+er de største brukerne bydelens tjenester. Det er derfor svært viktig at de har en reell påvirkningsmulighet til å medvirke
+politikken som påvirkes deres hverdag. Da er det også viktig at prosessene og beslutningen som tas i bydelen er transparente
+og lett å påvirke tidlig i prosessen.
+
+**Gamle Oslo Venstre vil:**
+- at 16- og 17-åringer skal ha stemmerett ved kommune- og bydelsvalgene i Oslo, og la ungdom som er største brukeren
+av bydelens tilbud velge sine representanter
+- sørge for at flere dokumenter publiseres på nett i fulltekst, og at flere bydels dokumenter publiseres i format slik at de
+er enklere søkbare enn i dag også
+- ha ryddige og synlige prosesser rundt store avgjørelser som påvirker innbyggerne.
