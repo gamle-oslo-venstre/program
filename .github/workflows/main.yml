@@ -11,10 +11,14 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
-    - uses: awalsh128/cache-apt-pkgs-action@latest
-      with:
-        packages: pandoc texlive-latex-base texlive-xetex texlive-latex-extra texlive-extra-utils texlive-fonts-recommended
-        version: 1.0
+    - name: install dependencies
+      run: sudo apt install pandoc texlive-xetex texlive-latex-extra texlive-extra-utils texlive-fonts-recommended
+
+# This cache solution doesn't work with xelatex and friends
+#    - uses: awalsh128/cache-apt-pkgs-action@latest
+#      with:
+#        packages: pandoc texlive-latex-base texlive-xetex texlive-latex-extra texlive-extra-utils texlive-fonts-recommended
+#        version: 1.0
 
     - name: re-run config See https://github.com/awalsh128/cache-apt-pkgs-action/issues/57
       run: sudo update-fmtutil; sudo fmtutil-sys --cnffile /var/lib/texmf/fmtutil.cnf-DEBIAN --cnffile /var/lib/texmf/fmtutil.cnf-TEXLIVEDIST --all; sudo mktexlsr /var/lib/texmf
