@@ -16,11 +16,11 @@ title: |
    |
    | ![Gamle Oslo logo](bgo-symb-pms3308.eps)
    |
-   | ![Venstre logo](Venstre_Hovedlogo_digitalprint_cmyk_positiv.eps)
+   | ![Venstre logo](Venstre-logo-gronn.svg)
 
-mainfont: "OfficinaSans-Book.otf"
+mainfont: "Sora-Regular.ttf"
 mainfontoptions:
-- BoldFont=OfficinaSans-Bold.otf
+- BoldFont=Sora-SemiBold.ttf
 geometry: margin=2cm
 output: pdf_document
 lang: nb-NO
