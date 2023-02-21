@@ -2,9 +2,9 @@
 
 ## Last ned program
 
-  [Gamle Oslo Venstre bydelsprogram 2023-2027 (PDF)](https://gamle-oslo-venstre.github.io/program/gov-bydelsprogram-2019-2023.pdf)
+  [Gamle Oslo Venstre bydelsprogram 2023-2027 (PDF)](https://gamle-oslo-venstre.github.io/program/gov-bydelsprogram-2020-2027.pdf)
 
-  [Gamle Oslo Venstre bydelsprogram 2023-2027 (HTML)](https://gamle-oslo-venstre.github.io/program/gov-bydelsprogram-2019-2023.html)
+  [Gamle Oslo Venstre bydelsprogram 2023-2027 (HTML)](https://gamle-oslo-venstre.github.io/program/gov-bydelsprogram-2023-2027.html)
 
 ## Generere program
 
