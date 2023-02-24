@@ -5,6 +5,7 @@ header-includes:
   - '\raggedright'
   - \usepackage{enumitem}
   - \setlist{leftmargin=5.5mm}
+  - \usepackage[left]{lineno}
 title: |
    | Gamle Oslo Venstre - Bydelsprogram 2023-2027
    | **Andre utkast**
@@ -26,6 +27,7 @@ toc: true
 toc-depth: 2
 ---
 \newpage
+\linenumbers
 # Innledning
 
 Kjære velger,
