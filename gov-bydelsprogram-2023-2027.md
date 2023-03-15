@@ -111,7 +111,7 @@ gjenbruke, ombruke og resirkulere.
 
 * Sørge for at alle har en park eller et grøntområde i gangavstand fra sin bolig.
 * Bevare eksisterende parsell-/kolonihager og skolehager
-* Gjøre det enklere for innbyggere i Gamle Oslo å sortere og resirkulere avfall, blant annet ved å utvide åpningstidene ved gjenbruksstasjonene og sikre
+* Gjøre det enklere for innbyggere og næringslivet/næringsdrivende i Gamle Oslo å sortere og resirkulere avfall, blant annet ved å utvide åpningstidene ved gjenbruksstasjonene og sikre
 et bedre tilbud for innsamling, gjenbruk og gjenvinning av tekstilavfall.
 * At det skal være alternativer til GjenbruksID ved gjenbruksstasjonene
 * Få slutt på overfylte søppeldunker ved å erstatte dem med smartere og mer innovative søppelkasser.
