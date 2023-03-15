@@ -477,7 +477,6 @@ undervisning. Osloskolen må ta tak i disse utfordringene som er svært relevant
 * At kartleggingsprøver først og fremst skal benyttes som pedagogiske verktøy for å gi hvert barn faglige utfordringer på
 riktig nivå og identifisere eventuelle behov for tilrettelagt opplæring
 * Utvide svømmeundervisningen slik at alle barn i bydelen lærer å svømme i løpet av barneskolen
-* Sørge for raskere ferdigstillelse av barne- og ungdomsskole på Sørenga, med bredt opptak fra bydelen
 * Styrke tilbudet til tilpasset opplæring for elever med høyere læringspotensial.
 * Innføre andre fremmedspråk fra femte klasse og gi flere valgmuligheter enn i dag. 
 
