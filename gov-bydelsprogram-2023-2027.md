@@ -406,7 +406,7 @@ penger, og det er Venstre villig til å prioritere.
 
 * At ressursene skal tilpasses behovene på den enkelte skole; det vil si at alle skoler skal være rustet til å gi et godt tilbud
 til sine elever, samtidig som at enkelte skoler skal få nok ressurser til å møte elever som trenger tettere oppfølging.
-* At alle skoleveier skal være trygge og at det tilrettelegges for sykling til skolen.
+* At alle skoleveier skal være trygge og at det tilrettelegges for sykling til og fra skolen.
 * Vil legge til rette for at bydel, lokalt næringsliv og idrettslag inngår forpliktende samarbeid med skolene i nærområdet
 for å hindre fravær på barne- og ungdomstrinnet og frafall fra videregående opplæring.
 * Ha nulltoleranse mot mobbing i skolen.
