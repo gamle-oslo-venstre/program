@@ -436,8 +436,7 @@ foreldre.
 * Sikre lærerne et godt støtteapparat som følger opp elevenes utenomfaglige behov slik at lærerne kan ha fokus på faglig oppfølging.
 
 ## Barnehage
-Gamle Oslo Venstre er opptatt av et mangfold i barnehagetilbudet, slik at du kan velge et tilbud både når det gjelder
-innhold og åpningstid, som passer for deg og din hverdag og der ditt barn trives. Tilstrekkelig med kompetente ansatte, gode
+Gamle Oslo Venstre er opptatt av et mangfold i barnehagetilbudet, slik at du både når det gjelder innhold og åpningstid, kan velge et tilbud som passer for deg og din hverdag og der ditt barn trives. Tilstrekkelig med kompetente ansatte, gode
 uteområder og variasjon i aktivitetstilbudet til barna er viktig for sikre høy kvalitet på barnehagene våre uansett hvem som
 leverer tjenestene.
 
