@@ -367,7 +367,7 @@ hjemme og i nærområdet sitt.
 
 **Gamle Oslo Venstre vil:**
 
-* Innføre flere bomiljøarbeidere for å bedre bomiljøet i og rundt kommunale boliger
+* Ansette flere bomiljøarbeidere for å bedre bomiljøet i og rundt kommunale boliger
 * Forbedre sammensetningen av boliger
 * Øke antall større boenheter i den kommunale boligmassen
 * Spre de kommunale boligene i bydelen
