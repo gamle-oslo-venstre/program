@@ -207,6 +207,7 @@ reise miljøvennlig
 * 20-bussen skal gå hele veien til Kværnerbyen/Svartdalsparken, via Dahlhaugs- og Enebakkveien slik at Svartdalsparken og området blir
 lettere tilgjengelig for bydelen.
 * Sørenga kan bli teststed for selvkjørende busser
+* At det fremtidige, permanente busstoppet for Sørenga blir innerst i Lohavn
 
 ## Fremtidens T-banenett
 T-banen er grunnstammen i kollektivtrafikken i Oslo. T-banenettet må utvides for å nå nye områder, og kapasiteten gjennom sentrum må økes for å
