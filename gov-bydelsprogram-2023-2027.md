@@ -788,8 +788,7 @@ det mulig å fungere i eget nærmiljø.
 **Gamle Oslo Venstre vil:**
 
 * legge til rette for et lavterskeltilbud i bydelen der et er mulig å få psykisk helsehjelp uten krav om henvisning fra fastlegen
-* kreve at helseforetakene utarbeider en jevnlig oppdatert liste over ventelistene hos de ulike psykologer/psykiatere i Oslo,
-og gjøre bydelens beboere kjent med hvor de selv kan undersøke ventelister og søke behandling
+* sørge for at felles henvisningsmottak ivaretar bydelens innbyggere sine behov, og at det er tydelig for bydelens beboere hvordan de søker behandling hos psykolog/psykiater
 * tilby lavterskel samtaletilbud med psykiatrisk sykepleier i bydelen, organisert i tilknytning til frisklivssentralen og/eller
 helsestasjon
 * gi pasienter med kombinerte rus- og psykiske problemer integrert behandling for begge lidelser
