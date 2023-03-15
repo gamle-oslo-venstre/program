@@ -89,7 +89,7 @@ som byen blir bedre å bo i.
 
 * At Gamle Oslo skal være en nullutslippsbydel innen 2030.
 * Stille strenge klima- og miljøkrav når utbyggingsområder planlegges.
-* At byggeplasser i bydelen blir utslippsfrie.
+* At alle byggeplassene i bydelen blir utslippsfrie.
 * Stille krav om ren energiproduksjon og vegetasjon på tak og fasader i nye større bygg og lage incentiver for dette for eksisterende bygg, for å bidra til
 klimatilpasning og økt biologisk mangfold.
 * Øke produksjonen av fornybar energi i Oslo-området, blant annet ved å legge til rette for økt bruk av solceller på tak.
