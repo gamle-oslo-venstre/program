@@ -206,7 +206,7 @@ Det handler om at du skal komme deg dit du skal på en god og miljøvennlig måt
 reise miljøvennlig
 * 20-bussen skal gå hele veien til Kværnerbyen/Svartdalsparken, via Dahlhaugs- og Enebakkveien slik at Svartdalsparken og området blir
 lettere tilgjengelig for bydelen.
-* At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
+* Sørenga kan bli teststed for selvkjørende busser
 
 ## Fremtidens T-banenett
 T-banen er grunnstammen i kollektivtrafikken i Oslo. T-banenettet må utvides for å nå nye områder, og kapasiteten gjennom sentrum må økes for å
@@ -306,7 +306,7 @@ Middelalderparken og en bedre kobling mot Grønland
 * Tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb, seiling og vindsurfing
 * Få på plass en grunnskole på Sørenga
 * At fritidsanlegg som har blitt neglisjert raskest mulig blir istandsatt og vedlikeholdt
-* At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
+* At Sørenga kan bli teststed for selvkjørende busser
 * At renhold, søppeltømming og toalettfasiliteter reflekterer behovet som skapes av det store antallet badegjester
 * Sørge for en permanent broovergang fra Sukkerbiten eller Munchmuseet til Sørenga
 * At det etableres offentlige toalettfasiliteter ved den nye badeplassen mellom Operaen og Sukkerbiten
