@@ -89,7 +89,7 @@ som byen blir bedre å bo i.
 
 * At Gamle Oslo skal være en nullutslippsbydel innen 2030.
 * Stille strenge klima- og miljøkrav når utbyggingsområder planlegges.
-* At byggeplasser i bydelen blir utslippsfrie.
+* At byggeplassene i bydelen blir utslippsfrie.
 * Stille krav om ren energiproduksjon og vegetasjon på tak og fasader i nye større bygg og lage incentiver for dette for eksisterende bygg, for å bidra til
 klimatilpasning og økt biologisk mangfold.
 * Øke produksjonen av fornybar energi i Oslo-området, blant annet ved å legge til rette for økt bruk av solceller på tak.
@@ -111,7 +111,7 @@ gjenbruke, ombruke og resirkulere.
 
 * Sørge for at alle har en park eller et grøntområde i gangavstand fra sin bolig.
 * Bevare eksisterende parsell-/kolonihager og skolehager
-* Gjøre det enklere for innbyggere i Gamle Oslo å sortere og resirkulere avfall, blant annet ved å utvide åpningstidene ved gjenbruksstasjonene og sikre
+* Gjøre det enklere for innbyggere og næringsdrivende i Gamle Oslo å sortere og resirkulere avfall, blant annet ved å utvide åpningstidene ved gjenbruksstasjonene og sikre
 et bedre tilbud for innsamling, gjenbruk og gjenvinning av tekstilavfall.
 * At det skal være alternativer til GjenbruksID ved gjenbruksstasjonene
 * Få slutt på overfylte søppeldunker ved å erstatte dem med smartere og mer innovative søppelkasser.
@@ -188,6 +188,7 @@ egenhånd.
 * Sørge for at Sentrumsnære områder i stor grad er steng for bilisme, men tilrettelagt for HC; varelevering og tjeneseutøvelse.
 * Jobbe for at alle offentlige områder i Gamle Oslo blir universelt utformet.
 * opprette flere bysykkelstasjoner og parkeringer i bydelens områder, deriblant ved Kampen-trappa, Valle-Hovin og Harald Hårdrådes plass
+* Sikre bedre dekning og sirkulasjon av bysykler hele året.
 
 ## Kollektivtransport
 Venstre vil være en garantist for at kollektivtrafikken i Oslo skal være rimelig, ha hyppige avganger og nå ut til flest mulig.
@@ -205,7 +206,7 @@ Det handler om at du skal komme deg dit du skal på en god og miljøvennlig måt
 reise miljøvennlig
 * 20-bussen skal gå hele veien til Kværnerbyen/Svartdalsparken, via Dahlhaugs- og Enebakkveien slik at Svartdalsparken og området blir
 lettere tilgjengelig for bydelen.
-* At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
+* Sørenga kan bli teststed for selvkjørende busser
 * At det fremtidige, permanente busstoppet for Sørenga blir innerst i Lohavn
 
 ## Fremtidens T-banenett
@@ -306,7 +307,7 @@ Middelalderparken og en bedre kobling mot Grønland
 * Tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb, seiling og vindsurfing
 * Få på plass en grunnskole på Sørenga
 * At fritidsanlegg som har blitt neglisjert raskest mulig blir istandsatt og vedlikeholdt
-* At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
+* At Sørenga kan bli teststed for selvkjørende busser
 * At renhold, søppeltømming og toalettfasiliteter reflekterer behovet som skapes av det store antallet badegjester
 * Sørge for en permanent broovergang fra Sukkerbiten eller Munchmuseet til Sørenga
 * At det etableres offentlige toalettfasiliteter ved den nye badeplassen mellom Operaen og Sukkerbiten
@@ -332,7 +333,6 @@ Middelalderparken og en bedre kobling mot Bjørvika
 * Redusere hastigheten på Grenseveien og sikre bedre fortau og sykkelveier.
 * Gjøre Gladengveien, Ensjøveien og Strømsveien tryggere for myke trafikanter ved å ytterligere redusere hastighet og gjennomkjøring.
 * Bygge et nytt kryss i skjæringen Gladengveien og Ensjøveien.
-* Gjøre det forbudt for biler å krysse bommen på Galgeberg som skaper mye trafikkgjennomgang gjennom Vålerenga.
 * Sørge for at det blir regulert tilstrekkelig med barnehager, skoler og grøntarealer i nye boligområder som i Hovinbyen.
 * Bedre trafikkforbindelsen mellom Bryn og Carl Berners plass med trikk i Østensjøveien/Grenseveien.
 * Tilrettelegge for flere elbilparkeringsplasser på Valle, Lilleberg og Malerhaugen.
