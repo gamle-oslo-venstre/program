@@ -307,7 +307,6 @@ Middelalderparken og en bedre kobling mot Grønland
 * At fritidsanlegg som har blitt neglisjert raskest mulig blir istandsatt og vedlikeholdt
 * At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
 * At renhold, søppeltømming og toalettfasiliteter reflekterer behovet som skapes av det store antallet badegjester
-* Sørge for en permanent broovergang fra Sukkerbiten eller Munchmuseet til Sørenga
 * At det etableres offentlige toalettfasiliteter ved den nye badeplassen mellom Operaen og Sukkerbiten
 * At det vurderes etablering av et oppvarmet badeanlegg i området, slik de har i Helsinki
 * Jobbe for å få på plass en permanent bru mellom Sørenga og Sukkerbiten.
