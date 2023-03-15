@@ -866,7 +866,7 @@ etater og bydelens krefter til å spille på lag i kampen mot utrygghet.
 
 **Gamle Oslo Venstre vil:**
 
-* at Oslo kommune og politiet fortsetter samarbeidet om SaLTo for å bekjempe og forebygge rus og kriminalitet
+* at Oslo kommune og politiet fortsetter med  samarbeidsmodellen SaLTo - modellen som er laget for å bekjempe og forebygge rus og kriminalitet i Oslo
 * sikre at det er god belysning, som ikke skaper lysforurensing, rundt parker, plasser og gater der folk ferdes å nattestid
 * ha mer synlig politi som regelmessig patruljerer i gatene, særlig sentrumsnære strøk i bydelen
 * etablere sosiale og kulturelle møteplasser der en kan samles i trygge omgivelser
