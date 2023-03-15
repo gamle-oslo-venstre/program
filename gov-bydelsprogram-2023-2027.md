@@ -494,7 +494,7 @@ deltakelsen i AKS blant de elevene som trenger mer oppfølging og trening i ferd
 innholdsrik hverdag
 
 ## Ungdomsskolen
-Det er bekymringsverdig at motivasjonen og læringen til Oslos elever faller
+Det er bekymringsfullt at motivasjonen og læringen til Oslos elever faller
 når de starter på ungdomsskolen. Det trengs tiltak for å sikre at flere
 fullfører grunnskolen med et godt utgangspunkt for videre utdanning.
 Ungdomsskolen skal motivere og engasjere elever til å fordype seg i fagene
