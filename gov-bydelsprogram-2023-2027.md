@@ -302,6 +302,7 @@ fra Tøyen torg.
 **I Bispevika delbydel (Bjørvika og Sørenga) vil Gamle Oslo Venstre:**
 
 * Etablere en bussrute som gir besøkende og beboere tilgang til offentlig transport, på Sørenga i første omgang.
+* At det fremtidige, permanente busstoppet for Sørenga blir innerst i Lohavn
 * Etablere et grøntlokk med sykkeltrasé over jernbanelinjene ved Oslo S for å skape en sammenhengende park mot
 Middelalderparken og en bedre kobling mot Grønland
 * Tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb, seiling og vindsurfing
