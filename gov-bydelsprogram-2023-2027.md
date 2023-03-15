@@ -188,6 +188,7 @@ egenhånd.
 * Sørge for at Sentrumsnære områder i stor grad er steng for bilisme, men tilrettelagt for HC; varelevering og tjeneseutøvelse.
 * Jobbe for at alle offentlige områder i Gamle Oslo blir universelt utformet.
 * opprette flere bysykkelstasjoner og parkeringer i bydelens områder, deriblant ved Kampen-trappa, Valle-Hovin og Harald Hårdrådes plass
+* Sikre bedre dekning og sirkulasjon av bysykler hele året.
 
 ## Kollektivtransport
 Venstre vil være en garantist for at kollektivtrafikken i Oslo skal være rimelig, ha hyppige avganger og nå ut til flest mulig.
