@@ -89,7 +89,7 @@ som byen blir bedre å bo i.
 
 * At Gamle Oslo skal være en nullutslippsbydel innen 2030.
 * Stille strenge klima- og miljøkrav når utbyggingsområder planlegges.
-* At byggeplasser i bydelen blir utslippsfrie.
+* At byggeplassene i bydelen blir utslippsfrie.
 * Stille krav om ren energiproduksjon og vegetasjon på tak og fasader i nye større bygg og lage incentiver for dette for eksisterende bygg, for å bidra til
 klimatilpasning og økt biologisk mangfold.
 * Øke produksjonen av fornybar energi i Oslo-området, blant annet ved å legge til rette for økt bruk av solceller på tak.
@@ -111,7 +111,7 @@ gjenbruke, ombruke og resirkulere.
 
 * Sørge for at alle har en park eller et grøntområde i gangavstand fra sin bolig.
 * Bevare eksisterende parsell-/kolonihager og skolehager
-* Gjøre det enklere for innbyggere i Gamle Oslo å sortere og resirkulere avfall, blant annet ved å utvide åpningstidene ved gjenbruksstasjonene og sikre
+* Gjøre det enklere for innbyggere og næringsdrivende i Gamle Oslo å sortere og resirkulere avfall, blant annet ved å utvide åpningstidene ved gjenbruksstasjonene og sikre
 et bedre tilbud for innsamling, gjenbruk og gjenvinning av tekstilavfall.
 * At det skal være alternativer til GjenbruksID ved gjenbruksstasjonene
 * Få slutt på overfylte søppeldunker ved å erstatte dem med smartere og mer innovative søppelkasser.
@@ -188,6 +188,7 @@ egenhånd.
 * Sørge for at Sentrumsnære områder i stor grad er steng for bilisme, men tilrettelagt for HC; varelevering og tjeneseutøvelse.
 * Jobbe for at alle offentlige områder i Gamle Oslo blir universelt utformet.
 * opprette flere bysykkelstasjoner og parkeringer i bydelens områder, deriblant ved Kampen-trappa, Valle-Hovin og Harald Hårdrådes plass
+* Sikre bedre dekning og sirkulasjon av bysykler hele året.
 
 ## Kollektivtransport
 Venstre vil være en garantist for at kollektivtrafikken i Oslo skal være rimelig, ha hyppige avganger og nå ut til flest mulig.
@@ -205,7 +206,8 @@ Det handler om at du skal komme deg dit du skal på en god og miljøvennlig måt
 reise miljøvennlig
 * 20-bussen skal gå hele veien til Kværnerbyen/Svartdalsparken, via Dahlhaugs- og Enebakkveien slik at Svartdalsparken og området blir
 lettere tilgjengelig for bydelen.
-* At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
+* Sørenga kan bli teststed for selvkjørende busser
+* At det fremtidige, permanente busstoppet for Sørenga blir innerst i Lohavn
 
 ## Fremtidens T-banenett
 T-banen er grunnstammen i kollektivtrafikken i Oslo. T-banenettet må utvides for å nå nye områder, og kapasiteten gjennom sentrum må økes for å
@@ -300,17 +302,16 @@ fra Tøyen torg.
 **I Bispevika delbydel (Bjørvika og Sørenga) vil Gamle Oslo Venstre:**
 
 * Etablere en bussrute som gir besøkende og beboere tilgang til offentlig transport, på Sørenga i første omgang.
+* At det fremtidige, permanente busstoppet for Sørenga blir innerst i Lohavn
 * Etablere et grøntlokk med sykkeltrasé over jernbanelinjene ved Oslo S for å skape en sammenhengende park mot
 Middelalderparken og en bedre kobling mot Grønland
 * Tilrettelegge for foreninger med fokus på sjøliv, for eksempel kajakklubb, roklubb, seiling og vindsurfing
 * Få på plass en grunnskole på Sørenga
 * At fritidsanlegg som har blitt neglisjert raskest mulig blir istandsatt og vedlikeholdt
-* At 81-bussen også skal kjøre innom Sørenga og at Sørenga kan bli teststed for selvkjørende busser
+* At Sørenga kan bli teststed for selvkjørende busser
 * At renhold, søppeltømming og toalettfasiliteter reflekterer behovet som skapes av det store antallet badegjester
-* Sørge for en permanent broovergang fra Sukkerbiten eller Munchmuseet til Sørenga
 * At det etableres offentlige toalettfasiliteter ved den nye badeplassen mellom Operaen og Sukkerbiten
 * At det vurderes etablering av et oppvarmet badeanlegg i området, slik de har i Helsinki
-* Jobbe for å få på plass en permanent bru mellom Sørenga og Sukkerbiten.
 
 **På Grønland og Enerhaugen delbydeler vil Gamle Oslo Venstre:**
 
@@ -331,7 +332,6 @@ Middelalderparken og en bedre kobling mot Bjørvika
 * Redusere hastigheten på Grenseveien og sikre bedre fortau og sykkelveier.
 * Gjøre Gladengveien, Ensjøveien og Strømsveien tryggere for myke trafikanter ved å ytterligere redusere hastighet og gjennomkjøring.
 * Bygge et nytt kryss i skjæringen Gladengveien og Ensjøveien.
-* Gjøre det forbudt for biler å krysse bommen på Galgeberg som skaper mye trafikkgjennomgang gjennom Vålerenga.
 * Sørge for at det blir regulert tilstrekkelig med barnehager, skoler og grøntarealer i nye boligområder som i Hovinbyen.
 * Bedre trafikkforbindelsen mellom Bryn og Carl Berners plass med trikk i Østensjøveien/Grenseveien.
 * Tilrettelegge for flere elbilparkeringsplasser på Valle, Lilleberg og Malerhaugen.
@@ -366,7 +366,7 @@ hjemme og i nærområdet sitt.
 
 **Gamle Oslo Venstre vil:**
 
-* Innføre flere bomiljøarbeidere for å bedre bomiljøet i og rundt kommunale boliger
+* Ansette flere bomiljøarbeidere for å bedre bomiljøet i og rundt kommunale boliger
 * Forbedre sammensetningen av boliger
 * Øke antall større boenheter i den kommunale boligmassen
 * Spre de kommunale boligene i bydelen
@@ -405,7 +405,7 @@ penger, og det er Venstre villig til å prioritere.
 
 * At ressursene skal tilpasses behovene på den enkelte skole; det vil si at alle skoler skal være rustet til å gi et godt tilbud
 til sine elever, samtidig som at enkelte skoler skal få nok ressurser til å møte elever som trenger tettere oppfølging.
-* At alle skoleveier skal være trygge og at det tilrettelegges for sykling til skolen.
+* At alle skoleveier skal være trygge og at det tilrettelegges for sykling til og fra skolen.
 * Vil legge til rette for at bydel, lokalt næringsliv og idrettslag inngår forpliktende samarbeid med skolene i nærområdet
 for å hindre fravær på barne- og ungdomstrinnet og frafall fra videregående opplæring.
 * Ha nulltoleranse mot mobbing i skolen.
@@ -436,8 +436,7 @@ foreldre.
 * Sikre lærerne et godt støtteapparat som følger opp elevenes utenomfaglige behov slik at lærerne kan ha fokus på faglig oppfølging.
 
 ## Barnehage
-Gamle Oslo Venstre er opptatt av et mangfold i barnehagetilbudet, slik at du kan velge et tilbud både når det gjelder
-innhold og åpningstid, som passer for deg og din hverdag og der ditt barn trives. Tilstrekkelig med kompetente ansatte, gode
+Gamle Oslo Venstre er opptatt av et mangfold i barnehagetilbudet, slik at du både når det gjelder innhold og åpningstid, kan velge et tilbud som passer for deg og din hverdag og der ditt barn trives. Tilstrekkelig med kompetente ansatte, gode
 uteområder og variasjon i aktivitetstilbudet til barna er viktig for sikre høy kvalitet på barnehagene våre uansett hvem som
 leverer tjenestene.
 
@@ -494,7 +493,7 @@ deltakelsen i AKS blant de elevene som trenger mer oppfølging og trening i ferd
 innholdsrik hverdag
 
 ## Ungdomsskolen
-Det er bekymringsverdig at motivasjonen og læringen til Oslos elever faller
+Det er bekymringsfullt at motivasjonen og læringen til Oslos elever faller
 når de starter på ungdomsskolen. Det trengs tiltak for å sikre at flere
 fullfører grunnskolen med et godt utgangspunkt for videre utdanning.
 Ungdomsskolen skal motivere og engasjere elever til å fordype seg i fagene
