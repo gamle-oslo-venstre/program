@@ -312,7 +312,6 @@ Middelalderparken og en bedre kobling mot Grønland
 * Sørge for en permanent broovergang fra Sukkerbiten eller Munchmuseet til Sørenga
 * At det etableres offentlige toalettfasiliteter ved den nye badeplassen mellom Operaen og Sukkerbiten
 * At det vurderes etablering av et oppvarmet badeanlegg i området, slik de har i Helsinki
-* Jobbe for å få på plass en permanent bru mellom Sørenga og Sukkerbiten.
 
 **På Grønland og Enerhaugen delbydeler vil Gamle Oslo Venstre:**
 
