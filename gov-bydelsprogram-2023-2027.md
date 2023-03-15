@@ -514,7 +514,6 @@ i bydelen
 * Sørge for at retten til plass på nærskolen er reell
 * Åpne for et ekstra skoleår mellom ungdomsskolen og videregående for å kvalifisere flere til vgs ved Jordal ungdomsskole
 * Lage tilbud med intensivkurs for elever som ønsker å styrke kunnskapene sine i enkeltfag før videregående opplæring
-* Sørge for raskere ferdigstillelse av barne- og ungdomsskole på Sørenga, med bredt opptak fra bydelen
 
 ## Videregående opplæring
 Vi har flere videregående skoler plassert i bydelen vår som er viktig for tilbudet for ungdom fra hele byen.
