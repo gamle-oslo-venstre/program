@@ -8,7 +8,7 @@ header-includes:
   - \usepackage[left]{lineno}
 title: |
    | Gamle Oslo Venstre - Bydelsprogram 2023-2027
-   | **Andre utkast**
+   |
    |
    |
    |
