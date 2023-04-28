@@ -32,7 +32,8 @@ toc-depth: 2
 
 Kjære velger,
 
-Som Gamle Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet, samtidig som vi tar vare på naturen og hverandre. Vår visjon er en grønnere, friere og rausere bydel, noe som ligger til grunn for dette programmet.
+Som Gamle Oslos liberale parti kjemper vi for å gi hvert enkelt menneske størst mulig frihet, samtidig som vi tar vare på naturen og hverandre. Vår visjon er en grønnere, friere og rausere bydel,
+noe som ligger til grunn for dette programmet.
 
 Vi skal gjøre Gamle Oslo til foregangsbydel i klima- og miljøpolitikken, samtidig som vi tar vare på den unike atmosfæren, og det brede, inkluderende og flerkulturelle miljøet vi har.
 
