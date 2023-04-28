@@ -8,7 +8,7 @@ header-includes:
   - \usepackage[left]{lineno}
 title: |
    | Gamle Oslo Venstre - Bydelsprogram 2023-2027
-   | **Andre utkast**
+   |
    |
    |
    |
@@ -41,12 +41,10 @@ For å sikre en grønn og klimavennlig bydel, må det bli billigere å ta miljø
 Derfor vil Venstre ha billigere og bedre kollektivtransport, og gjøre byen mer tilgjengelig for syklister og gående.
 Samtidig skal vi stanse nedbyggingen av natur, og ta vare på de fine grøntområdene vi har i bydelen, ruste opp parker, og rense Oslofjorden og gjøre den tilgjengelig for alle.
 
-Det skal være trygt og godt å vokse opp i Oslo.
-Som liberale er vi opptatt av å gi barn og unge en utdanning og oppvekst som skaper like muligheter for alle.
+Det skal være trygt og godt å vokse opp i Oslo. Som liberale er vi opptatt av å gi barn og unge en utdanning og oppvekst som skaper like muligheter for alle.
 Venstre satser på skolen fordi kunnskap er nøkkelen til å løse utfordringene vi står overfor og utjevne sosiale forskjeller. Slik danner vi grunnlaget for at folk kan leve frie og gode liv.
 
-Noe av det beste med Oslo er at vi har kultur for enhver smak, sjarmerende butikker og kulturbygg i verdensklasse, store smaksopplevelser
-og små nabolagskafeer, brennende idrettsglede og steder å nyte roen. Derfor heier vi på ildsjeler som beriker byen, på et fritt og mangfoldig kulturliv og på dem som vil skape en arbeidsplass for seg selv og noen til. 
+Noe av det beste med Oslo er at vi har kultur for enhver smak, sjarmerende butikker og kulturbygg i verdensklasse, store smaksopplevelser og små nabolagskafeer, brennende idrettsglede og steder å nyte roen. Derfor heier vi på ildsjeler som beriker byen, på et fritt og mangfoldig kulturliv og på dem som vil skape en arbeidsplass for seg selv og noen til. 
 Vi vet at Oslo blir best når alle gode krefter bidrar og kommunen spiller på lag med næringslivet, frivilligheten og innbyggerne. 
  
 Gamle Oslo skal være en raus og inkluderende bydel med plass til alle, uavhengig av bakgrunn, legning, livssyn, kjønn, alder, funksjonsevne og livssituasjon. Derfor er Venstre opptatt av å stå opp for de som trenger det mest.
@@ -475,7 +473,7 @@ ansvarsområder og det er viktig å sikre et godt tilbud for skolene.
 * Jobbe for å ta igjen vedlikeholdsetterslepet i Osloskolen.
 * Gjennomføre et grønt skolegårdsløft i byens skolegårder og uteområdene i barnehagene.
 * Styrke skolebibliotektjenesten ved å ha gode innkjøpsbudsjetter, lengre åpningstider og kvalifisert personale på alle skolebibliotek og samarbeid med lokale bibliotek.
-* Sikre at religiøse og kulturelle normer ikke hindrer barns deltakelse i undervisning, samtidig som det religiøse og kulturelle  mangfoldet blant elevene blir respektert.
+* Sikre at religiøse og kulturelle normer ikke hindrer barns deltakelse i undervisning, samtidig som det religiøse og kulturelle mangfoldet blant elevene blir respektert.
 
 ## Studenter
 Oslo skal være landets beste studentby. Studenter tilfører byen liv og kultur og er en viktig del av Oslo befolkning. I dag er det er vanskelig for studenter å finne seg rimelige og egnede boliger, og for mange tilbud oppleves dyre og utilgjengelige for studenter med dårlig råd. Vi må tilrettelegge for flere studentboliger og et bedre og rimeligere kulturtilbud for studenter.
