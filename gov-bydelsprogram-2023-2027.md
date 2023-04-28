@@ -332,6 +332,7 @@ Middelalderparken og en bedre kobling mot Bjørvika
 * Redusere hastigheten på Grenseveien og sikre bedre fortau og sykkelveier.
 * Gjøre Gladengveien, Ensjøveien og Strømsveien tryggere for myke trafikanter ved å ytterligere redusere hastighet og gjennomkjøring.
 * Bygge et nytt kryss i skjæringen Gladengveien og Ensjøveien.
+* Gjøre det forbudt for biler å krysse bommen på Galgeberg som skaper mye trafikkgjennomgang gjennom Vålerenga.
 * Sørge for at det blir regulert tilstrekkelig med barnehager, skoler og grøntarealer i nye boligområder som i Hovinbyen.
 * Bedre trafikkforbindelsen mellom Bryn og Carl Berners plass med trikk i Østensjøveien/Grenseveien.
 * Tilrettelegge for flere elbilparkeringsplasser på Valle, Lilleberg og Malerhaugen.
