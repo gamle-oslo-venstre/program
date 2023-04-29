@@ -6,6 +6,8 @@ header-includes:
   - \usepackage{enumitem}
   - \setlist{leftmargin=5.5mm}
   - \usepackage[left]{lineno}
+  - \setlength{\parskip}{1em}
+linestretch: 1.2
 title: |
    | Gamle Oslo Venstre - Bydelsprogram 2023-2027
    |
